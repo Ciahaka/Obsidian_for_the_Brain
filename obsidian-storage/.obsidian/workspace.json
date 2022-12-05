@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f37ddf77bd0f158",
+        "id": "974ff92153fb27e5",
         "type": "tabs",
         "children": [
           {
-            "id": "95f8f239ba7825db",
+            "id": "dd56ed2be83bd526",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,6 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a531a40b890d1a5",
-  "lastOpenFiles": []
+  "active": "dd56ed2be83bd526",
+  "lastOpenFiles": [
+    "obsidian help/Синронизация с git.md",
+    "Вложения/Pasted image 20221109185826.png",
+    "Вложения/Pasted image 20221127004220.png",
+    "04_hr Позвонит.md",
+    "05_Computer Science Interview.md",
+    "кастомный хук.md",
+    "Деструктуризация.md",
+    "06_допы с Игорем.md",
+    "Библиотеки/storybook.md",
+    "useState.md"
+  ]
 }
