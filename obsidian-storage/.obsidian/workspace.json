@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "e93f4d92f9a13336",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f37ddf77bd0f158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95f8f239ba7825db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b28d08c220cf8be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4009a4d93966202",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a531a40b890d1a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e27a74294d4dd1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96606139694d3391",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12d41c2f7a2cd3c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9158940963e7d912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4c88364136c7ac9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59e114989da04d1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d26c5817d7695656",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b957d38e415fb71a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1a531a40b890d1a5",
+  "lastOpenFiles": []
+}
