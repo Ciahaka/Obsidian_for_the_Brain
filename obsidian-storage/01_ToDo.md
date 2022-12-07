@@ -20,7 +20,8 @@
 [53:54](https://youtu.be/ut7SbOKilZE?t=3114) - затенение выполненных тасок
 [12:00](https://www.youtube.com/watch?v=mF6NfolktTY&t=720s) – массив todolists
 [16:20](https://www.youtube.com/watch?v=mF6NfolktTY&t=980s) – фильтрация тасок для каждого todolist
-[18:49](https://youtu.be/mF6NfolktTY?t=1131) - коррекция функции изменения фильтра 
+[18:49](https://youtu.be/mF6NfolktTY?t=1131) - коррекция функции изменения фильтра
+
 [23:52](https://youtu.be/mF6NfolktTY?t=1432) - помещаем переменную с тудулистами в useState
 [24:29](https://youtu.be/mF6NfolktTY?t=1495) - модифицируем функцию изменения фильтра  
 [29:00](https://www.youtube.com/watch?v=mF6NfolktTY&t=1740s) – где хранить таски
