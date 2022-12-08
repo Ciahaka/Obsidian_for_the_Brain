@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "universal input.md",
+                "file": "алгоритмы запуска/Git Hub pages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universal input.md",
+                "file": "алгоритмы запуска/Git Hub pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universal input.md",
+                "file": "алгоритмы запуска/Git Hub pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universal input.md"
+                "file": "алгоритмы запуска/Git Hub pages.md"
               }
             }
           }
@@ -138,13 +138,13 @@
   },
   "active": "dd56ed2be83bd526",
   "lastOpenFiles": [
+    "universal input.md",
     "07_Практики и алгоритмы кодинга.md",
     "useState.md",
     "useEffect.md",
     "universal button.md",
     "test for git.md",
     "callback.md",
-    "universal input.md",
     "алгоритмы запуска/Git Hub pages.md",
     "алгоритмы запуска/Создание react приложения.md",
     "01_ToDo.md"
