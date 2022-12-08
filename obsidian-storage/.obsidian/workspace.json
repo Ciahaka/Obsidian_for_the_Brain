@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "алгоритмы запуска/Git Hub pages.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "алгоритмы запуска/Git Hub pages.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "алгоритмы запуска/Git Hub pages.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "алгоритмы запуска/Git Hub pages.md"
+                "file": "07_Практики и алгоритмы кодинга.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "dd56ed2be83bd526",
   "lastOpenFiles": [
+    "universal button.md",
+    "test for git.md",
+    "callback.md",
+    "07_Практики и алгоритмы кодинга.md",
+    "universal input.md",
+    "алгоритмы запуска/Git Hub pages.md",
     "алгоритмы запуска/Создание react приложения.md",
     "01_ToDo.md",
     "local storage.md",
-    "session storage.md",
-    "куки.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/find.md",
-    "02_Native JS_TS.md",
-    "Links/Полезные ссылки/Вёрстка.md",
-    "obsidian help/Синронизация с git.md",
-    "Вложения/Pasted image 20221109185826.png"
+    "session storage.md"
   ]
 }
