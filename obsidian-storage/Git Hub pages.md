@@ -1,3 +1,6 @@
 1. В файле package.json проекта прописываем домашнюю страницу своего проекта и имя проекта
         ''name'': ''имя проекта''
-        "homepage": "https"
+        "homepage": "https://Chiahaka.github.io/ имя проекта"
+2. В терминале WS прописываем команду
+        yarn add gh-pages
+3. 
