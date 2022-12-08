@@ -16,7 +16,7 @@
 10. Проверяем скрытые папки на наличие папки '! git' . По умолчанию обычно присутствует
 11. Вводим команды в консоли Git Bash
         git branch -M main
-        git remote add origin .......
+        git remote add origin ….
         git push -u origin main
 Команды лежат во вновь созданном репозитории
 12. Обновляем страницу GitHub и проверяем наличие папки idea.
