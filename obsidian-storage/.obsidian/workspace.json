@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6323ff6a2adc198f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Глубокое копирование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "JS/Глубокое копирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "JS/Глубокое копирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md"
+                "file": "JS/Глубокое копирование.md"
               }
             }
           }
@@ -136,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c846e4d7d6365d0",
+  "active": "6323ff6a2adc198f",
   "lastOpenFiles": [
+    "алгоритмы запуска/Создание react приложения.md",
     "06_допы с Игорем.md",
     "04_hr Позвонит.md",
     "01_ToDo.md",
@@ -146,7 +160,6 @@
     "universal input.md",
     "07_Практики и алгоритмы кодинга.md",
     "useState.md",
-    "useEffect.md",
-    "universal button.md"
+    "useEffect.md"
   ]
 }
