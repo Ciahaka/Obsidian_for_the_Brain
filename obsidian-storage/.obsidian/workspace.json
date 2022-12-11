@@ -23,11 +23,9 @@
             "id": "6323ff6a2adc198f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02_Native JS_TS.md",
-                "mode": "source",
-                "source": false
+                "file": "Вложения/Pasted image 20221127004220.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "Вложения/Pasted image 20221127004220.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "Вложения/Pasted image 20221127004220.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Native JS_TS.md"
+                "file": "Вложения/Pasted image 20221127004220.png"
               }
             }
           }
@@ -151,15 +149,15 @@
   },
   "active": "6323ff6a2adc198f",
   "lastOpenFiles": [
-    "Деструктуризация.md",
-    "Деструктуризация объекта.md",
-    "02_Native JS_TS.md",
+    "Вложения/Pasted image 20221127004454.png",
+    "Вложения/Pasted image 20221129202756.png",
+    "session storage.md",
+    "universal input.md",
+    "07_Практики и алгоритмы кодинга.md",
     "JS/Глубокое копирование.md",
-    "JS/События.md",
-    "алгоритмы запуска/Создание react приложения.md",
-    "06_допы с Игорем.md",
-    "04_hr Позвонит.md",
-    "01_ToDo.md",
-    "алгоритмы запуска/Git Hub pages.md"
+    "JS/Функция/Чистая функция (Pure Function).md",
+    "JS/Функция/Иммутабельность.md",
+    "JS/Функция/детерменированность.md",
+    "02_Native JS_TS.md"
   ]
 }
