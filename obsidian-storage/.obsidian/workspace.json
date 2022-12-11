@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06_допы с Игорем.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06_допы с Игорем.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06_допы с Игорем.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06_допы с Игорем.md"
+                "file": "алгоритмы запуска/Создание react приложения.md"
               }
             }
           }
@@ -138,8 +138,8 @@
   },
   "active": "5c846e4d7d6365d0",
   "lastOpenFiles": [
-    "04_hr Позвонит.md",
     "06_допы с Игорем.md",
+    "04_hr Позвонит.md",
     "01_ToDo.md",
     "алгоритмы запуска/Git Hub pages.md",
     "Библиотеки/react-router-dom V6.md",
