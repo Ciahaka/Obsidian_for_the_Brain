@@ -23,9 +23,11 @@
             "id": "6323ff6a2adc198f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Вложения/Pasted image 20221127004220.png"
+                "file": "JS/Глубокое копирование.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вложения/Pasted image 20221127004220.png",
+                "file": "JS/Глубокое копирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вложения/Pasted image 20221127004220.png",
+                "file": "JS/Глубокое копирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вложения/Pasted image 20221127004220.png"
+                "file": "JS/Глубокое копирование.md"
               }
             }
           }
@@ -149,6 +151,7 @@
   },
   "active": "6323ff6a2adc198f",
   "lastOpenFiles": [
+    "Вложения/Pasted image 20221127004220.png",
     "Вложения/Pasted image 20221127004454.png",
     "Вложения/Pasted image 20221129202756.png",
     "session storage.md",
@@ -157,7 +160,6 @@
     "JS/Глубокое копирование.md",
     "JS/Функция/Чистая функция (Pure Function).md",
     "JS/Функция/Иммутабельность.md",
-    "JS/Функция/детерменированность.md",
-    "02_Native JS_TS.md"
+    "JS/Функция/детерменированность.md"
   ]
 }
