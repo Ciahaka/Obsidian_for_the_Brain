@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "02_Native JS_TS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "02_Native JS_TS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "02_Native JS_TS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Глубокое копирование.md"
+                "file": "02_Native JS_TS.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "6323ff6a2adc198f",
   "lastOpenFiles": [
-    "JS/События.md",
+    "Деструктуризация.md",
+    "Деструктуризация объекта.md",
+    "02_Native JS_TS.md",
     "JS/Глубокое копирование.md",
+    "JS/События.md",
     "алгоритмы запуска/Создание react приложения.md",
     "06_допы с Игорем.md",
     "04_hr Позвонит.md",
     "01_ToDo.md",
-    "алгоритмы запуска/Git Hub pages.md",
-    "Библиотеки/react-router-dom V6.md",
-    "universal input.md",
-    "07_Практики и алгоритмы кодинга.md"
+    "алгоритмы запуска/Git Hub pages.md"
   ]
 }
