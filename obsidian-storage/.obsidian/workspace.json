@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Глубокое копирование.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -151,13 +151,13 @@
   },
   "active": "6323ff6a2adc198f",
   "lastOpenFiles": [
+    "JS/Глубокое копирование.md",
     "Вложения/Pasted image 20221127004220.png",
     "Вложения/Pasted image 20221127004454.png",
     "Вложения/Pasted image 20221129202756.png",
     "session storage.md",
     "universal input.md",
     "07_Практики и алгоритмы кодинга.md",
-    "JS/Глубокое копирование.md",
     "JS/Функция/Чистая функция (Pure Function).md",
     "JS/Функция/Иммутабельность.md",
     "JS/Функция/детерменированность.md"
