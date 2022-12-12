@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "942b77cf0b12a6c5",
+        "id": "679148033d132e72",
         "type": "tabs",
         "children": [
           {
-            "id": "5c846e4d7d6365d0",
+            "id": "3069efa83b5f0521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6323ff6a2adc198f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "JS/Глубокое копирование.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "JS/Глубокое копирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "JS/Глубокое копирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "JS/Глубокое копирование.md"
               }
             }
           }
@@ -149,8 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6323ff6a2adc198f",
+  "active": "3069efa83b5f0521",
   "lastOpenFiles": [
+    "алгоритмы запуска/Создание react приложения.md",
+    "04_hr Позвонит.md",
     "JS/Глубокое копирование.md",
     "Вложения/Pasted image 20221127004220.png",
     "Вложения/Pasted image 20221127004454.png",
@@ -158,8 +148,6 @@
     "session storage.md",
     "universal input.md",
     "07_Практики и алгоритмы кодинга.md",
-    "JS/Функция/Чистая функция (Pure Function).md",
-    "JS/Функция/Иммутабельность.md",
-    "JS/Функция/детерменированность.md"
+    "JS/Функция/Чистая функция (Pure Function).md"
   ]
 }
