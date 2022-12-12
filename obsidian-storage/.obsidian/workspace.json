@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Термины/Технологии/Babel.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/find.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bab",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Термины/Технологии/Babel.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Термины/Технологии/Babel.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Термины/Технологии/Babel.md"
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/find.md"
               }
             }
           }
@@ -139,6 +138,7 @@
   },
   "active": "3069efa83b5f0521",
   "lastOpenFiles": [
+    "Термины/Технологии/Babel.md",
     "join.md",
     "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "splice.md",
@@ -147,7 +147,6 @@
     "JS/Методы/Array (Массивы)/Методы массивов/split.md",
     "алгоритмы запуска/Создание react приложения.md",
     "04_hr Позвонит.md",
-    "Вложения/Pasted image 20221127004220.png",
-    "Вложения/Pasted image 20221127004454.png"
+    "Вложения/Pasted image 20221127004220.png"
   ]
 }
