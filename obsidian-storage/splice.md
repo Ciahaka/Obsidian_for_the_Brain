@@ -1,0 +1,2 @@
+[MDN Web](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+Метод **`splice()`** изменяет содержимое массива, удаляя существующие элементы и/или добавляя новые.

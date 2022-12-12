@@ -16,6 +16,6 @@
 [[find]]
 [[indexOf]]
 [[slice]]
-
+[[splice]]
 
 
