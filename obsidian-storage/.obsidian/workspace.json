@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "splice.md",
+                "file": "JS/Глубокое копирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slice",
+                "query": "dee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "splice.md",
+                "file": "JS/Глубокое копирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "splice.md",
+                "file": "JS/Глубокое копирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "splice.md"
+                "file": "JS/Глубокое копирование.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   "active": "3069efa83b5f0521",
   "lastOpenFiles": [
     "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+    "splice.md",
     "slice.md",
     "JS/Методы/Array (Массивы)/Методы массивов/split.md",
     "JS/Глубокое копирование.md",
@@ -147,7 +148,6 @@
     "04_hr Позвонит.md",
     "Вложения/Pasted image 20221127004220.png",
     "Вложения/Pasted image 20221127004454.png",
-    "Вложения/Pasted image 20221129202756.png",
-    "session storage.md"
+    "Вложения/Pasted image 20221129202756.png"
   ]
 }
