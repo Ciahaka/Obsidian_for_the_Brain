@@ -9,7 +9,7 @@
 [[concat]]
 [[includes]]
 [[push]]
-[[reduse]]
+[[reduse]] - нахождение максимального значения
 [[map]]
 [[split]]
 [[filter]]
