@@ -15,7 +15,7 @@
 [[filter]]
 [[find]]
 [[indexOf]]
-
+[[slice]]
 
 
 
