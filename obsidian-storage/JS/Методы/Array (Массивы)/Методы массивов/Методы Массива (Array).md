@@ -6,7 +6,7 @@
       'forEach', 'map', 'reduce', 'reduceRight', 'filter',
       'some', 'every'
 ```
-[[concat]]
+[[concat]] - объединение массивов
 [[includes]]
 [[push]]
 [[reduse]] - нахождение максимального значения
