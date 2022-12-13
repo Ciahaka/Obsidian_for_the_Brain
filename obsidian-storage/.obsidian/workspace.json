@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "splice.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "splice.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "splice.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "splice.md"
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "3069efa83b5f0521",
   "lastOpenFiles": [
+    "splice.md",
     "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "slice.md",
     "JS/Методы/Array (Массивы)/Методы массивов/indexOf.md",
@@ -146,7 +147,6 @@
     "JS/Методы/Array (Массивы)/Методы массивов/concat.md",
     "JS/Глубокое копирование.md",
     "JS/Методы/Array (Массивы)/Методы массивов/reduse.md",
-    "join.md",
-    "Термины/Технологии/Babel.md"
+    "join.md"
   ]
 }
