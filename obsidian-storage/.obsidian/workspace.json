@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Методы/Array (Массивы)/Методы массивов/reduce.md"
+                "file": "07_Практики и алгоритмы кодинга.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "3069efa83b5f0521",
   "lastOpenFiles": [
+    "02_Native JS_TS.md",
     "JS/Глубокое копирование.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
     "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "splice.md",
     "slice.md",
     "JS/Методы/Array (Массивы)/Методы массивов/indexOf.md",
     "JS/Методы/Array (Массивы)/Методы массивов/split.md",
     "JS/Методы/Array (Массивы)/Методы массивов/includes.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/concat.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
-    "join.md"
+    "JS/Методы/Array (Массивы)/Методы массивов/concat.md"
   ]
 }
