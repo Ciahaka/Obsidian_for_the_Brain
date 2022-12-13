@@ -6,3 +6,4 @@
 [onBlur](https://youtu.be/cLxzFhW_dgY?t=2227)  
 [event](https://youtu.be/cLxzFhW_dgY?t=2374)
 [[Деструктуризация]]
+[Ассоциативный массив](https://www.youtube.com/watch?v=CktBizzHI8g&ab_channel=IT-KAMASUTRA)

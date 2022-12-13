@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "02_Native JS_TS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "02_Native JS_TS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Глубокое копирование.md",
+                "file": "02_Native JS_TS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Глубокое копирование.md"
+                "file": "02_Native JS_TS.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "3069efa83b5f0521",
   "lastOpenFiles": [
+    "JS/Глубокое копирование.md",
     "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "join.md",
     "JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
-    "JS/Глубокое копирование.md",
     "02_Native JS_TS.md",
     "07_Практики и алгоритмы кодинга.md",
     "splice.md",
