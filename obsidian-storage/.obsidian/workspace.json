@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6e7827375cc4a289",
+        "id": "cd7707de0bfb8973",
         "type": "tabs",
         "children": [
           {
-            "id": "cb64eea392aecda5",
+            "id": "2424726f844b310b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Вложения/121121.jpg"
-              }
-            }
-          },
-          {
-            "id": "0011df2766625088",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Без названия.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,15 +128,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0011df2766625088",
+  "active": "2424726f844b310b",
   "lastOpenFiles": [
     "Вложения/121121.jpg",
+    "Стилистика readme.md",
     "Вложения/121121.md",
     "JS/Функция/Чистая функция (Pure Function).md",
     "Вложения/Pasted image 20221109185826.png",
     "Unit test.md",
     "JS/Глубокое копирование.md",
-    "Без названия.md",
     "02_Native JS_TS.md",
     "01_ToDo.md",
     "obsidian help/Якорь в тексте.md"
