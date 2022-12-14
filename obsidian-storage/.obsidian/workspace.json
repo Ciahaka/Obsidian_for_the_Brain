@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "Unit test.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "Unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "Unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Native JS_TS.md"
+                "file": "Unit test.md"
               }
             }
           }
@@ -138,10 +139,10 @@
   },
   "active": "3069efa83b5f0521",
   "lastOpenFiles": [
+    "02_Native JS_TS.md",
     "01_ToDo.md",
     "obsidian help/Якорь в тексте.md",
     "Вложения/Pasted image 20221213230959.png",
-    "02_Native JS_TS.md",
     "JS/Глубокое копирование.md",
     "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "join.md",
