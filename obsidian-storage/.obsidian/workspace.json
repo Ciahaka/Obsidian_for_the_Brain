@@ -16,8 +16,21 @@
                 "file": "Вложения/121121.jpg"
               }
             }
+          },
+          {
+            "id": "0011df2766625088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вложения/121121.jpg",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Вложения/121121.jpg",
+                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вложения/121121.jpg"
+                "file": "Без названия.md"
               }
             }
           }
@@ -134,10 +147,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb64eea392aecda5",
+  "active": "0011df2766625088",
   "lastOpenFiles": [
-    "Вложения/121121.md",
     "Вложения/121121.jpg",
+    "Вложения/121121.md",
     "JS/Функция/Чистая функция (Pure Function).md",
     "Вложения/Pasted image 20221109185826.png",
     "Unit test.md",
