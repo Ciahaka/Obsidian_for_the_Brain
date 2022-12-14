@@ -7,8 +7,10 @@ c) отсутствие [[side-effects]] (пункт 1 связан с этим,
 
 d) [[детерменированность]] идемпотентность - сколько бы раз на вход чистой функции не подавали одно и тоже, на выходе чистой функции должен быть один и тот же результат
 
-`export const hairDresser = (us: UserType, power: number) => {  
-   `const userCopy = {...us}  `
-   `userCopy.hair = us.hair / power  `
-   `return userCopy  `
-`}`
+```typescript
+export const hairDresser = (us: UserType, power: number) => {  
+   const userCopy = {...us}  
+   userCopy.hair = us.hair / power  
+   return userCopy  
+}
+```

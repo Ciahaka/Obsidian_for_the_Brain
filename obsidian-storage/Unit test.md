@@ -42,6 +42,7 @@ test('sum is correct', () => {
 
 
 <h3>Пример:</h3>
+``` typescript
 
 let people: PeopleType[] = []  
   
@@ -61,3 +62,4 @@ test('проверить приветственное сообщение', () =>
   expect(welcomeMessages[2]).toBe('Welcome Bivaliy to IT')  
   
 })
+```
