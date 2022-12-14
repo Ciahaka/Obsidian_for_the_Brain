@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3069efa83b5f0521",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
     "02_Native JS_TS.md",
     "01_ToDo.md",
