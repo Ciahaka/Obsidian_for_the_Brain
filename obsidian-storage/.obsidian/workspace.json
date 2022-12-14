@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit test.md",
+                "file": "JS/Глубокое копирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit test.md",
+                "file": "JS/Глубокое копирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit test.md",
+                "file": "JS/Глубокое копирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit test.md"
+                "file": "JS/Глубокое копирование.md"
               }
             }
           }
@@ -138,8 +139,8 @@
   },
   "active": "3069efa83b5f0521",
   "lastOpenFiles": [
-    "JS/Функция/Чистая функция (Pure Function).md",
     "Unit test.md",
+    "JS/Функция/Чистая функция (Pure Function).md",
     "02_Native JS_TS.md",
     "01_ToDo.md",
     "obsidian help/Якорь в тексте.md",
