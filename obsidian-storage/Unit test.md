@@ -46,15 +46,14 @@ test('sum is correct', () => {
 let people: PeopleType[] = []  
   
 beforeEach(() => {  
-  people = [  
-    {name: 'Balbes Ivan', age: 21},  
-    {name: 'Trus Georgiy', age: 32},  
-    {name: 'Bivaliy Innokenty', age: 85},  
-  ]  
+people = [  
+{name: 'Balbes Ivan', age: 21},  
+{name: 'Trus Georgiy', age: 32},  
+{name: 'Bivaliy Innokenty', age: 85}, ]  
 })  
   
 test('проверить приветственное сообщение', () => {  
-  const welcomeMessages = people.map(man => `Welcome ${man.name.split(' ')[0]} to IT`)  
+  const welcomeMessages = people.map(man => Welcome ${man.name.split(' ')[0]} to IT)  
   
   expect(welcomeMessages.length).toBe(3)  
   expect(welcomeMessages[0]).toBe('Welcome Balbes to IT')  
