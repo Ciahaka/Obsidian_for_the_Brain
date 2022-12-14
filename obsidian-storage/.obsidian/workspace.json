@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "679148033d132e72",
+        "id": "604512df0b6c0047",
         "type": "tabs",
         "children": [
           {
-            "id": "3069efa83b5f0521",
+            "id": "fa2ebf56e467f56b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Глубокое копирование.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Глубокое копирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Глубокое копирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/Глубокое копирование.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,15 +129,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3069efa83b5f0521",
+  "active": "fa2ebf56e467f56b",
   "lastOpenFiles": [
+    "JS/Глубокое копирование.md",
     "Unit test.md",
     "JS/Функция/Чистая функция (Pure Function).md",
     "02_Native JS_TS.md",
     "01_ToDo.md",
     "obsidian help/Якорь в тексте.md",
     "Вложения/Pasted image 20221213230959.png",
-    "JS/Глубокое копирование.md",
     "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "join.md",
     "JS/Методы/Array (Массивы)/Методы массивов/reduce.md"
