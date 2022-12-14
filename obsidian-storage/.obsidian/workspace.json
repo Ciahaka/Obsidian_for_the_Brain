@@ -11,11 +11,9 @@
             "id": "cb64eea392aecda5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "JS/Функция/Чистая функция (Pure Function).md",
-                "mode": "source",
-                "source": false
+                "file": "Вложения/121121.jpg"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pure",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Функция/Чистая функция (Pure Function).md",
+                "file": "Вложения/121121.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Функция/Чистая функция (Pure Function).md",
+                "file": "Вложения/121121.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Функция/Чистая функция (Pure Function).md"
+                "file": "Вложения/121121.jpg"
               }
             }
           }
@@ -139,15 +136,15 @@
   },
   "active": "cb64eea392aecda5",
   "lastOpenFiles": [
-    "Unit test.md",
+    "Вложения/121121.md",
+    "Вложения/121121.jpg",
     "JS/Функция/Чистая функция (Pure Function).md",
+    "Вложения/Pasted image 20221109185826.png",
+    "Unit test.md",
     "JS/Глубокое копирование.md",
     "Без названия.md",
     "02_Native JS_TS.md",
     "01_ToDo.md",
-    "obsidian help/Якорь в тексте.md",
-    "Вложения/Pasted image 20221213230959.png",
-    "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-    "join.md"
+    "obsidian help/Якорь в тексте.md"
   ]
 }
