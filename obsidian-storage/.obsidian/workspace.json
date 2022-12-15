@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "85c65cc14f72c8cd",
+        "id": "22323f465019568f",
         "type": "tabs",
         "children": [
           {
-            "id": "c40d2b717255589e",
+            "id": "61402279364ad5fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian help/Якорь в тексте.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fd1d06d30aba8fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c40d2b717255589e",
+  "active": "0fd1d06d30aba8fd",
   "lastOpenFiles": [
-    "Пузырьковая сортировка.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
     "obsidian help/Якорь в тексте.md",
+    "obsidian help/Синронизация с git.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
+    "'sort'.md",
     "sort.md",
+    "Пузырьковая сортировка.md",
     "Вложения/121121.jpg",
     "Стилистика readme.md",
     "Вложения/121121.md",
-    "JS/Функция/Чистая функция (Pure Function).md",
-    "Вложения/Pasted image 20221109185826.png",
-    "Unit test.md"
+    "JS/Функция/Чистая функция (Pure Function).md"
   ]
 }
