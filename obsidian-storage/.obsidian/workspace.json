@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сортиро",
+                "query": "tag:#sort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +150,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fd1d06d30aba8fd",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
     "obsidian help/Якорь в тексте.md",
     "obsidian help/Синронизация с git.md",
