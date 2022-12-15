@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit test.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit test.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit test.md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit test.md"
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
               }
             }
           }
@@ -138,11 +138,11 @@
   },
   "active": "bc8c093ab9e60b56",
   "lastOpenFiles": [
+    "Unit test.md",
     "02_Native JS_TS.md",
     "obsidian help/Якорь в тексте.md",
     "obsidian help/Синронизация с git.md",
     "obsidian help/Стилистика readme.md",
-    "Unit test.md",
     "Typescript.md",
     "06_допы с Игорем.md",
     "JS/Глубокое копирование.md",
