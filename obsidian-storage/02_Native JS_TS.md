@@ -6,11 +6,12 @@
 [onBlur](https://youtu.be/cLxzFhW_dgY?t=2227)  
 [event](https://youtu.be/cLxzFhW_dgY?t=2374)
 [[Деструктуризация]]
-[Ассоциативный массив](https://www.youtube.com/watch?v=CktBizzHI8g&ab_channel=IT-KAMASUTRA)  - 
+[Ассоциативный массив](https://www.youtube.com/watch?v=CktBizzHI8g&ab_channel=IT-KAMASUTRA)  - [[#Ассоциативный массив | вниз]]
+
 [Иммутабельность](https://www.youtube.com/watch?v=cONeYnzLccg&ab_channel=IT-KAMASUTRA)
 [Иммутабельность в массивах](https://youtu.be/cONeYnzLccg?t=2702)
 
-###Ассоциативный массив
+### Ассоциативный массив
 - организационная структура хранения данных. По факту - обычный объект, хранящий в себе массив(ы).
 Существует два способа обращения к свойству объекта:
 - точечная запись user.address.city.title
