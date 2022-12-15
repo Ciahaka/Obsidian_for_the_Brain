@@ -1,10 +1,11 @@
 [MDN Web](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 [Learn JS](https://learn.javascript.ru/array-methods#split-i-join)
+
 Метод массива split() разбивает объект string на на массив строк, путём разделения строки указанной подстрокой
 Возвращает новый массив!
-
-
+``` javascript
 str.split([separator[, limit]])
+``` 
 <h4>separator</h4>
 Необязательный параметр. Указывает символы, используемые в качестве разделителя внутри строки. Параметр `separator` может быть как строкой, так и [регулярным выражением](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/RegExp). Если параметр опущен, возвращённый массив будет содержать один элемент со всей строкой. Если параметр равен пустой строке, строка `str` будет преобразована в массив символов.
 <h4>limit</h4>
