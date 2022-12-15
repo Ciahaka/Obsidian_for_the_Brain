@@ -1,3 +1,5 @@
+[[#Объединение типов]]
+
 ### Объединение типов
 ``` typescript 
 export type UserType={  
