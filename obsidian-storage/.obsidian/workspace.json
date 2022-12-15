@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "Unit test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "Unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "Unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Native JS_TS.md"
+                "file": "Unit test.md"
               }
             }
           }
@@ -138,10 +138,10 @@
   },
   "active": "bc8c093ab9e60b56",
   "lastOpenFiles": [
+    "02_Native JS_TS.md",
     "obsidian help/Якорь в тексте.md",
     "obsidian help/Синронизация с git.md",
     "obsidian help/Стилистика readme.md",
-    "02_Native JS_TS.md",
     "Unit test.md",
     "Typescript.md",
     "06_допы с Игорем.md",
