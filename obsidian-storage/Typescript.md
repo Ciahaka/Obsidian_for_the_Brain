@@ -1,0 +1,25 @@
+### Объединение типов
+``` typescript 
+export type UserType={  
+  name:string  
+  hair:number  
+  address:{title:string}  
+}  
+export type LaptopType = {  
+  title:string  
+}  
+/**
+...можно записать как
+**/
+export type LaptopUserType={
+export type UserType={  
+  name:string  
+  hair:number  
+  address:{title:string}  
+   laptop:LaptopType
+} 
+// или же не дублируя кода
+}
+export type LaptopUserType= UserType & {  
+  laptop:LaptopType
+```
