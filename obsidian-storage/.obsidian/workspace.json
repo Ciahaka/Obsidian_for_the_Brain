@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/map.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/map.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "bc8c093ab9e60b56",
   "lastOpenFiles": [
-    "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/filter.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/concat.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+    "JS/Методы/Array (Массивы)/Методы массивов/indexOf.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/includes.md",
     "JS/Методы/Array (Массивы)/Методы массивов/find.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/filter.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+    "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/concat.md",
     "Unit test.md",
     "02_Native JS_TS.md",
-    "obsidian help/Якорь в тексте.md",
-    "obsidian help/Синронизация с git.md",
-    "obsidian help/Стилистика readme.md"
+    "obsidian help/Якорь в тексте.md"
   ]
 }
