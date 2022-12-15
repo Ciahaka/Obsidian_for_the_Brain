@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit test.md",
+                "file": "02_Native JS_TS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uni",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit test.md",
+                "file": "02_Native JS_TS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit test.md",
+                "file": "02_Native JS_TS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit test.md"
+                "file": "02_Native JS_TS.md"
               }
             }
           }
@@ -139,8 +138,8 @@
   },
   "active": "bc8c093ab9e60b56",
   "lastOpenFiles": [
-    "Typescript.md",
     "Unit test.md",
+    "Typescript.md",
     "06_допы с Игорем.md",
     "JS/Глубокое копирование.md",
     "Вложения/121121.jpg",
