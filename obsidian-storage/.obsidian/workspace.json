@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd7707de0bfb8973",
+        "id": "85c65cc14f72c8cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2424726f844b310b",
+            "id": "c40d2b717255589e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "сортиро",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md"
+              }
             }
           }
         ]
@@ -128,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2424726f844b310b",
+  "active": "c40d2b717255589e",
   "lastOpenFiles": [
+    "Пузырьковая сортировка.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
+    "obsidian help/Якорь в тексте.md",
+    "sort.md",
     "Вложения/121121.jpg",
     "Стилистика readme.md",
     "Вложения/121121.md",
     "JS/Функция/Чистая функция (Pure Function).md",
     "Вложения/Pasted image 20221109185826.png",
-    "Unit test.md",
-    "JS/Глубокое копирование.md",
-    "02_Native JS_TS.md",
-    "01_ToDo.md",
-    "obsidian help/Якорь в тексте.md"
+    "Unit test.md"
   ]
 }
