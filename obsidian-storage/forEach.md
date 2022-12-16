@@ -1,4 +1,5 @@
 [MDN Web](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+[Learn JS](https://learn.javascript.ru/array-iteration#foreach)
 
 Метод массива **`forEach()`** выполняет указанную функцию один раз для каждого элемента в массиве.
 Не возвращает новый массив, возвращает [`undefined`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/undefined)
@@ -13,7 +14,7 @@ arr.forEach(function callback(currentValue, index, array) {
 ```js
 
 var arr = ["Яблоко", "Апельсин", "Груша"]; arr.forEach(function(item, i, arr) { alert( i + ": " + item + " (массив:" + arr + ")" ); });
-`callback`
+`callback`  //0: Яблоко (массив:Яблоко,Апельсин,Груша)
 ```
 
 Функция, которая будет вызвана для каждого элемента массива. Она принимает от одного до трёх аргументов:

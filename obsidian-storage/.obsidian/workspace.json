@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forEach.md",
+                "file": "02_Native JS_TS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forEach.md",
+                "file": "02_Native JS_TS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forEach.md",
+                "file": "02_Native JS_TS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forEach.md"
+                "file": "02_Native JS_TS.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "6436db3378b35d7c",
   "lastOpenFiles": [
-    "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+    "01_ToDo.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/split.md",
     "forEach.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "Деструктуризация массива.md",
     "JS/Глубокое копирование.md",
     "JS/DOM/Event.md",
     "JS/DOM/DOM.md",
-    "JS/DOM/currentTarget.md",
-    "JS/DOM/cancelable().md",
-    "JS/Функция/side-effects.md",
-    "JS/Функция/Чистая функция (Pure Function).md"
+    "JS/DOM/currentTarget.md"
   ]
 }
