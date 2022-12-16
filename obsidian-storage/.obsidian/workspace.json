@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "localeCompare.md",
+                "file": "Unit test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "localeCompare.md",
+                "file": "Unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "localeCompare.md",
+                "file": "Unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "localeCompare.md"
+                "file": "Unit test.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "6436db3378b35d7c",
   "lastOpenFiles": [
-    "local storage.md",
+    "Typescript.md",
+    "session storage.md",
+    "test git.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/splice.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/slice.md",
+    "PWA.md",
+    "onChange.md",
     "localeCompare.md",
-    "event loop.md",
-    "ECMAScript.md",
-    "callback.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/join.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/forEach.md",
-    "Хук.md",
-    "Пузырьковая сортировка.md",
-    "Псевдоистина.md"
+    "local storage.md",
+    "event loop.md"
   ]
 }
