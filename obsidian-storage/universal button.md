@@ -1,4 +1,6 @@
-       import React from 'react';  
+```ts
+
+	 import React from 'react';  
   
     export type ButtonType = {  
       name: string                <<--- "у любой кнопки есть имя"
@@ -16,3 +18,4 @@
     };
 
 #button
+```
