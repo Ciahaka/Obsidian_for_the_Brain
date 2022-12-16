@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "638e947ef7ce2be4",
+        "id": "4006897ca7daeab7",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8c093ab9e60b56",
+            "id": "6436db3378b35d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деструктуризация массива.md",
+                "file": "forEach.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деструктуризация массива.md",
+                "file": "forEach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деструктуризация массива.md",
+                "file": "forEach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деструктуризация массива.md"
+                "file": "forEach.md"
               }
             }
           }
@@ -136,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc8c093ab9e60b56",
+  "active": "6436db3378b35d7c",
   "lastOpenFiles": [
+    "Деструктуризация массива.md",
     "JS/Глубокое копирование.md",
     "JS/DOM/Event.md",
     "JS/DOM/DOM.md",
@@ -146,7 +147,6 @@
     "JS/Функция/side-effects.md",
     "JS/Функция/Чистая функция (Pure Function).md",
     "детерминированность.md",
-    "JS/Функция/Иммутабельность.md",
-    "JS/Функция/детерменированность.md"
+    "JS/Функция/Иммутабельность.md"
   ]
 }

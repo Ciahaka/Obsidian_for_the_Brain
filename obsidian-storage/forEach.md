@@ -1,0 +1,2 @@
+Метод массива **`forEach()`** выполняет указанную функцию один раз для каждого элемента в массиве.
+Не возвращает новый массив, возвращает [`undefined`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/undefined)
