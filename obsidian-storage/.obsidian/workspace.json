@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "localeCompare.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "localeCompare.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "localeCompare.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Native JS_TS.md"
+                "file": "localeCompare.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "6436db3378b35d7c",
   "lastOpenFiles": [
-    "01_ToDo.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/split.md",
-    "forEach.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-    "Деструктуризация массива.md",
-    "JS/Глубокое копирование.md",
-    "JS/DOM/Event.md",
-    "JS/DOM/DOM.md",
-    "JS/DOM/currentTarget.md"
+    "local storage.md",
+    "localeCompare.md",
+    "event loop.md",
+    "ECMAScript.md",
+    "callback.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/join.md",
+    "JS/Методы/Array (Массивы)/Методы массивов/forEach.md",
+    "Хук.md",
+    "Пузырьковая сортировка.md",
+    "Псевдоистина.md"
   ]
 }
