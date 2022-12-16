@@ -138,6 +138,8 @@
   },
   "active": "6436db3378b35d7c",
   "lastOpenFiles": [
+    "JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+    "forEach.md",
     "Деструктуризация массива.md",
     "JS/Глубокое копирование.md",
     "JS/DOM/Event.md",
@@ -145,8 +147,6 @@
     "JS/DOM/currentTarget.md",
     "JS/DOM/cancelable().md",
     "JS/Функция/side-effects.md",
-    "JS/Функция/Чистая функция (Pure Function).md",
-    "детерминированность.md",
-    "JS/Функция/Иммутабельность.md"
+    "JS/Функция/Чистая функция (Pure Function).md"
   ]
 }

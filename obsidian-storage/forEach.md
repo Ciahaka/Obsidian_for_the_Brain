@@ -10,8 +10,12 @@ arr.forEach(function callback(currentValue, index, array) {
     //your iterator
 }[, thisArg]);
 ```
+```js
 
+var arr = ["Яблоко", "Апельсин", "Груша"]; arr.forEach(function(item, i, arr) { alert( i + ": " + item + " (массив:" + arr + ")" ); });
 `callback`
+```
+
 Функция, которая будет вызвана для каждого элемента массива. Она принимает от одного до трёх аргументов:
 
 `currentValue`
@@ -25,3 +29,5 @@ arr.forEach(function callback(currentValue, index, array) {
 
 `thisArg`
 Необязательный параметр. Значение, используемое в качестве `this` при вызове функции `callback`.
+
+! Не существует способа остановить или прервать цикл `forEach()` кроме как выбрасыванием исключения !
