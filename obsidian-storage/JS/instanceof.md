@@ -1,3 +1,6 @@
+[MDN Web](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Operators/instanceof)
+
+
 Оператор, который проверяет принадлежность объекта к определённому классу или его родителю.
 Или же...
 `instanceof` проверяет, присутствует ли объект `constructor.prototype` в цепочке прототипов `object`

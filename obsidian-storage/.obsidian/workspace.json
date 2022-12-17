@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Методы/Операторы/instanceof.md",
+                "file": "JS/instanceof.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Методы/Операторы/instanceof.md",
+                "file": "JS/instanceof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Методы/Операторы/instanceof.md",
+                "file": "JS/instanceof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Методы/Операторы/instanceof.md"
+                "file": "JS/instanceof.md"
               }
             }
           }
@@ -136,7 +136,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6436db3378b35d7c",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
     "useState.md",
     "useEffect.md",
