@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4006897ca7daeab7",
+        "id": "fe70cdedc9fa3fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "6436db3378b35d7c",
+            "id": "13f74914a72b2500",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2_JS/Операторы/instanceof.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "section:()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2_JS/Операторы/instanceof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2_JS/Операторы/instanceof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2_JS/Операторы/instanceof.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6436db3378b35d7c",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
+    "2_JS/Операторы/instanceof.md",
+    "2_JS/DOM/EventTarget.md",
+    "2_JS/Операторы/instanceof.md",
+    "05_Computer Science Interview.md",
+    "1_HTML/Структура HTML документа.md",
     "1_HTML.md",
     "2_JS/Операторы.md",
-    "2_JS/Операторы/instanceof.md",
     "2_JS/События.md",
     "useState.md",
-    "useEffect.md",
-    "universal input.md",
-    "universal button.md",
-    "Unit test.md",
-    "Typescript.md"
+    "useEffect.md"
   ]
 }
