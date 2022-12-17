@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c63ee4aa23526f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Операторы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/instanceof.md",
+                "file": "JS/Операторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/instanceof.md",
+                "file": "JS/Операторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/instanceof.md"
+                "file": "JS/Операторы.md"
               }
             }
           }
@@ -136,8 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1a531a40b890d1a5",
+  "active": "c63ee4aa23526f89",
   "lastOpenFiles": [
+    "JS/instanceof.md",
+    "JS/Операторы.md",
     "useState.md",
     "useEffect.md",
     "universal input.md",
@@ -145,8 +160,6 @@
     "Unit test.md",
     "Typescript.md",
     "session storage.md",
-    "test git.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/splice.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/slice.md"
+    "test git.md"
   ]
 }
