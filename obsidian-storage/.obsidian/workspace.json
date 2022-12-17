@@ -11,28 +11,11 @@
             "id": "6436db3378b35d7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/instanceof.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c63ee4aa23526f89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/События.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/События.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/События.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JS/События.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c63ee4aa23526f89",
+  "active": "6436db3378b35d7c",
   "lastOpenFiles": [
-    "JS/instanceof.md",
-    "JS/Операторы.md",
+    "1_HTML.md",
+    "2_JS/Операторы.md",
+    "2_JS/Операторы/instanceof.md",
+    "2_JS/События.md",
     "useState.md",
     "useEffect.md",
     "universal input.md",
     "universal button.md",
     "Unit test.md",
-    "Typescript.md",
-    "session storage.md",
-    "test git.md"
+    "Typescript.md"
   ]
 }

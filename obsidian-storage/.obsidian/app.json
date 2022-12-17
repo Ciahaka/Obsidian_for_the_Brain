@@ -4,5 +4,6 @@
     "ru",
     "en-US"
   ],
-  "attachmentFolderPath": "Вложения"
+  "attachmentFolderPath": "Вложения",
+  "alwaysUpdateLinks": true
 }
