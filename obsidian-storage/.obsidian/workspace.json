@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "useState.md",
+                "file": "JS/Методы/Операторы/instanceof.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useState.md",
+                "file": "JS/Методы/Операторы/instanceof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "useState.md",
+                "file": "JS/Методы/Операторы/instanceof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useState.md"
+                "file": "JS/Методы/Операторы/instanceof.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "6436db3378b35d7c",
   "lastOpenFiles": [
+    "useState.md",
     "useEffect.md",
     "universal input.md",
     "universal button.md",
@@ -146,7 +147,6 @@
     "session storage.md",
     "test git.md",
     "JS/Методы/Array (Массивы)/Методы массивов/splice.md",
-    "JS/Методы/Array (Массивы)/Методы массивов/slice.md",
-    "PWA.md"
+    "JS/Методы/Array (Массивы)/Методы массивов/slice.md"
   ]
 }
