@@ -4,4 +4,6 @@
 - в проекте, в консоли WS, прописываем команду
 `yarn add @mui/material @emotion/react @emotion/styled`
 - подключить шрифты
-- ё
+`yarn add @fontsource/roboto`
+- подключить иконки 
+`yarn add @mui/icons-material`
