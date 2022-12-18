@@ -1,6 +1,8 @@
 [HTML Book](http://htmlbook.ru/samhtml/struktura-html-koda)
 [Hexlet](https://ru.hexlet.io/courses/layout-designer-basics/lessons/page-structure/theory_unit)
 
+[[#header]] - задает «шапку» сайта или раздела, в которой обычно располагается заголовок.
+
 ``` HTML
 <!DOCTYPE html>
 <html lang="ru">
@@ -25,4 +27,6 @@
 </html>
 ```
 
-####<header>
+### <header> 
+Задает «шапку» сайта или раздела, в которой обычно располагается заголовок.
+Содержит в себе группу вводных или навигационных средств.
