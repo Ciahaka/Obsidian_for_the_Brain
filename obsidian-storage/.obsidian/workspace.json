@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md",
+                "file": "Библиотеки и фреймворки/Material UI.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md",
+                "file": "Библиотеки и фреймворки/Material UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md",
+                "file": "Библиотеки и фреймворки/Material UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md"
+                "file": "Библиотеки и фреймворки/Material UI.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "9af475e3fa5a6d5f",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/Ant Design.md",
     "Библиотеки и фреймворки/Material UI.md",
     "Библиотеки и фреймворки/Bootstrap.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
@@ -207,7 +208,6 @@
     "01_ToDo.md",
     "Термины/Технологии/SEO.md",
     "Термины/Mетодологии разработки/KISS.md",
-    "2_JS/DOM/cancelable().md",
-    "2_JS/Операторы.md"
+    "2_JS/DOM/cancelable().md"
   ]
 }
