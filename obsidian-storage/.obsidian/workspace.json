@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "seo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,15 +139,15 @@
   },
   "active": "7e3d4a2ac4cffc60",
   "lastOpenFiles": [
-    "Термины/Mетодологии разработки/KISS.md",
+    "Термины/Технологии/SEO.md",
     "1_HTML/Структура HTML документа.md",
+    "Термины/Mетодологии разработки/KISS.md",
     "2_JS/DOM/cancelable().md",
     "2_JS/Операторы.md",
     "05_Computer Science Interview.md",
     "instanceof.md",
     "Операторы.md",
     "2_JS/Без названия.md",
-    "2_JS/Операторы/instanceof.md",
-    "2_JS/DOM/EventTarget.md"
+    "2_JS/Операторы/instanceof.md"
   ]
 }
