@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Псевдоистина.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "псе",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Псевдоистина.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Псевдоистина.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "Псевдоистина.md"
               }
             }
           }
@@ -174,13 +175,13 @@
   },
   "active": "58a7fa695c2a6612",
   "lastOpenFiles": [
+    "01_ToDo.md",
     "1_HTML/Структура HTML документа.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "Библиотеки и фреймворки/Material UI.md",
     "Библиотеки и фреймворки/Bootstrap.md",
     "Библиотеки и фреймворки/Ant Design.md",
     "Библиотеки и фреймворки/storybook.md",
-    "01_ToDo.md",
     "Термины/Технологии/SEO.md",
     "Термины/Mетодологии разработки/KISS.md",
     "2_JS/DOM/cancelable().md"
