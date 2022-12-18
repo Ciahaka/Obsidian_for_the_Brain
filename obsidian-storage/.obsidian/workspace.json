@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Псевдоистина.md",
+                "file": "Библиотеки и фреймворки/Bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "псе",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Псевдоистина.md",
+                "file": "Библиотеки и фреймворки/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Псевдоистина.md",
+                "file": "Библиотеки и фреймворки/Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Псевдоистина.md"
+                "file": "Библиотеки и фреймворки/Bootstrap.md"
               }
             }
           }
@@ -175,6 +174,7 @@
   },
   "active": "58a7fa695c2a6612",
   "lastOpenFiles": [
+    "Псевдоистина.md",
     "01_ToDo.md",
     "1_HTML/Структура HTML документа.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
@@ -183,7 +183,6 @@
     "Библиотеки и фреймворки/Ant Design.md",
     "Библиотеки и фреймворки/storybook.md",
     "Термины/Технологии/SEO.md",
-    "Термины/Mетодологии разработки/KISS.md",
-    "2_JS/DOM/cancelable().md"
+    "Термины/Mетодологии разработки/KISS.md"
   ]
 }
