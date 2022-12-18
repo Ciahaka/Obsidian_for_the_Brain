@@ -41,7 +41,7 @@ HyperText Markup Language - язык гипертекстовой разметк
 	
 ### html
 Содержит в себе текст всего сайта. Так же хранит в себе теги [[#head]] и [[#body]]
-Атрибут lang - задаёт основной язык страницы.
+Атрибут lang - задаёт основной язык страницы.( семантика и индексация страниц)
 
 ### head
 [MDN Web](https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
