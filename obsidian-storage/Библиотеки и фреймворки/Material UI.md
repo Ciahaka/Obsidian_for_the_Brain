@@ -1,1 +1,1 @@
-[Material UI](https://mui.com/) - 
+[Material UI](https://mui.com/) - продвинутая, в сравнении с [[Bootstrap]] технология для стилизации компонент.
