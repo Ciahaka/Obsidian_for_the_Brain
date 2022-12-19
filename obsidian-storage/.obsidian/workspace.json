@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Структуры данных.md",
+                "file": "Хук.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "хук",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структуры данных.md",
+                "file": "Хук.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структуры данных.md",
+                "file": "Хук.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Структуры данных.md"
+                "file": "Хук.md"
               }
             }
           }
@@ -174,6 +175,7 @@
   },
   "active": "58a7fa695c2a6612",
   "lastOpenFiles": [
+    "Структуры данных.md",
     "Библиотеки и фреймворки/Material UI.md",
     "Библиотеки и фреймворки/Bootstrap.md",
     "Псевдоистина.md",
@@ -182,7 +184,6 @@
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "Библиотеки и фреймворки/Ant Design.md",
     "Библиотеки и фреймворки/storybook.md",
-    "Термины/Технологии/SEO.md",
-    "Термины/Mетодологии разработки/KISS.md"
+    "Термины/Технологии/SEO.md"
   ]
 }
