@@ -35,5 +35,6 @@
 <Checkbox {...label} disabled />       //пустой дизейбл
 <Checkbox {...label} disabled checked /> //дизейбл чек
 ```
-
-
+Атрибуты:
+- `label` - задаёт метку для чекбокса в компоненте
+- 
