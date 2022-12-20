@@ -14,6 +14,7 @@
 
 ### Частые компоненты:
 [[#Container]] - основной блок, центрирует контент по горизонтали
+[[#Checkbox]] - 
 
 ##### Container
 [MUI](https://mui.com/material-ui/react-container/)
@@ -23,5 +24,9 @@
 - `maxWidth="sm"`  - ограничение ширины блока контента Значением может быть: `'xs', 'sm', 'md', 'lg', 'xl', false, string`. Ширина блока увеличивается с увеличением размера экрана
 - `fixed` - фиксированная ширина блока контента.
 - `sx` - для пользовательских стилей, расширение функционала css
+
+##### Checkbox
+[MUI](https://mui.com/material-ui/react-checkbox/)
+`<Checkbox/>` 
 
 

@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Component.md",
+                "file": "Библиотеки и фреймворки/Material UI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Component.md",
+                "file": "Библиотеки и фреймворки/Material UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Component.md"
+                "file": "Библиотеки и фреймворки/Material UI.md"
               }
             }
           }
@@ -161,8 +161,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90527fb96f3bf4ab",
+  "active": "9af475e3fa5a6d5f",
   "lastOpenFiles": [
+    "Component.md",
     "Библиотеки и фреймворки/Material UI.md",
     "Термины/Технологии/Github.md",
     "Библиотеки и фреймворки/Bootstrap.md",
@@ -171,7 +172,6 @@
     "useEffect.md",
     "useState.md",
     "Деструктуризация массива.md",
-    "1_HTML/Структура HTML документа.md",
-    "кастомный хук.md"
+    "1_HTML/Структура HTML документа.md"
   ]
 }
