@@ -42,5 +42,7 @@
 - `sx` - кастомизация
 - `icon` - стилизация чекбокса различными иконками. 
  `icon={<FavoriteBorder />} checkedIcon={<Favorite />}`
-- `labelPlacement` - управление расположением чекбокса
+ [Набор иконок](https://mui.com/material-ui/material-icons/)
+- `labelPlacement` - управление расположением чекбокса `'top', 'start', 'bottom', 'end`
+
  
