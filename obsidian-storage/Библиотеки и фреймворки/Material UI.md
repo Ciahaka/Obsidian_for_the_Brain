@@ -7,3 +7,6 @@
 `yarn add @fontsource/roboto`
 - подключить иконки 
 `yarn add @mui/icons-material`
+
+### Частые компоненты:
+
