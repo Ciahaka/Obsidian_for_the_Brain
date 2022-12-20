@@ -40,4 +40,7 @@
 - `size` - задаёт размер чекбокса `'small', 'medium', 'undefined'`
 - `color` - задаёт цвет чекбокса
 - `sx` - кастомизация
-- `icon` - 
+- `icon` - стилизация чекбокса различными иконками. 
+ `icon={<FavoriteBorder />} checkedIcon={<Favorite />}`
+- `labelPlacement` - управление расположением чекбокса
+ 
