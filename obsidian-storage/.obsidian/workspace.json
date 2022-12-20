@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деструктуризация массива.md",
+                "file": "Термины/Технологии/Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "useState",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деструктуризация массива.md",
+                "file": "Термины/Технологии/Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деструктуризация массива.md",
+                "file": "Термины/Технологии/Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деструктуризация массива.md"
+                "file": "Термины/Технологии/Github.md"
               }
             }
           }
@@ -163,15 +163,15 @@
   },
   "active": "23bd8e9a682fff44",
   "lastOpenFiles": [
+    "Термины/Технологии/Git.md",
     "Хук.md",
-    "1_HTML/Структура HTML документа.md",
-    "кастомный хук.md",
     "useEffect.md",
     "useState.md",
+    "Деструктуризация массива.md",
+    "1_HTML/Структура HTML документа.md",
+    "кастомный хук.md",
     "Структуры данных.md",
     "Библиотеки и фреймворки/Material UI.md",
-    "Библиотеки и фреймворки/Bootstrap.md",
-    "Псевдоистина.md",
-    "01_ToDo.md"
+    "Библиотеки и фреймворки/Bootstrap.md"
   ]
 }
