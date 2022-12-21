@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/Material UI.md",
+                "file": "Библиотеки и фреймворки/storybook.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/Material UI.md",
+                "file": "Библиотеки и фреймворки/storybook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/Material UI.md",
+                "file": "Библиотеки и фреймворки/storybook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/Material UI.md"
+                "file": "Библиотеки и фреймворки/storybook.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "9af475e3fa5a6d5f",
   "lastOpenFiles": [
-    "Component.md",
     "Библиотеки и фреймворки/Material UI.md",
+    "Component.md",
     "Термины/Технологии/Github.md",
     "Библиотеки и фреймворки/Bootstrap.md",
     "Термины/Технологии/Git.md",
