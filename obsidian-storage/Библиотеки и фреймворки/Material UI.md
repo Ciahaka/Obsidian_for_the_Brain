@@ -15,6 +15,7 @@
 ### Частые компоненты:
 [[#Container]] - основной блок, центрирует контент по горизонтали
 [[#Checkbox]] - включение или выключение опций
+[[#Accordion]] - 
 
 ##### Container
 [MUI](https://mui.com/material-ui/react-container/)
@@ -45,4 +46,6 @@
  [Набор иконок](https://mui.com/material-ui/material-icons/)
 - `labelPlacement` - управление расположением чекбокса `'top', 'start', 'bottom', 'end`
 
- 
+#### Accordion
+[MUI](https://mui.com/material-ui/react-accordion/#main-content)
+
