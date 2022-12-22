@@ -4,32 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "37d267eceac0d951",
+        "id": "18499ebf2471917c",
         "type": "tabs",
         "children": [
           {
-            "id": "23bd8e9a682fff44",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Тест.canvas",
-                "viewState": {
-                  "x": 251.5,
-                  "y": 195,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "90527fb96f3bf4ab",
+            "id": "4d87672477fa9dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Component.md",
+                "file": "2_JS/DOM/preventDefault().md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "event",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тест.canvas",
+                "file": "2_JS/DOM/preventDefault().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тест.canvas",
+                "file": "2_JS/DOM/preventDefault().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тест.canvas"
+                "file": "2_JS/DOM/preventDefault().md"
               }
             }
           }
@@ -162,17 +147,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "23bd8e9a682fff44",
+  "active": "4d87672477fa9dc5",
   "lastOpenFiles": [
+    "2_JS/DOM/EventTarget.addEventListener().md",
+    "2_JS/DOM/EventTarget.md",
+    "2_JS/DOM/EventTarget.dispatchEvent().md",
+    "2_JS/DOM/EventTarget.removeEventListener().md",
+    "Component.md",
+    "Тест.canvas",
     "Array.isArray().md",
     "2_JS/Операторы.md",
     "Array.isArray.md",
-    "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-    "алгоритмы запуска/Создание react приложения.md",
-    "2_JS/DOM/EventTarget.addEventListener().md",
-    "2_JS/DOM/EventTarget.md",
-    "02_Native JS_TS.md",
-    "2_JS/DOM/preventDefault().md",
-    "Термины/Технологии/Github.md"
+    "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
   ]
 }
