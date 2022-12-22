@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "01_ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Native JS_TS.md"
+                "file": "01_ToDo.md"
               }
             }
           }
@@ -149,6 +148,7 @@
   },
   "active": "4d87672477fa9dc5",
   "lastOpenFiles": [
+    "02_Native JS_TS.md",
     "2_JS/DOM/preventDefault().md",
     "2_JS/DOM/EventTarget.addEventListener().md",
     "2_JS/DOM/EventTarget.md",
@@ -157,7 +157,6 @@
     "Component.md",
     "Тест.canvas",
     "Array.isArray().md",
-    "2_JS/Операторы.md",
-    "Array.isArray.md"
+    "2_JS/Операторы.md"
   ]
 }
