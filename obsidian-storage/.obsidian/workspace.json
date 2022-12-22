@@ -11,11 +11,15 @@
             "id": "4d87672477fa9dc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01_ToDo.md",
-                "mode": "source",
-                "source": false
+                "file": "Тест.canvas",
+                "viewState": {
+                  "x": 251.5,
+                  "y": 31,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Тест.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Тест.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "Тест.canvas"
               }
             }
           }
@@ -148,6 +152,7 @@
   },
   "active": "4d87672477fa9dc5",
   "lastOpenFiles": [
+    "01_ToDo.md",
     "02_Native JS_TS.md",
     "2_JS/DOM/preventDefault().md",
     "2_JS/DOM/EventTarget.addEventListener().md",
@@ -156,7 +161,6 @@
     "2_JS/DOM/EventTarget.removeEventListener().md",
     "Component.md",
     "Тест.canvas",
-    "Array.isArray().md",
-    "2_JS/Операторы.md"
+    "Array.isArray().md"
   ]
 }
