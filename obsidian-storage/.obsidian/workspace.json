@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "2_JS/DOM/EventTarget.addEventListener().md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "компо",
+                "query": "addE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "2_JS/DOM/EventTarget.addEventListener().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "2_JS/DOM/EventTarget.addEventListener().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md"
+                "file": "2_JS/DOM/EventTarget.addEventListener().md"
               }
             }
           }
@@ -160,15 +161,15 @@
   },
   "active": "23bd8e9a682fff44",
   "lastOpenFiles": [
+    "2_JS/DOM/EventTarget.md",
+    "02_Native JS_TS.md",
+    "2_JS/DOM/preventDefault().md",
+    "алгоритмы запуска/Создание react приложения.md",
     "Термины/Технологии/Github.md",
     "2022-12-22.md",
     "Библиотеки и фреймворки/storybook.md",
     "Тест.canvas",
     "Библиотеки и фреймворки/Material UI.md",
-    "Component.md",
-    "Библиотеки и фреймворки/Bootstrap.md",
-    "Термины/Технологии/Git.md",
-    "Хук.md",
-    "useEffect.md"
+    "Component.md"
   ]
 }
