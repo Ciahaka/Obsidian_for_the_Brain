@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1cbb9c01cdeaf20f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
+          },
+          {
             "id": "90527fb96f3bf4ab",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9af475e3fa5a6d5f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "1cbb9c01cdeaf20f",
   "lastOpenFiles": [
     "Библиотеки и фреймворки/Material UI.md",
     "Component.md",
