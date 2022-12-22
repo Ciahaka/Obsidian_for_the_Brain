@@ -37,10 +37,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Без названЕия.canvas",
+                "file": "Тест.canvas",
                 "viewState": {
-                  "x": 101,
-                  "y": 36,
+                  "x": 273.5,
+                  "y": 9,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названЕия.canvas",
+                "file": "Тест.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названЕия.canvas",
+                "file": "Тест.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названЕия.canvas"
+                "file": "Тест.canvas"
               }
             }
           }

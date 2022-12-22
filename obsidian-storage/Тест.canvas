@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"cb252e3dc219787b","x":45,"y":-23,"width":250,"height":60,"color":"1","type":"text","text":"это должно тебе понравиться!"},
+		{"id":"872d7a3e2f873ba1","x":145,"y":-227,"width":250,"height":60,"type":"text","text":"Называется - бесконечный холст заметок"},
+		{"id":"9956dd744798ef42","x":-216,"y":-316,"width":250,"height":89,"color":"2","type":"text","text":"Новые возможности Obsidian!!!"},
+		{"id":"0887e44dd52617ef","x":536,"y":67,"width":280,"height":267,"type":"link","url":"https://mirpodvoha.by"},
+		{"id":"55a0744ef5b67291","x":-313,"y":178,"width":153,"height":120,"type":"file","file":"Вложения/Pasted image 20221222130240.png"}
+	],
+	"edges":[
+		{"id":"4f111a50e2415226","fromNode":"872d7a3e2f873ba1","fromSide":"bottom","toNode":"cb252e3dc219787b","toSide":"top","color":"#389f3f","label":"Переходи дальше"},
+		{"id":"b20918d4b23b2a4f","fromNode":"9956dd744798ef42","fromSide":"right","toNode":"872d7a3e2f873ba1","toSide":"left","color":"1"},
+		{"id":"82318e312c791d42","fromNode":"cb252e3dc219787b","fromSide":"left","toNode":"55a0744ef5b67291","toSide":"right","color":"2","label":"там, просто картинка"},
+		{"id":"c079c75ac31d0d23","fromNode":"cb252e3dc219787b","fromSide":"bottom","toNode":"0887e44dd52617ef","toSide":"top","color":"3","label":"а здесь - ссылка!"}
+	]
+}
