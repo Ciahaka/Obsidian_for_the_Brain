@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "2_JS/Операторы.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "2_JS/Операторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "2_JS/Операторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md"
+                "file": "2_JS/Операторы.md"
               }
             }
           }
@@ -160,11 +160,11 @@
   },
   "active": "23bd8e9a682fff44",
   "lastOpenFiles": [
+    "алгоритмы запуска/Создание react приложения.md",
     "2_JS/DOM/EventTarget.addEventListener().md",
     "2_JS/DOM/EventTarget.md",
     "02_Native JS_TS.md",
     "2_JS/DOM/preventDefault().md",
-    "алгоритмы запуска/Создание react приложения.md",
     "Термины/Технологии/Github.md",
     "2022-12-22.md",
     "Библиотеки и фреймворки/storybook.md",
