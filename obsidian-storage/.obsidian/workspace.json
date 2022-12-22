@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "Array.isArray().md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "Array.isArray().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "Array.isArray().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
+                "file": "Array.isArray().md"
               }
             }
           }
@@ -161,14 +161,14 @@
   "active": "23bd8e9a682fff44",
   "lastOpenFiles": [
     "2_JS/Операторы.md",
+    "Array.isArray().md",
+    "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "алгоритмы запуска/Создание react приложения.md",
     "2_JS/DOM/EventTarget.addEventListener().md",
     "2_JS/DOM/EventTarget.md",
     "02_Native JS_TS.md",
     "2_JS/DOM/preventDefault().md",
     "Термины/Технологии/Github.md",
-    "2022-12-22.md",
-    "Библиотеки и фреймворки/storybook.md",
-    "Тест.canvas"
+    "2022-12-22.md"
   ]
 }
