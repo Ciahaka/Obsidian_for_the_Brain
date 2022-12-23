@@ -5,8 +5,8 @@
 		{"id":"0887e44dd52617ef","x":536,"y":67,"width":280,"height":267,"type":"link","url":"https://mirpodvoha.by"},
 		{"id":"55a0744ef5b67291","x":-313,"y":178,"width":153,"height":120,"type":"file","file":"Вложения/Pasted image 20221222130240.png"},
 		{"id":"872d7a3e2f873ba1","x":170,"y":-191,"width":250,"height":60,"type":"text","text":"Называется - бесконечный холст заметок\nоооо\nтотт\nьолллл\nьооооо\n"},
-		{"id":"fdabf12e8e1c6052","x":95,"y":178,"width":238,"height":200,"type":"link","url":"https://github.com/tamga05/Exams_React/blob/main/src/components/Monday_4.tsx"},
-		{"id":"081630d8653a5236","x":-134,"y":248,"width":256,"height":172,"type":"link","url":"https://github.com/IvanFestina/ts-tests-incubator/tree/47ef064577918727fddaf34649d9feef208bb331/src"}
+		{"id":"081630d8653a5236","x":-134,"y":248,"width":256,"height":172,"type":"link","url":"https://github.com/IvanFestina/ts-tests-incubator/tree/47ef064577918727fddaf34649d9feef208bb331/src"},
+		{"id":"fdabf12e8e1c6052","x":92,"y":420,"width":503,"height":216,"type":"link","url":"https://github.com/tamga05/Exams_React/blob/main/src/components/Monday_4.tsx"}
 	],
 	"edges":[
 		{"id":"4f111a50e2415226","fromNode":"872d7a3e2f873ba1","fromSide":"bottom","toNode":"cb252e3dc219787b","toSide":"top","color":"#389f3f","label":"Переходи дальше"},
