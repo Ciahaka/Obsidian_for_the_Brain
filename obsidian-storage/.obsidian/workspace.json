@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
+                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redu",
+                "query": "some",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
+                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
+                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/reduce.md"
+                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
               }
             }
           }
@@ -160,8 +160,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5d7443410202b074",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
+    "2_JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
     "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "04_hr Позвонит.md",
     "call.md",
@@ -170,7 +171,6 @@
     "Тест.canvas",
     "01_ToDo.md",
     "02_Native JS_TS.md",
-    "2_JS/DOM/preventDefault().md",
-    "2_JS/DOM/EventTarget.addEventListener().md"
+    "2_JS/DOM/preventDefault().md"
   ]
 }
