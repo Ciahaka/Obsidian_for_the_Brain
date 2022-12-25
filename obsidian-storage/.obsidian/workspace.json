@@ -22,8 +22,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "67311641d3883a10",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +161,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "4d87672477fa9dc5",
+  "active": "67311641d3883a10",
   "lastOpenFiles": [
     "01_ToDo.md",
     "02_Native JS_TS.md",
