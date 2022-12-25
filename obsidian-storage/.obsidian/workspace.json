@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-                "mode": "source",
+                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/concat.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "some",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/concat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/concat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
+                "file": "2_JS/Методы/Array (Массивы)/Методы массивов/concat.md"
               }
             }
           }
@@ -162,15 +161,15 @@
   },
   "active": "5d7443410202b074",
   "lastOpenFiles": [
-    "2_JS/Методы/Array (Массивы)/Методы массивов/find.md",
     "2_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+    "2_JS/Методы/Array (Массивы)/Методы массивов/concat.md",
+    "2_JS/Методы/Array (Массивы)/Методы массивов/forEach.md",
+    "2_JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
+    "2_JS/Методы/Array (Массивы)/Методы массивов/find.md",
     "2_JS/Методы/Array (Массивы)/Методы массивов/filter.md",
     "2_JS/Методы/Array (Массивы)/Методы массивов/map.md",
-    "2_JS/Методы/Array (Массивы)/Методы массивов/reduce.md",
     "04_hr Позвонит.md",
     "call.md",
-    "apply.md",
-    "2_JS/Методы/bind.md",
-    "Тест.canvas"
+    "apply.md"
   ]
 }
