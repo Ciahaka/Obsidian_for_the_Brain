@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "apply.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "onB",
+                "query": "apply",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "apply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "apply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "apply.md"
               }
             }
           }
@@ -148,6 +149,8 @@
   },
   "active": "8447bcfa2e14a710",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
+    "2_JS/Методы/bind.md",
     "Тест.canvas",
     "01_ToDo.md",
     "02_Native JS_TS.md",
@@ -155,8 +158,6 @@
     "2_JS/DOM/EventTarget.addEventListener().md",
     "2_JS/DOM/EventTarget.md",
     "2_JS/DOM/EventTarget.dispatchEvent().md",
-    "2_JS/DOM/EventTarget.removeEventListener().md",
-    "Component.md",
-    "Array.isArray().md"
+    "2_JS/DOM/EventTarget.removeEventListener().md"
   ]
 }
