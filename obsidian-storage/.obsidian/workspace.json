@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "18499ebf2471917c",
+        "id": "314e0aece8d68963",
         "type": "tabs",
         "children": [
           {
-            "id": "4d87672477fa9dc5",
+            "id": "8447bcfa2e14a710",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Тест.canvas",
-                "viewState": {
-                  "x": 251.5,
-                  "y": 375.5,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "67311641d3883a10",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тест.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тест.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Тест.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +138,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "67311641d3883a10",
+  "active": "8447bcfa2e14a710",
   "lastOpenFiles": [
+    "Тест.canvas",
     "01_ToDo.md",
     "02_Native JS_TS.md",
     "2_JS/DOM/preventDefault().md",
@@ -171,7 +149,6 @@
     "2_JS/DOM/EventTarget.dispatchEvent().md",
     "2_JS/DOM/EventTarget.removeEventListener().md",
     "Component.md",
-    "Тест.canvas",
     "Array.isArray().md"
   ]
 }
