@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "call.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "call.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "call.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "call.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "8447bcfa2e14a710",
   "lastOpenFiles": [
-    "apply.md",
+    "call.md",
     "04_hr Позвонит.md",
+    "apply.md",
     "2_JS/Методы/bind.md",
     "Тест.canvas",
     "01_ToDo.md",
     "02_Native JS_TS.md",
     "2_JS/DOM/preventDefault().md",
     "2_JS/DOM/EventTarget.addEventListener().md",
-    "2_JS/DOM/EventTarget.md",
-    "2_JS/DOM/EventTarget.dispatchEvent().md"
+    "2_JS/DOM/EventTarget.md"
   ]
 }
