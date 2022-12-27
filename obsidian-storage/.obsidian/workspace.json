@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Условные инструкции.md",
+                "file": "Термины/Mетодологии разработки/Unit test.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Условные инструкции.md",
+                "file": "Термины/Mетодологии разработки/Unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Условные инструкции.md",
+                "file": "Термины/Mетодологии разработки/Unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Условные инструкции.md"
+                "file": "Термины/Mетодологии разработки/Unit test.md"
               }
             }
           }
@@ -173,6 +174,7 @@
   },
   "active": "5c89dbe9d93e3c42",
   "lastOpenFiles": [
+    "3_JS/Условные инструкции.md",
     "4_React/reducer.md",
     "Термины/Mетодологии разработки/Принципы программирования.md",
     "04_hr Позвонит.md",
@@ -181,7 +183,6 @@
     "Термины/Mетодологии разработки/Unit test.md",
     "Термины/Mетодологии разработки/KISS.md",
     "Термины/Mетодологии разработки/Dry.md",
-    "Термины/Mетодологии разработки/SOLID.md",
-    "Термины/Mетодологии разработки/S.md"
+    "Термины/Mетодологии разработки/SOLID.md"
   ]
 }
