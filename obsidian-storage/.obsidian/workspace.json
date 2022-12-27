@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Термины/Mетодологии разработки/Принципы программирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "типы",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Термины/Mетодологии разработки/Принципы программирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Термины/Mетодологии разработки/Принципы программирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "Термины/Mетодологии разработки/Принципы программирования.md"
               }
             }
           }
@@ -147,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "8447bcfa2e14a710",
   "lastOpenFiles": [
+    "Термины/Mетодологии разработки/Dry.md",
+    "Термины/Mетодологии разработки/Принципы программирования.md",
+    "Термины/Mетодологии разработки/SOLID.md",
+    "Термины/Mетодологии разработки/S.md",
+    "Термины/Mетодологии разработки/O.md",
+    "04_hr Позвонит.md",
     "Структуры данных.md",
     "1_HTML/Структура HTML документа.md",
     "06_допы с Игорем.md",
-    "04_hr Позвонит.md",
-    "03_Конспект Incubator.md",
-    "02_Native JS_TS.md",
-    "Термины/Mетодологии разработки/Принципы программирования.md",
-    "4_React/SPA.md",
-    "4_React/reducer.md",
-    "4_React/React DOM.md"
+    "03_Конспект Incubator.md"
   ]
 }
