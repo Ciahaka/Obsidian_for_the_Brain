@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5c89dbe9d93e3c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_JS/Условные инструкции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f08749651e52083d",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "тернар",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Условные инструкции.md",
+                "file": "4_React/reducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Условные инструкции.md",
+                "file": "4_React/reducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Условные инструкции.md"
+                "file": "4_React/reducer.md"
               }
             }
           }
@@ -172,15 +158,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
+    "4_React/reducer.md",
+    "3_JS/Условные инструкции.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "Термины/Mетодологии разработки/БЭМ.md",
     "Термины/Mетодологии разработки/Unit test.md",
-    "3_JS/Условные инструкции.md",
-    "4_React/reducer.md",
     "Термины/Mетодологии разработки/Принципы программирования.md",
-    "04_hr Позвонит.md",
     "Термины/Mетодологии разработки/TDD.md",
     "Термины/Mетодологии разработки/PWA.md",
     "Термины/Mетодологии разработки/KISS.md"
