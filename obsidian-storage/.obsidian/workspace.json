@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "тернар",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5c89dbe9d93e3c42",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "Термины/Mетодологии разработки/БЭМ.md",
