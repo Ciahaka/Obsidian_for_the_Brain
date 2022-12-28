@@ -132,6 +132,7 @@ const findGlobal = (array, func) => {
 
 Метод массива **`forEach()`** выполняет указанную функцию один раз для каждого элемента в массиве.
 Не возвращает новый массив, возвращает [`undefined`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/undefined)
+Перебирает исходный массив, не мутируя его.
 
 Метод `forEach()` выполняет функцию `callback` один раз для каждого элемента, находящегося в массиве в порядке возрастания. Она не будет вызвана для удалённых или пропущенных элементов массива. Однако, она будет вызвана для элементов, которые присутствуют в массиве и имеют значение [`undefined`](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/undefined).
 
