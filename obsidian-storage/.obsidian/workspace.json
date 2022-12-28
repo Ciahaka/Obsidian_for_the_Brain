@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Условные инструкции.md",
+                "file": "01_ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Условные инструкции.md",
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Условные инструкции.md",
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Условные инструкции.md"
+                "file": "01_ToDo.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "f08749651e52083d",
   "lastOpenFiles": [
+    "3_JS/Условные инструкции.md",
     "04_hr Позвонит.md",
     "3_JS/Mетодологии разработки/БЭМ.md",
     "4_React/reducer.md",
-    "3_JS/Условные инструкции.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "3_JS/Mетодологии разработки/Unit test.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
