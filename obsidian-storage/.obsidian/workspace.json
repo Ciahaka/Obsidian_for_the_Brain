@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/reducer.md",
+                "file": "3_JS/Mетодологии разработки/БЭМ.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/reducer.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/reducer.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/reducer.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -158,17 +159,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a531a40b890d1a5",
+  "active": "f08749651e52083d",
   "lastOpenFiles": [
+    "3_JS/Mетодологии разработки/БЭМ.md",
     "04_hr Позвонит.md",
     "4_React/reducer.md",
     "3_JS/Условные инструкции.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-    "Термины/Mетодологии разработки/БЭМ.md",
-    "Термины/Mетодологии разработки/Unit test.md",
-    "Термины/Mетодологии разработки/Принципы программирования.md",
-    "Термины/Mетодологии разработки/TDD.md",
-    "Термины/Mетодологии разработки/PWA.md",
+    "3_JS/Mетодологии разработки/Unit test.md",
+    "3_JS/Mетодологии разработки/Принципы программирования.md",
+    "3_JS/Mетодологии разработки/TDD.md",
+    "3_JS/Mетодологии разработки/PWA.md",
     "Термины/Mетодологии разработки/KISS.md"
   ]
 }
