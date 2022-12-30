@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "f08749651e52083d",
   "lastOpenFiles": [
+    "01_ToDo.md",
     "3_JS/Условные инструкции.md",
     "04_hr Позвонит.md",
     "3_JS/Mетодологии разработки/БЭМ.md",
@@ -169,7 +170,6 @@
     "3_JS/Mетодологии разработки/Unit test.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
     "3_JS/Mетодологии разработки/TDD.md",
-    "3_JS/Mетодологии разработки/PWA.md",
-    "Термины/Mетодологии разработки/KISS.md"
+    "3_JS/Mетодологии разработки/PWA.md"
   ]
 }
