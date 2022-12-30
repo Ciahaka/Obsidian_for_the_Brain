@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apply.md",
+                "file": "3_JS/Функция/apply.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,15 +160,15 @@
   },
   "active": "8447bcfa2e14a710",
   "lastOpenFiles": [
-    "apply.md",
+    "3_JS/Функция/bind.md",
+    "3_JS/Функция/apply.md",
+    "3_JS/Функция/call.md",
     "04_hr Позвонит.md",
-    "call.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
     "4_React/reducer.md",
     "3_JS/Mетодологии разработки/БЭМ.md",
     "4_React/SPA.md",
     "4_React/React DOM.md",
-    "4_React/React.md",
-    "4_React/Component.md"
+    "4_React/React.md"
   ]
 }
