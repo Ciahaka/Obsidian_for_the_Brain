@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/preventDefault().md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/preventDefault().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/preventDefault().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "3_JS/DOM/preventDefault().md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "d8bc55ea171653f5",
   "lastOpenFiles": [
-    "3_JS/DOM/preventDefault().md",
     "04_hr Позвонит.md",
+    "3_JS/DOM/preventDefault().md",
     "3_JS/DOM/Event.md",
     "3_JS/Функция/bind.md",
     "3_JS/Функция/apply.md",
