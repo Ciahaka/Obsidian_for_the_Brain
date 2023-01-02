@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "d8bc55ea171653f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_hr Позвонит.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f08749651e52083d",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pre",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/DOM/preventDefault().md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/DOM/preventDefault().md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/DOM/preventDefault().md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8447bcfa2e14a710",
+  "active": "d8bc55ea171653f5",
   "lastOpenFiles": [
-    "3_JS/DOM/Event.md",
+    "3_JS/DOM/preventDefault().md",
     "04_hr Позвонит.md",
+    "3_JS/DOM/Event.md",
     "3_JS/Функция/bind.md",
     "3_JS/Функция/apply.md",
     "3_JS/Функция/call.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
     "4_React/reducer.md",
     "3_JS/Mетодологии разработки/БЭМ.md",
-    "4_React/SPA.md",
-    "4_React/React DOM.md"
+    "4_React/SPA.md"
   ]
 }
