@@ -160,15 +160,15 @@
   },
   "active": "8ba08d86d642b832",
   "lastOpenFiles": [
+    "1_HTML/Структура HTML документа.md",
+    "04_hr Позвонит.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "3_JS/Функция/детерменированность.md",
-    "04_hr Позвонит.md",
     "Термины/Технологии/Babel.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
     "3_JS/DOM/preventDefault().md",
     "3_JS/Функция/apply.md",
     "3_JS/DOM/Event.md",
-    "3_JS/Функция/bind.md",
-    "3_JS/Функция/call.md"
+    "3_JS/Функция/bind.md"
   ]
 }
