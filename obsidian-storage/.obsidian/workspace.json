@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/Функция/Чистая функция (Pure Function).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/Функция/Чистая функция (Pure Function).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/Функция/Чистая функция (Pure Function).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "3_JS/Функция/Чистая функция (Pure Function).md"
               }
             }
           }
@@ -160,15 +160,15 @@
   },
   "active": "8ba08d86d642b832",
   "lastOpenFiles": [
-    "Термины/Технологии/Babel.md",
+    "3_JS/Функция/детерменированность.md",
     "04_hr Позвонит.md",
+    "Термины/Технологии/Babel.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
     "3_JS/DOM/preventDefault().md",
     "3_JS/Функция/apply.md",
     "3_JS/DOM/Event.md",
     "3_JS/Функция/bind.md",
     "3_JS/Функция/call.md",
-    "4_React/reducer.md",
-    "3_JS/Mетодологии разработки/БЭМ.md"
+    "4_React/reducer.md"
   ]
 }
