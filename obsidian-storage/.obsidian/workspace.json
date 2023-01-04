@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "Links/Полезные ссылки/Вёрстка.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "8ba08d86d642b832",
   "lastOpenFiles": [
-    "1_HTML/Структура HTML документа.md",
     "04_hr Позвонит.md",
+    "1_HTML/Структура HTML документа.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "3_JS/Функция/детерменированность.md",
     "Термины/Технологии/Babel.md",
