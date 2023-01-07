@@ -96,6 +96,16 @@ HyperText Markup Language - язык гипертекстовой разметк
 [MDN Web](https://developer.mozilla.org/ru/docs/Glossary/Viewport)
 Значение атрибута name тега meta, предназначен для определения области видимой пользователю страницы, без прокрутки.
 **viewport** сообщает браузеру о том, как именно обрабатывать размеры страницы, и изменять её масштаб.
+
+Набор meta-тегов для сайтов с адаптивным дизайном, заточенным под мобильные устройства:
+```js
+<meta name='viewport' content='width=device-width,initial-scale=1'/>
+<meta content='true' name='HandheldFriendly'/>
+<meta content='width' name='MobileOptimized'/>
+<meta content='yes' name='apple-mobile-web-app-capable'/>
+```
+
+
 ### body
 Лежит в теге [[#html]] Отображает содержимое страницы
 
