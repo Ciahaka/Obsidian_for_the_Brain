@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_CSS/Общее.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_CSS/Общее.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_CSS/Общее.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_CSS/Общее.md"
+                "file": "алгоритмы запуска/Создание react приложения.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "41cccd7404124cdb",
   "lastOpenFiles": [
+    "2_CSS/Общее.md",
     "алгоритмы запуска/Создание react приложения.md",
     "1_HTML/Структура HTML документа.md",
     "04_hr Позвонит.md",
@@ -169,7 +170,6 @@
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "3_JS/Функция/детерменированность.md",
     "Термины/Технологии/Babel.md",
-    "3_JS/DOM/preventDefault().md",
-    "3_JS/Функция/apply.md"
+    "3_JS/DOM/preventDefault().md"
   ]
 }
