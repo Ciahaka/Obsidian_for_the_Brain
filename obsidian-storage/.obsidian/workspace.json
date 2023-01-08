@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_HTML/Теги.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_HTML/Теги.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_HTML/Теги.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_HTML/Теги.md"
+                "file": "Links/Полезные ссылки/Вёрстка.md"
               }
             }
           }
@@ -173,15 +173,15 @@
   },
   "active": "4641bb16e5b13227",
   "lastOpenFiles": [
+    "2_CSS/Фишки.md",
+    "1_HTML/Теги.md",
     "1_HTML/Структура HTML документа.md",
     "2_CSS/Общее.md",
-    "2_CSS/Фишки.md",
     "body.md",
     "алгоритмы запуска/Создание react приложения.md",
     "04_hr Позвонит.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
     "Links/Полезные ссылки/Вёрстка.md",
-    "3_JS/Функция/Чистая функция (Pure Function).md",
-    "3_JS/Функция/детерменированность.md"
+    "3_JS/Функция/Чистая функция (Pure Function).md"
   ]
 }
