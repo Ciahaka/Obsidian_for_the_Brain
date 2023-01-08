@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ищ",
+                "query": "box",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
