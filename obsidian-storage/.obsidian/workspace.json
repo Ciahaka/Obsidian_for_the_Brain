@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_HTML/Структура HTML документа.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_HTML/Структура HTML документа.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_HTML/Структура HTML документа.md",
+                "file": "Links/Полезные ссылки/Вёрстка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_HTML/Структура HTML документа.md"
+                "file": "Links/Полезные ссылки/Вёрстка.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "e74b6926a1e43236",
   "lastOpenFiles": [
+    "1_HTML/Структура HTML документа.md",
     "1_HTML/Теги.md",
     "2_CSS/Общее.md",
-    "1_HTML/Структура HTML документа.md",
     "Links/Полезные ссылки/Вёрстка.md",
     "2_CSS/Фишки.md",
     "body.md",
