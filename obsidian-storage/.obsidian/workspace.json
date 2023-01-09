@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e74b6926a1e43236",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
     "1_HTML/Теги.md",
     "1_HTML/Структура HTML документа.md",
