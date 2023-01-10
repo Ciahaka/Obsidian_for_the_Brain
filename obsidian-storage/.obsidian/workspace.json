@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Полезные ссылки/Вёрстка.md",
+                "file": "3_JS/Mетодологии разработки/PWA.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "box",
+                "query": "pwa",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links/Полезные ссылки/Вёрстка.md",
+                "file": "3_JS/Mетодологии разработки/PWA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/Полезные ссылки/Вёрстка.md",
+                "file": "3_JS/Mетодологии разработки/PWA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links/Полезные ссылки/Вёрстка.md"
+                "file": "3_JS/Mетодологии разработки/PWA.md"
               }
             }
           }
@@ -148,10 +149,10 @@
   },
   "active": "e74b6926a1e43236",
   "lastOpenFiles": [
+    "Links/Полезные ссылки/Вёрстка.md",
     "1_HTML/Структура HTML документа.md",
     "1_HTML/Теги.md",
     "2_CSS/Общее.md",
-    "Links/Полезные ссылки/Вёрстка.md",
     "2_CSS/Фишки.md",
     "body.md",
     "алгоритмы запуска/Создание react приложения.md",
