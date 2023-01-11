@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Mетодологии разработки/PWA.md",
+                "file": "Термины/Технологии/SEO.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pwa",
+                "query": "SEO",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Mетодологии разработки/PWA.md",
+                "file": "Термины/Технологии/SEO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Mетодологии разработки/PWA.md",
+                "file": "Термины/Технологии/SEO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Mетодологии разработки/PWA.md"
+                "file": "Термины/Технологии/SEO.md"
               }
             }
           }
@@ -149,15 +149,15 @@
   },
   "active": "e74b6926a1e43236",
   "lastOpenFiles": [
-    "Links/Полезные ссылки/Вёрстка.md",
     "1_HTML/Структура HTML документа.md",
+    "3_JS/Mетодологии разработки/PWA.md",
+    "Links/Полезные ссылки/Вёрстка.md",
     "1_HTML/Теги.md",
     "2_CSS/Общее.md",
     "2_CSS/Фишки.md",
     "body.md",
     "алгоритмы запуска/Создание react приложения.md",
     "04_hr Позвонит.md",
-    "3_JS/Mетодологии разработки/Принципы программирования.md",
-    "3_JS/Функция/Чистая функция (Pure Function).md"
+    "3_JS/Mетодологии разработки/Принципы программирования.md"
   ]
 }
