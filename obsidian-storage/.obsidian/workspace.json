@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Термины/Технологии/SEO.md",
+                "file": "1_HTML/Структура HTML документа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6eb52a273c592bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_HTML/Flex-boxes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SEO",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Термины/Технологии/SEO.md",
+                "file": "1_HTML/Flex-boxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Термины/Технологии/SEO.md",
+                "file": "1_HTML/Flex-boxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Термины/Технологии/SEO.md"
+                "file": "1_HTML/Flex-boxes.md"
               }
             }
           }
@@ -147,17 +159,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e74b6926a1e43236",
+  "active": "6eb52a273c592bf3",
   "lastOpenFiles": [
     "1_HTML/Структура HTML документа.md",
+    "1_HTML/Теги.md",
+    "Термины/Технологии/SEO.md",
     "3_JS/Mетодологии разработки/PWA.md",
     "Links/Полезные ссылки/Вёрстка.md",
-    "1_HTML/Теги.md",
     "2_CSS/Общее.md",
     "2_CSS/Фишки.md",
     "body.md",
     "алгоритмы запуска/Создание react приложения.md",
-    "04_hr Позвонит.md",
-    "3_JS/Mетодологии разработки/Принципы программирования.md"
+    "04_hr Позвонит.md"
   ]
 }
