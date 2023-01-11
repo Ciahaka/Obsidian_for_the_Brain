@@ -12,4 +12,10 @@ flex-wrap: nowrap;
 justify-content:flex-start;
 align-items: flex-start;
 align-content: stretch;
+flex-grow: 0;
+flex-shrink: 1;
+flex-basis: auto;
+align-self:auto
 ```
+
+Св-во `justify-content` hfcghtltkztn ''
