@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "4_React/reducer.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "4_React/reducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "4_React/reducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "4_React/reducer.md"
               }
             }
           }
@@ -159,11 +159,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6eb52a273c592bf3",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
-    "4_React/reducer.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "01_ToDo.md",
+    "4_React/reducer.md",
     "3_JS/Методы/trim.md",
     "3_JS/Методы/Array.isArray().md",
     "Тест.canvas",
