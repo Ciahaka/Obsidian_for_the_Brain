@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/reducer.md",
+                "file": "3_JS/Mетодологии разработки/Unit test.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/reducer.md",
+                "file": "3_JS/Mетодологии разработки/Unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/reducer.md",
+                "file": "3_JS/Mетодологии разработки/Unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/reducer.md"
+                "file": "3_JS/Mетодологии разработки/Unit test.md"
               }
             }
           }
@@ -159,17 +160,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a531a40b890d1a5",
+  "active": "6eb52a273c592bf3",
   "lastOpenFiles": [
+    "07_Практики и алгоритмы кодинга.md",
+    "4_React/reducer.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "01_ToDo.md",
-    "4_React/reducer.md",
     "3_JS/Методы/trim.md",
     "3_JS/Методы/Array.isArray().md",
     "Тест.canvas",
     "Пузырьковая сортировка.md",
     "Псевдоистина.md",
-    "Typescript/Объединение типов.md",
-    "Библиотеки и фреймворки/Без названия.md"
+    "Typescript/Объединение типов.md"
   ]
 }
