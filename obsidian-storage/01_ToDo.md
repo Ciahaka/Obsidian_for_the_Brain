@@ -45,7 +45,7 @@
 [31:35](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1895s) – чекбокс
 [44:30](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=2670s) – AppBar
 [47:10](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=2830s) – Container, grid
-	## reducer
+## reducer
 [8:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=480s) – как работает reducer 
 [10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тесты
 [19:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1140s) – тесты для reducer
@@ -56,6 +56,10 @@
 [58:40](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=3520s) – типизация actions
 [1:07:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=4020s) – action creators
 [1:18:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=4710s) – debugger
+## Reducer for tasks
+**14:40** – начало  
+**21:40** – тесты  
+**56:40** – white board
 
 Удаление тасок
 #Удаление_тасок
