@@ -45,7 +45,7 @@
 [31:35](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1895s) – чекбокс
 [44:30](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=2670s) – AppBar
 [47:10](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=2830s) – Container, grid
-## reducer
+	## reducer
 [8:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=480s) – как работает reducer 
 [10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тесты
 [19:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1140s) – тесты для reducer

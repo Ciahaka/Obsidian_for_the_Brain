@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Методы/trim.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "redu",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Методы/trim.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Методы/trim.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Методы/trim.md"
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
               }
             }
           }
@@ -161,6 +162,8 @@
   },
   "active": "6eb52a273c592bf3",
   "lastOpenFiles": [
+    "01_ToDo.md",
+    "3_JS/Методы/trim.md",
     "3_JS/Методы/Array.isArray().md",
     "Тест.canvas",
     "Пузырьковая сортировка.md",
@@ -168,8 +171,6 @@
     "Typescript/Объединение типов.md",
     "Библиотеки и фреймворки/Без названия.md",
     "2_CSS/Flex-boxes.md",
-    "2_CSS/Общее.md",
-    "Библиотеки и фреймворки/storybook.md",
-    "1_HTML/Структура HTML документа.md"
+    "2_CSS/Общее.md"
   ]
 }
