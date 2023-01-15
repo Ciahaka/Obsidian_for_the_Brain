@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "4_React/reducer.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redu",
+                "query": "reducer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "4_React/reducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
+                "file": "4_React/reducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
+                "file": "4_React/reducer.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "6eb52a273c592bf3",
   "lastOpenFiles": [
+    "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "01_ToDo.md",
     "3_JS/Методы/trim.md",
     "3_JS/Методы/Array.isArray().md",
@@ -170,7 +171,6 @@
     "Псевдоистина.md",
     "Typescript/Объединение типов.md",
     "Библиотеки и фреймворки/Без названия.md",
-    "2_CSS/Flex-boxes.md",
-    "2_CSS/Общее.md"
+    "2_CSS/Flex-boxes.md"
   ]
 }
