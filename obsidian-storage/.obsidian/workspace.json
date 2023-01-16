@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "3_JS/Mетодологии разработки/Принципы программирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "3_JS/Mетодологии разработки/Принципы программирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "3_JS/Mетодологии разработки/Принципы программирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "3_JS/Mетодологии разработки/Принципы программирования.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "6eb52a273c592bf3",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
+    "01_ToDo.md",
     "3_JS/Mетодологии разработки/Unit test.md",
     "07_Практики и алгоритмы кодинга.md",
     "4_React/reducer.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-    "01_ToDo.md",
     "3_JS/Методы/trim.md",
     "3_JS/Методы/Array.isArray().md",
     "Тест.canvas",
-    "Пузырьковая сортировка.md",
-    "Псевдоистина.md"
+    "Пузырьковая сортировка.md"
   ]
 }
