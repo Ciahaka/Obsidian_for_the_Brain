@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c12d75475ec82d93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/Полезные ссылки/Курс. Поиск в Google.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6406618f0f152e95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/Полезные ссылки/Курс. Поиск в Google.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Mетодологии разработки/Принципы программирования.md",
+                "file": "Links/Полезные ссылки/Курс. Поиск в Google.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Mетодологии разработки/Принципы программирования.md",
+                "file": "Links/Полезные ссылки/Курс. Поиск в Google.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Mетодологии разработки/Принципы программирования.md"
+                "file": "Links/Полезные ссылки/Курс. Поиск в Google.md"
               }
             }
           }
@@ -159,17 +183,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6eb52a273c592bf3",
+  "active": "6406618f0f152e95",
   "lastOpenFiles": [
-    "04_hr Позвонит.md",
+    "Links/Полезные ссылки/Вёрстка.md",
+    "Links/Полезные ссылки/Курс. Поиск в Google.md",
+    "Links/Полезные ссылки/О содержании курса CS50.md",
+    "Links/Полезные ссылки/Шаблоны и макеты.md",
     "01_ToDo.md",
+    "3_JS/Mетодологии разработки/Принципы программирования.md",
+    "04_hr Позвонит.md",
     "3_JS/Mетодологии разработки/Unit test.md",
     "07_Практики и алгоритмы кодинга.md",
-    "4_React/reducer.md",
-    "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-    "3_JS/Методы/trim.md",
-    "3_JS/Методы/Array.isArray().md",
-    "Тест.canvas",
-    "Пузырьковая сортировка.md"
+    "4_React/reducer.md"
   ]
 }
