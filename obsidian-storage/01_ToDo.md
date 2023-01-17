@@ -7,7 +7,7 @@
 [1:18:54](https://www.youtube.com/watch?v=HSLVvWuS6s0&t=4734s) - ИТОГ
 
 ## 03 - TodoList for students
-[2:11](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=131s) - [[#UUID]] - Подключение uuid к проекту
+[[#UUID]] - Подключение uuid к проекту
 [7:48](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=468s) - про key
 [9:18](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=558s) - addTask
 [17:05](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1025s) - чтение значения из input
@@ -73,5 +73,13 @@
 #фильтрация_тасок
 
 ### UUID
+[Dimich](https://samurai.it-incubator.ru/pc/video-content/watch/60b510c6f084890015872dbf)
+UUID - библиотека, которая генерирует текстовые, уникальные id
+Подключение к проекту
+```ts
+yarn add uuid
+yarn add @types/uuid
+```
+``
 
 
