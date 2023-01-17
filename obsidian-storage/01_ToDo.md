@@ -5,7 +5,9 @@
 [43:06](https://www.youtube.com/watch?v=HSLVvWuS6s0&t=2586s) - Local State (useState)
 [1:04:21](https://www.youtube.com/watch?v=HSLVvWuS6s0&t=3861s) - фильтрация задач (all | active | completed)
 [1:18:54](https://www.youtube.com/watch?v=HSLVvWuS6s0&t=4734s) - ИТОГ
-[2:11](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=131s) - uuid
+
+## 03 - TodoList for students
+[2:11](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=131s) - [[#UUID]] - Подключение uuid к проекту
 [7:48](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=468s) - про key
 [9:18](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=558s) - addTask
 [17:05](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1025s) - чтение значения из input
@@ -69,4 +71,7 @@
 
 Фильтрация состояния тасок
 #фильтрация_тасок
+
+### UUID
+
 
