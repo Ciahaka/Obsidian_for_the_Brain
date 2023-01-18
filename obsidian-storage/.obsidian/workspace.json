@@ -185,6 +185,8 @@
   },
   "active": "6406618f0f152e95",
   "lastOpenFiles": [
+    "useReducer.md",
+    "4_React/Хук.md",
     "07_Практики и алгоритмы кодинга.md",
     "02_Native JS_TS.md",
     "Библиотеки и фреймворки/Bootstrap.md",
@@ -192,8 +194,6 @@
     "Библиотеки и фреймворки/Material UI.md",
     "01_ToDo.md",
     "04_hr Позвонит.md",
-    "05_Computer Science Interview.md",
-    "03_Конспект Incubator.md",
-    "Links/Полезные ссылки/Курс. Поиск в Google.md"
+    "05_Computer Science Interview.md"
   ]
 }
