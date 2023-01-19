@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memo",
+                "query": "кэ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +160,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7b53a8b82595b3b8",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
     "04_hr Позвонит.md",
     "Links/Полезные ссылки/Курс. Поиск в Google.md",
