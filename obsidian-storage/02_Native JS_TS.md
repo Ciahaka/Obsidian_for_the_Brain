@@ -2,7 +2,7 @@
 [onClick](https://youtu.be/cLxzFhW_dgY?t=997)  
 [event](https://youtu.be/cLxzFhW_dgY?t=1177)  
 [addEventListener](https://youtu.be/cLxzFhW_dgY?t=1598)  
- 
+[[#onChange]]
 [onBlur](https://youtu.be/cLxzFhW_dgY?t=2227)  
 [event](https://youtu.be/cLxzFhW_dgY?t=2374)
 [[Деструктуризация]]
@@ -19,8 +19,10 @@ useState<number>(5)
 ```
 и сделав приведение к типу в самом обработчике. 
 ```ts
-onChange = {setState(+)}
+onChange = {setState(+e.currentTarget.value)}  /- первый способ
+onChange = {setState(Number(e.currentTarget.value))}  /- второй способ			
 ```
+
 ### Ассоциативный массив
 - организационная структура хранения данных. По факту - обычный объект, хранящий в себе массив(ы).
 Существует два способа обращения к свойству объекта:
