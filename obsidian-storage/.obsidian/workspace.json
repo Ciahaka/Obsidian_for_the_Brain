@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "02_Native JS_TS.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "onChange",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "02_Native JS_TS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "02_Native JS_TS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/Хук.md"
+                "file": "02_Native JS_TS.md"
               }
             }
           }
@@ -148,15 +149,15 @@
   },
   "active": "6406618f0f152e95",
   "lastOpenFiles": [
+    "onChange.md",
+    "4_React/Хук.md",
     "04_hr Позвонит.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
     "3_JS/DOM/preventDefault().md",
     "Links/Полезные ссылки/Курс. Поиск в Google.md",
     "1_HTML/Структура HTML документа.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
-    "4_React/Хук.md",
     "useReducer.md",
-    "07_Практики и алгоритмы кодинга.md",
-    "02_Native JS_TS.md"
+    "07_Практики и алгоритмы кодинга.md"
   ]
 }
