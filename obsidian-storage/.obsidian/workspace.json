@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "onChange",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6406618f0f152e95",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
     "onChange.md",
     "4_React/Хук.md",
