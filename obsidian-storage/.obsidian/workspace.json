@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/Jest.md",
+                "file": "5_Unit Test/Unit test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/Jest.md",
+                "file": "5_Unit Test/Unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/Jest.md",
+                "file": "5_Unit Test/Unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/Jest.md"
+                "file": "5_Unit Test/Unit test.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "869f6fcfdfe1cdd0",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/Jest.md",
     "04_hr Позвонит.md",
     "event loop.md",
-    "Библиотеки и фреймворки/Jest.md",
     "02_Native JS_TS.md",
     "Библиотеки и фреймворки/Swagger.md",
     "Библиотеки и фреймворки/Bootstrap.md",
