@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Библиотеки и фреймворки/Bootstrap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6743415483917b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swagger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Swagger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Swagger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "Swagger.md"
               }
             }
           }
@@ -159,17 +171,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a531a40b890d1a5",
+  "active": "6743415483917b0d",
   "lastOpenFiles": [
-    "3_JS/DOM/DOM.md",
+    "Библиотеки и фреймворки/Bootstrap.md",
     "04_hr Позвонит.md",
+    "3_JS/DOM/DOM.md",
     "4_React/React.md",
     "4_React/Хук.md",
     "Библиотеки и фреймворки/Tailwind CSS.md",
     "02_Native JS_TS.md",
     "onChange.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
-    "3_JS/DOM/preventDefault().md",
-    "Links/Полезные ссылки/Курс. Поиск в Google.md"
+    "3_JS/DOM/preventDefault().md"
   ]
 }
