@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6406618f0f152e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "event loop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "869f6fcfdfe1cdd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Библиотеки и фреймворки/Jest.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "event loop.md",
+                "file": "Библиотеки и фреймворки/Jest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "event loop.md",
+                "file": "Библиотеки и фреймворки/Jest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "event loop.md"
+                "file": "Библиотеки и фреймворки/Jest.md"
               }
             }
           }
@@ -158,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6406618f0f152e95",
+  "active": "869f6fcfdfe1cdd0",
   "lastOpenFiles": [
-    "02_Native JS_TS.md",
     "04_hr Позвонит.md",
+    "event loop.md",
+    "Библиотеки и фреймворки/Jest.md",
+    "02_Native JS_TS.md",
     "Библиотеки и фреймворки/Swagger.md",
     "Библиотеки и фреймворки/Bootstrap.md",
     "3_JS/DOM/DOM.md",
     "4_React/React.md",
     "4_React/Хук.md",
-    "Библиотеки и фреймворки/Tailwind CSS.md",
-    "onChange.md",
-    "3_JS/DOM/EventTarget.addEventListener().md"
+    "Библиотеки и фреймворки/Tailwind CSS.md"
   ]
 }
