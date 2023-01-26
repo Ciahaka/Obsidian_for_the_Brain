@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e1e9073b52b0839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Unit Test/Unit test.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Unit Test/Unit test.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Unit Test/Unit test.md"
+                "file": "Библиотеки и фреймворки/ChatGPT.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "869f6fcfdfe1cdd0",
+  "active": "6e1e9073b52b0839",
   "lastOpenFiles": [
+    "5_Unit Test/Unit test.md",
     "Библиотеки и фреймворки/Jest.md",
     "04_hr Позвонит.md",
     "event loop.md",
@@ -156,7 +170,6 @@
     "Библиотеки и фреймворки/Bootstrap.md",
     "3_JS/DOM/DOM.md",
     "4_React/React.md",
-    "4_React/Хук.md",
-    "Библиотеки и фреймворки/Tailwind CSS.md"
+    "4_React/Хук.md"
   ]
 }
