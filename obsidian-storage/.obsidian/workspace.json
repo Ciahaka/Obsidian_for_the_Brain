@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "алгоритмы запуска/Создание react приложения.md"
+                "file": "Библиотеки и фреймворки/ChatGPT.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "6e1e9073b52b0839",
   "lastOpenFiles": [
+    "алгоритмы запуска/Создание react приложения.md",
     "Библиотеки и фреймворки/ChatGPT.md",
     "Links/Полезные ссылки/Шаблоны и макеты.md",
     "2_CSS/Общее.md",
@@ -169,7 +170,6 @@
     "5_Unit Test/Unit test.md",
     "Библиотеки и фреймворки/Jest.md",
     "04_hr Позвонит.md",
-    "event loop.md",
-    "02_Native JS_TS.md"
+    "event loop.md"
   ]
 }
