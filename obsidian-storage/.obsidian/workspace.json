@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "04_hr Позвонит.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,7 +159,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "869f6fcfdfe1cdd0",
   "lastOpenFiles": [
     "Библиотеки и фреймворки/ChatGPT.md",
     "5_Unit Test/Unit test.md",
