@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "869f6fcfdfe1cdd0",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/ChatGPT.md",
     "5_Unit Test/Unit test.md",
     "Библиотеки и фреймворки/Swagger.md",
-    "Библиотеки и фреймворки/ChatGPT.md",
     "2_CSS/Общее.md",
     "2_CSS/Фишки.md",
     "алгоритмы запуска/Создание react приложения.md",
