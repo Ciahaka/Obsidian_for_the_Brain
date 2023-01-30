@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "Библиотеки и фреймворки/Swagger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "5_Unit Test/Unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "5_Unit Test/Unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md"
+                "file": "5_Unit Test/Unit test.md"
               }
             }
           }
@@ -159,17 +158,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6e1e9073b52b0839",
+  "active": "869f6fcfdfe1cdd0",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/Swagger.md",
+    "Библиотеки и фреймворки/ChatGPT.md",
     "2_CSS/Общее.md",
     "2_CSS/Фишки.md",
-    "Библиотеки и фреймворки/ChatGPT.md",
     "алгоритмы запуска/Создание react приложения.md",
     "Links/Полезные ссылки/Шаблоны и макеты.md",
     "1_HTML/Теги.md",
     "1_HTML/Структура HTML документа.md",
     "5_Unit Test/Unit test.md",
-    "Библиотеки и фреймворки/Jest.md",
-    "04_hr Позвонит.md"
+    "Библиотеки и фреймворки/Jest.md"
   ]
 }
