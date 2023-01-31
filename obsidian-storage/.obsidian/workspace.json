@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Eve",
+                "query": "event",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,15 +161,15 @@
   },
   "active": "869f6fcfdfe1cdd0",
   "lastOpenFiles": [
-    "Библиотеки и фреймворки/Swagger.md",
-    "3_JS/DOM/preventDefault().md",
-    "Библиотеки и фреймворки/ChatGPT.md",
+    "3_JS/DOM/Event.md",
     "local storage.md",
+    "localeCompare.md",
+    "3_JS/DOM/preventDefault().md",
+    "Библиотеки и фреймворки/Swagger.md",
+    "Библиотеки и фреймворки/ChatGPT.md",
     "04_hr Позвонит.md",
     "5_Unit Test/Unit test.md",
     "2_CSS/Общее.md",
-    "2_CSS/Фишки.md",
-    "алгоритмы запуска/Создание react приложения.md",
-    "Links/Полезные ссылки/Шаблоны и макеты.md"
+    "2_CSS/Фишки.md"
   ]
 }
