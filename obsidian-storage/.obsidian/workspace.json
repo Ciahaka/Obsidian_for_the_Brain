@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "3_JS/DOM/preventDefault().md",
                 "mode": "preview",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Eve",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "3_JS/DOM/preventDefault().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "3_JS/DOM/preventDefault().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md"
+                "file": "3_JS/DOM/preventDefault().md"
               }
             }
           }
@@ -160,9 +161,9 @@
   },
   "active": "869f6fcfdfe1cdd0",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/ChatGPT.md",
     "local storage.md",
     "04_hr Позвонит.md",
-    "Библиотеки и фреймворки/ChatGPT.md",
     "5_Unit Test/Unit test.md",
     "Библиотеки и фреймворки/Swagger.md",
     "2_CSS/Общее.md",
