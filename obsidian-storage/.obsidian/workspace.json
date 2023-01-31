@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "869f6fcfdfe1cdd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_hr Позвонит.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6e1e9073b52b0839",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/Swagger.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,17 +146,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "869f6fcfdfe1cdd0",
+  "active": "6e1e9073b52b0839",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/ChatGPT.md",
     "Библиотеки и фреймворки/Swagger.md",
+    "().md",
     "04_hr Позвонит.md",
     "3_JS/DOM/preventDefault().md",
     "3_JS/DOM/Event.md",
     "local storage.md",
     "localeCompare.md",
-    "Библиотеки и фреймворки/ChatGPT.md",
     "5_Unit Test/Unit test.md",
-    "2_CSS/Общее.md",
-    "2_CSS/Фишки.md"
+    "2_CSS/Общее.md"
   ]
 }
