@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3_JS/DOM/preventDefault().md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -161,15 +161,15 @@
   },
   "active": "869f6fcfdfe1cdd0",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/Swagger.md",
+    "3_JS/DOM/preventDefault().md",
     "Библиотеки и фреймворки/ChatGPT.md",
     "local storage.md",
     "04_hr Позвонит.md",
     "5_Unit Test/Unit test.md",
-    "Библиотеки и фреймворки/Swagger.md",
     "2_CSS/Общее.md",
     "2_CSS/Фишки.md",
     "алгоритмы запуска/Создание react приложения.md",
-    "Links/Полезные ссылки/Шаблоны и макеты.md",
-    "1_HTML/Теги.md"
+    "Links/Полезные ссылки/Шаблоны и макеты.md"
   ]
 }
