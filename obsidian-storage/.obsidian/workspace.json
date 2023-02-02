@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/DOM/target.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/DOM/target.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/DOM/target.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/DOM/target.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -149,9 +148,9 @@
   },
   "active": "6e1e9073b52b0839",
   "lastOpenFiles": [
+    "3_JS/DOM/target.md",
     "3_JS/DOM/currentTarget.md",
     "universal input.md",
-    "3_JS/DOM/target.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
     "Библиотеки и фреймворки/ChatGPT.md",
     "04_hr Позвонит.md",
