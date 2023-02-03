@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "4_React/reducer.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "useState",
+                "query": "action",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "4_React/reducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "4_React/reducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/Хук.md"
+                "file": "4_React/reducer.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "6e1e9073b52b0839",
   "lastOpenFiles": [
+    "4_React/Хук.md",
     "3_JS/DOM/DOM.md",
     "04_hr Позвонит.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
@@ -165,7 +166,6 @@
     "куки.md",
     "01_ToDo.md",
     "02_Native JS_TS.md",
-    "Библиотеки и фреймворки/ChatGPT.md",
-    "3_JS/DOM/target.md"
+    "Библиотеки и фреймворки/ChatGPT.md"
   ]
 }
