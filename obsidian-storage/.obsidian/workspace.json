@@ -157,15 +157,15 @@
   },
   "active": "6e1e9073b52b0839",
   "lastOpenFiles": [
-    "3_JS/Функция/Иммутабельность.md",
+    "3_JS/Функция/side-effects.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
+    "3_JS/Функция/Иммутабельность.md",
     "детерминированность.md",
     "4_React/reducer.md",
     "4_React/Хук.md",
     "3_JS/DOM/DOM.md",
     "04_hr Позвонит.md",
     "3_JS/Mетодологии разработки/Принципы программирования.md",
-    "session storage.md",
-    "local storage.md"
+    "session storage.md"
   ]
 }
