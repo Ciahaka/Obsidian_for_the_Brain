@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -156,8 +156,8 @@
   },
   "active": "6e1e9073b52b0839",
   "lastOpenFiles": [
-    "04_hr Позвонит.md",
     "Библиотеки и фреймворки/ChatGPT.md",
+    "04_hr Позвонит.md",
     "3_JS/Операторы.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "3_JS/Функция/side-effects.md",
