@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Функция/apply.md",
+                "file": "4_React/Хук.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hoo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Функция/apply.md",
+                "file": "4_React/Хук.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Функция/apply.md",
+                "file": "4_React/Хук.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Функция/apply.md"
+                "file": "4_React/Хук.md"
               }
             }
           }
@@ -156,6 +157,7 @@
   },
   "active": "6e1e9073b52b0839",
   "lastOpenFiles": [
+    "3_JS/Функция/apply.md",
     "04_hr Позвонит.md",
     "Библиотеки и фреймворки/ChatGPT.md",
     "3_JS/Операторы.md",
@@ -164,7 +166,6 @@
     "3_JS/Функция/Иммутабельность.md",
     "детерминированность.md",
     "4_React/reducer.md",
-    "4_React/Хук.md",
-    "3_JS/DOM/DOM.md"
+    "4_React/Хук.md"
   ]
 }
