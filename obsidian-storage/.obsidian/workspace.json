@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Термины/Технологии/Babel.md",
+                "file": "Термины/Технологии/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "babel",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Термины/Технологии/Babel.md",
+                "file": "Термины/Технологии/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Термины/Технологии/Babel.md",
+                "file": "Термины/Технологии/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Термины/Технологии/Babel.md"
+                "file": "Термины/Технологии/Git.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "c4c7babf8975bf86",
   "lastOpenFiles": [
+    "Термины/Технологии/Babel.md",
     "Термины/Технологии/Git.md",
     "4_React/React.md",
     "4_React/Component.md",
@@ -165,7 +166,6 @@
     "2_CSS/Flex-boxes.md",
     "1_HTML/Теги.md",
     "1_HTML/Структура HTML документа.md",
-    "04_hr Позвонит.md",
-    "dddddddd.md"
+    "04_hr Позвонит.md"
   ]
 }
