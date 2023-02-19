@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df6bb7e7b0c017fa",
+        "id": "7c56e267c0cfbc15",
         "type": "tabs",
         "children": [
           {
-            "id": "c4c7babf8975bf86",
+            "id": "5dce8ae2f50cd94d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деструктуризация.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f602efb7e8ee388e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2fb721f718b55e22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Деструктуризация функции.md",
+                "file": "4_React/reducer.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деструктуризация.md",
+                "file": "4_React/reducer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деструктуризация.md",
+                "file": "4_React/reducer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деструктуризация.md"
+                "file": "4_React/reducer.md"
               }
             }
           },
@@ -174,17 +154,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c4c7babf8975bf86",
+  "active": "5dce8ae2f50cd94d",
   "lastOpenFiles": [
-    "Деструктуризация функции.md",
-    "Деструктуризация.md",
-    "Деструктуризация объекта.md",
-    "Деструктуризация массива.md",
-    "07_Практики и алгоритмы кодинга.md",
-    "Псевдоистина.md",
-    "тест тест.md",
-    "callback.md",
-    "dddddddd.md",
-    "3_JS/event loop.md"
+    "5_Unit Test/Unit test.md",
+    "Термины/Технологии/Git.md",
+    "obsidian help/Синронизация с git.md",
+    "obsidian help/Якорь в тексте.md",
+    "obsidian help/Стилистика readme.md",
+    "01_ToDo.md",
+    "02_Native JS_TS.md",
+    "03_Конспект Incubator.md",
+    "04_hr Позвонит.md",
+    "05_Computer Science Interview.md"
   ]
 }
