@@ -1,0 +1,10 @@
+From 63a8d30e00fc174944293f08ca04cc260ef8d965 Mon Sep 17 00:00:00 2001
+From: Ciahaka <wilddiver.by@gmail.com>
+Date: Fri, 17 Feb 2023 16:41:08 +0300
+Subject: vault backup: 2023-02-17 16:41:08
+
+
+diff --git a/obsidian-storage/Books/books-pdf.zip b/obsidian-storage/Books/books-pdf.zip
+new file mode 100644
+index 0000000..6b774b1
+Binary files /dev/null and b/obsidian-storage/Books/books-pdf.zip differ
