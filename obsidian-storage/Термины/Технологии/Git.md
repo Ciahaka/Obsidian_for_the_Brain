@@ -51,6 +51,9 @@ git rm -r --cached .idea
 ```js
 git rm имя файла
 ```
-#git
 
-[]()
+### Удаление commit с удалённого репозитор
+
+
+
+#git
