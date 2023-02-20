@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Термины/Технологии/Github.md",
+                "file": "6_Git/Github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63f71ebcaf236e27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Термины/Технологии/Node.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Термины/Технологии/Github.md",
+                "file": "Термины/Технологии/Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Термины/Технологии/Github.md",
+                "file": "Термины/Технологии/Node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Термины/Технологии/Github.md"
+                "file": "Термины/Технологии/Node.js.md"
               }
             }
           },
@@ -154,17 +167,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5dce8ae2f50cd94d",
+  "active": "63f71ebcaf236e27",
   "lastOpenFiles": [
+    "6_Git/Github.md",
+    "6_Git/Git.md",
+    "6_Git/commit.md",
+    "Без названия.md",
     "2_CSS/Фишки.md",
-    "Термины/Технологии/Git.md",
     "алгоритмы запуска/Создание react приложения.md",
     "1_HTML/Структура HTML документа.md",
     "1_HTML/Теги.md",
     "2_CSS/Общее.md",
-    "2_CSS/Flex-boxes.md",
-    "2_CSS/Grid.md",
-    "4_React/Хук.md",
-    "4_React/Component.md"
+    "2_CSS/Flex-boxes.md"
   ]
 }
