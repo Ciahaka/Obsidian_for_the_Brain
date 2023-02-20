@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Термины/Технологии/Node.js.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Термины/Технологии/Node.js.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Термины/Технологии/Node.js.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Термины/Технологии/Node.js.md"
+                "file": "Библиотеки и фреймворки/ChatGPT.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "63f71ebcaf236e27",
   "lastOpenFiles": [
+    "Термины/Технологии/Node.js.md",
     "6_Git/Github.md",
     "6_Git/Git.md",
     "6_Git/commit.md",
@@ -177,7 +178,6 @@
     "алгоритмы запуска/Создание react приложения.md",
     "1_HTML/Структура HTML документа.md",
     "1_HTML/Теги.md",
-    "2_CSS/Общее.md",
-    "2_CSS/Flex-boxes.md"
+    "2_CSS/Общее.md"
   ]
 }
