@@ -124,7 +124,7 @@ WS делает снимки с каждым изменением кода, и �
 Для того, чтобы гисты работали, аккаунт github должен быть привязан к проекту
 
 ### Несколько учёток Github на одной машине
-
+[stackov](https://stackoverflow.com/questions/3860112/multiple-github-accounts-on-the-same-computer/3860139#3860139) или [code.tutsplus](https://code.tutsplus.com/tutorials/quick-tip-how-to-work-with-github-and-multiple-accounts--net-22574)
 Создаём новый профилm на Github, заходим в настройки профиля, клацаем `SSH and GPG keys`, далее на `Generating a new SSH key and adding it to the ssh-agent` Получаем строку
 ```shell
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
