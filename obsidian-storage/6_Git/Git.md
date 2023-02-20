@@ -137,7 +137,17 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com"
 В папке SHH появятся новые ключи. Публичный ключ (расширение .pub) копируем и идём привязывать к своему новому аккаунту. Настройки --> SSH and GPG -->New SSH keys --> Вставляем и подтверждаем
 Далее нужно в папке SSH создать и отредактировать файл config.
 ```shell
-
+#Default GitHub
+Host github.com
+HostName github.com
+ User git
+ IdentityFile ~/.ssh/id_ed25519
+ 
+#Dev2 GitHub account
+Host github-safrondev2
+HostName github.com 
+ User git 
+ IdentityFile ~/.ssh/id_ed25519_dev2
 ```
 
 #git
