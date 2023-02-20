@@ -95,5 +95,7 @@ git push -f  - //завершает процесс, убирая комиты с
 ![[Pasted image 20230219233850.png]]
 ![[Pasted image 20230219233914.png]]
 
+### Git Stash / Unstash
+Команда для 
 
 #git
