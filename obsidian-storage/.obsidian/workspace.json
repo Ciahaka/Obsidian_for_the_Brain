@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "universal button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "universal button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Git/Git.md"
+                "file": "universal button.md"
               }
             }
           },
@@ -180,11 +180,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "63f71ebcaf236e27",
+  "active": "7c7fff52b23e13c9",
   "lastOpenFiles": [
-    "universal input.md",
     "6_Git/Github.md",
     "6_Git/Git.md",
+    "universal input.md",
     "universal button.md",
     "Mетодологии разработки/БЭМ.md",
     "04_hr Позвонит.md",
