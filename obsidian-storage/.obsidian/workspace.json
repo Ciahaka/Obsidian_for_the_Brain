@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c7fff52b23e13c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "universal button.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "universal button.md",
+                "file": "6_Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "universal button.md",
+                "file": "6_Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "universal button.md"
+                "file": "6_Git/Git.md"
               }
             }
           },
@@ -180,12 +168,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7c7fff52b23e13c9",
+  "active": "63f71ebcaf236e27",
   "lastOpenFiles": [
+    "universal button.md",
     "6_Git/Github.md",
     "6_Git/Git.md",
     "universal input.md",
-    "universal button.md",
     "Mетодологии разработки/БЭМ.md",
     "04_hr Позвонит.md",
     "Библиотеки и фреймворки/ChatGPT.md",
