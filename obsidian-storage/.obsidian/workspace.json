@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Термины/Технологии/Git.md",
+                "file": "2_CSS/Фишки.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Термины/Технологии/Git.md",
+                "file": "2_CSS/Фишки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Термины/Технологии/Git.md",
+                "file": "2_CSS/Фишки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Термины/Технологии/Git.md"
+                "file": "2_CSS/Фишки.md"
               }
             }
           },
@@ -157,8 +156,8 @@
   },
   "active": "5dce8ae2f50cd94d",
   "lastOpenFiles": [
-    "алгоритмы запуска/Создание react приложения.md",
     "Термины/Технологии/Git.md",
+    "алгоритмы запуска/Создание react приложения.md",
     "1_HTML/Структура HTML документа.md",
     "1_HTML/Теги.md",
     "2_CSS/Общее.md",
