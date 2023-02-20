@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c7fff52b23e13c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "universal button.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -170,15 +182,15 @@
   },
   "active": "63f71ebcaf236e27",
   "lastOpenFiles": [
+    "universal button.md",
+    "6_Git/Git.md",
     "Mетодологии разработки/БЭМ.md",
     "04_hr Позвонит.md",
     "Библиотеки и фреймворки/ChatGPT.md",
     "Термины/Технологии/Node.js.md",
     "6_Git/Github.md",
-    "6_Git/Git.md",
     "6_Git/commit.md",
     "Без названия.md",
-    "2_CSS/Фишки.md",
-    "алгоритмы запуска/Создание react приложения.md"
+    "2_CSS/Фишки.md"
   ]
 }
