@@ -144,10 +144,12 @@ HostName github.com
  IdentityFile ~/.ssh/id_ed25519
  
 #Dev2 GitHub account
-Host github-safrondev2
+Host github-safrondev2     //<-- меняем на путь к нашему аккаунту
 HostName github.com 
  User git 
- IdentityFile ~/.ssh/id_ed25519_dev2
+ IdentityFile ~/.ssh/id_ed25519_dev2   // <-- указываем новый ключ
 ```
+Далее, при создании нового репозитория можно указывать новую ссылку `github-safrondev2` вместо `github.com` например.
+
 
 #git
