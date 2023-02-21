@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c14317c3058b65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Деструктуризация.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07_Практики и алгоритмы кодинга.md",
+                "file": "Деструктуризация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07_Практики и алгоритмы кодинга.md",
+                "file": "Деструктуризация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07_Практики и алгоритмы кодинга.md"
+                "file": "Деструктуризация.md"
               }
             }
           },
@@ -168,8 +180,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "63f71ebcaf236e27",
+  "active": "5c14317c3058b65c",
   "lastOpenFiles": [
+    "07_Практики и алгоритмы кодинга.md",
     "6_Git/Git.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
     "Деструктуризация.md",
@@ -178,7 +191,6 @@
     "04_hr Позвонит.md",
     "universal button.md",
     "6_Git/Github.md",
-    "universal input.md",
-    "Mетодологии разработки/БЭМ.md"
+    "universal input.md"
   ]
 }
