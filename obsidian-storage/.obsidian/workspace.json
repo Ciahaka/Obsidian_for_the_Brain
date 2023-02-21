@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "4_React/React.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -168,7 +168,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a531a40b890d1a5",
+  "active": "63f71ebcaf236e27",
   "lastOpenFiles": [
     "04_hr Позвонит.md",
     "6_Git/Git.md",
