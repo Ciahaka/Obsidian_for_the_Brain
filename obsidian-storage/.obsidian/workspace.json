@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7c56e267c0cfbc15",
+        "id": "0b7c834c96805c36",
         "type": "tabs",
         "children": [
           {
-            "id": "51a005f93d78dec8",
+            "id": "ba358cabb47be1d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "2_CSS/Grid.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "2_CSS/Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "2_CSS/Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Git/Git.md"
+                "file": "2_CSS/Grid.md"
               }
             }
           },
@@ -155,17 +155,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "51a005f93d78dec8",
+  "active": "ba358cabb47be1d3",
   "lastOpenFiles": [
+    "grid-template-rows.png.md",
+    "2_CSS/Grid.md",
+    "grid-template-columns.png.md",
+    "6_Git/Git.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "4_React/Component.md",
     "04_hr Позвонит.md",
     "Термины/Технологии/Node.js.md",
     "3_JS/Деструктуризация.md",
-    "3_JS/DOM/EventTarget.md",
-    "3_JS/DOM/Event.md",
-    "3_JS/DOM/DOM.md",
-    "3_JS/DOM/cancelable().md",
-    "06_допы с Игорем.md"
+    "3_JS/DOM/EventTarget.md"
   ]
 }
