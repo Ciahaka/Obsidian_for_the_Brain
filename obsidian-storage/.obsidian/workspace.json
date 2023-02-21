@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rout",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ba358cabb47be1d3",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
     "2_CSS/Flex-boxes.md",
     "2_CSS/Grid.md",
