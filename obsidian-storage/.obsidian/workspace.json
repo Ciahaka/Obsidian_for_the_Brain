@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Деструктуризация.md",
+                "file": "4_React/Component.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Деструктуризация.md",
+                "file": "4_React/Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Деструктуризация.md",
+                "file": "4_React/Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Деструктуризация.md"
+                "file": "4_React/Component.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "5c14317c3058b65c",
   "lastOpenFiles": [
+    "3_JS/Деструктуризация.md",
     "04_hr Позвонит.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "3_JS/DOM/EventTarget.md",
@@ -178,7 +179,6 @@
     "3_JS/DOM/cancelable().md",
     "06_допы с Игорем.md",
     "05_Computer Science Interview.md",
-    "03_Конспект Incubator.md",
-    "02_Native JS_TS.md"
+    "03_Конспект Incubator.md"
   ]
 }
