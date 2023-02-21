@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "4_React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "4_React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "4_React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "4_React/React.md"
               }
             }
           },
@@ -170,12 +170,12 @@
   },
   "active": "63f71ebcaf236e27",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
     "6_Git/Git.md",
     "universal button.md",
     "6_Git/Github.md",
     "universal input.md",
     "Mетодологии разработки/БЭМ.md",
-    "04_hr Позвонит.md",
     "Библиотеки и фреймворки/ChatGPT.md",
     "Термины/Технологии/Node.js.md",
     "6_Git/commit.md",
