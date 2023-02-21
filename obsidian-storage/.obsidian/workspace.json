@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/React.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/React.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/React.md",
+                "file": "07_Практики и алгоритмы кодинга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/React.md"
+                "file": "07_Практики и алгоритмы кодинга.md"
               }
             }
           },
@@ -170,15 +170,15 @@
   },
   "active": "63f71ebcaf236e27",
   "lastOpenFiles": [
-    "04_hr Позвонит.md",
     "6_Git/Git.md",
+    "3_JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
+    "Деструктуризация.md",
+    "02_Native JS_TS.md",
+    "4_React/React.md",
+    "04_hr Позвонит.md",
     "universal button.md",
     "6_Git/Github.md",
     "universal input.md",
-    "Mетодологии разработки/БЭМ.md",
-    "Библиотеки и фреймворки/ChatGPT.md",
-    "Термины/Технологии/Node.js.md",
-    "6_Git/commit.md",
-    "Без названия.md"
+    "Mетодологии разработки/БЭМ.md"
   ]
 }
