@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "O(n^3)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
     "04_hr Позвонит.md",
     "6_Git/Git.md",
