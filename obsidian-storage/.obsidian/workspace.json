@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Git/Github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63f71ebcaf236e27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_Практики и алгоритмы кодинга.md",
+                "file": "3_JS/DOM/EventTarget.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "3_JS/Деструктуризация.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "local",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "3_JS/DOM/EventTarget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Native JS_TS.md",
+                "file": "3_JS/DOM/EventTarget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Native JS_TS.md"
+                "file": "3_JS/DOM/EventTarget.md"
               }
             }
           },
@@ -180,17 +167,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5c14317c3058b65c",
+  "active": "5dce8ae2f50cd94d",
   "lastOpenFiles": [
-    "01_ToDo.md",
-    "Деструктуризация.md",
-    "07_Практики и алгоритмы кодинга.md",
-    "6_Git/Git.md",
-    "3_JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
-    "02_Native JS_TS.md",
-    "4_React/React.md",
+    "3_JS/DOM/Event.md",
+    "3_JS/DOM/DOM.md",
+    "3_JS/DOM/cancelable().md",
+    "06_допы с Игорем.md",
     "04_hr Позвонит.md",
-    "universal button.md",
-    "6_Git/Github.md"
+    "05_Computer Science Interview.md",
+    "03_Конспект Incubator.md",
+    "02_Native JS_TS.md",
+    "6_Git/Github.md",
+    "07_Практики и алгоритмы кодинга.md"
   ]
 }
