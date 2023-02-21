@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
+                "file": "6_Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
+                "file": "6_Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
+                "file": "6_Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/react-router-dom V6.md"
+                "file": "6_Git/Git.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a531a40b890d1a5",
+  "active": "ba358cabb47be1d3",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/react-router-dom V6.md",
     "2_CSS/Flex-boxes.md",
     "2_CSS/Grid.md",
     "grid-template-rows.png.md",
@@ -165,7 +166,6 @@
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "4_React/Component.md",
     "04_hr Позвонит.md",
-    "Термины/Технологии/Node.js.md",
-    "3_JS/Деструктуризация.md"
+    "Термины/Технологии/Node.js.md"
   ]
 }
