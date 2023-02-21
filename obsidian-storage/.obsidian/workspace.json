@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_CSS/Flex-boxes.md",
+                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Node",
+                "query": "rout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_CSS/Flex-boxes.md",
+                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_CSS/Flex-boxes.md",
+                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_CSS/Flex-boxes.md"
+                "file": "Библиотеки и фреймворки/react-router-dom V6.md"
               }
             }
           },
@@ -157,6 +158,7 @@
   },
   "active": "ba358cabb47be1d3",
   "lastOpenFiles": [
+    "2_CSS/Flex-boxes.md",
     "2_CSS/Grid.md",
     "grid-template-rows.png.md",
     "grid-template-columns.png.md",
@@ -165,7 +167,6 @@
     "4_React/Component.md",
     "04_hr Позвонит.md",
     "Термины/Технологии/Node.js.md",
-    "3_JS/Деструктуризация.md",
-    "3_JS/DOM/EventTarget.md"
+    "3_JS/Деструктуризация.md"
   ]
 }
