@@ -30,7 +30,8 @@
 	"a a a"
 	"b c c"
 	"b c c";
-![[grid-template-areas.png]]
+	
+![[Pasted image 20230222000116.png]]
 
 `grid-area` - определяются названия областей
 
