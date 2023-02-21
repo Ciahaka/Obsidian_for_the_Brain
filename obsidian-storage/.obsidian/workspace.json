@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деструктуризация.md",
+                "file": "02_Native JS_TS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деструктуризация.md",
+                "file": "02_Native JS_TS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деструктуризация.md",
+                "file": "02_Native JS_TS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деструктуризация.md"
+                "file": "02_Native JS_TS.md"
               }
             }
           },
@@ -182,15 +182,15 @@
   },
   "active": "5c14317c3058b65c",
   "lastOpenFiles": [
+    "01_ToDo.md",
+    "Деструктуризация.md",
     "07_Практики и алгоритмы кодинга.md",
     "6_Git/Git.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Сортировка.md",
-    "Деструктуризация.md",
     "02_Native JS_TS.md",
     "4_React/React.md",
     "04_hr Позвонит.md",
     "universal button.md",
-    "6_Git/Github.md",
-    "universal input.md"
+    "6_Git/Github.md"
   ]
 }
