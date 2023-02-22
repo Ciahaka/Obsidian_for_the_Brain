@@ -8,6 +8,8 @@
 [query параметры, хук useSearchParams()](https://youtu.be/ZmBUq3v03so)
 Установка
     yarn add react-router-dom
+    Под свежую версию необходимо подогнать версию react  и react-dom.
+    Так же нужно поднять зависимости типизации
 
 Пример страницы с прописанными путями
 ![[Pasted image 20221129202756.png]]
