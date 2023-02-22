@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "4_React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "4_React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "4_React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Git/Git.md"
+                "file": "4_React/React.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "ba358cabb47be1d3",
   "lastOpenFiles": [
+    "6_Git/Git.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "2_CSS/Flex-boxes.md",
     "2_CSS/Grid.md",
     "grid-template-rows.png.md",
     "grid-template-columns.png.md",
-    "6_Git/Git.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "4_React/Component.md",
     "04_hr Позвонит.md",
