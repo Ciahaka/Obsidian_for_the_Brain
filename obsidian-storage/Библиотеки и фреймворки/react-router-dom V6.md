@@ -34,6 +34,6 @@ style={{color: 'darkgreen'}}
 
 Пример страницы с прописанными Route
 ![[Pasted image 20230222122032.png]]
-
+ 
 
 #библиотека
