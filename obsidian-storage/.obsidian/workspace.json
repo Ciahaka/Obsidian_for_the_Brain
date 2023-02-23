@@ -23,9 +23,14 @@
             "id": "ace90700964de6d2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "canvas",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "Тест.canvas",
+                "viewState": {
+                  "x": 251.5,
+                  "y": 588.084312092233,
+                  "zoom": -0.5349500277233274
+                }
               }
             }
           }
@@ -96,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
+                "file": "Тест.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
+                "file": "Тест.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/react-router-dom V6.md"
+                "file": "Тест.canvas"
               }
             }
           },
@@ -168,9 +173,10 @@
   },
   "active": "ace90700964de6d2",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/react-router-dom V6.md",
+    "Тест.canvas",
     "5_Test/Тестирование ПО.md",
     "5_Test/Unit test.md",
-    "Библиотеки и фреймворки/react-router-dom V6.md",
     "6_Git/Git.md",
     "4_React/React.md",
     "2_CSS/Flex-boxes.md",

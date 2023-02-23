@@ -1,12 +1,13 @@
 {
 	"nodes":[
-		{"id":"cb252e3dc219787b","x":45,"y":-23,"width":250,"height":60,"color":"1","type":"text","text":"это должно тебе понравиться!"},
-		{"id":"9956dd744798ef42","x":-216,"y":-316,"width":250,"height":89,"color":"2","type":"text","text":"Новые возможности Obsidian!!!"},
-		{"id":"0887e44dd52617ef","x":536,"y":67,"width":280,"height":267,"type":"link","url":"https://mirpodvoha.by"},
-		{"id":"55a0744ef5b67291","x":-313,"y":178,"width":153,"height":120,"type":"file","file":"Вложения/Pasted image 20221222130240.png"},
-		{"id":"872d7a3e2f873ba1","x":170,"y":-191,"width":250,"height":60,"type":"text","text":"Называется - бесконечный холст заметок\nоооо\nтотт\nьолллл\nьооооо\n"},
-		{"id":"081630d8653a5236","x":-134,"y":248,"width":256,"height":172,"type":"link","url":"https://github.com/IvanFestina/ts-tests-incubator/tree/47ef064577918727fddaf34649d9feef208bb331/src"},
-		{"id":"fdabf12e8e1c6052","x":92,"y":420,"width":232,"height":215,"type":"link","url":"https://github.com/tamga05/Exams_React/blob/main/src/components/Monday_4.tsx"}
+		{"type":"link","url":"https://mirpodvoha.by","id":"0887e44dd52617ef","x":137,"y":120,"width":196,"height":188},
+		{"type":"link","url":"https://github.com/IvanFestina/ts-tests-incubator/tree/47ef064577918727fddaf34649d9feef208bb331/src","id":"081630d8653a5236","x":-334,"y":247,"width":180,"height":121},
+		{"type":"link","url":"https://github.com/tamga05/Exams_React/blob/main/src/components/Monday_4.tsx","id":"fdabf12e8e1c6052","x":-175,"y":368,"width":163,"height":151},
+		{"type":"file","file":"Вложения/Pasted image 20221222130240.png","id":"55a0744ef5b67291","x":-460,"y":198,"width":107,"height":85},
+		{"type":"text","text":"это должно тебе понравиться!","id":"cb252e3dc219787b","x":-215,"y":-40,"width":235,"height":93,"color":"1"},
+		{"type":"text","text":"Новые возможности Obsidian!!!","id":"9956dd744798ef42","x":-460,"y":-280,"width":245,"height":99,"color":"2"},
+		{"type":"text","text":"Называется - бесконечный холст заметок\nоооо\nтотт\nьолллл\nьооооо\n","id":"872d7a3e2f873ba1","x":-93,"y":-230,"width":230,"height":135},
+		{"id":"b87f33a69703b4db","x":127,"y":19,"width":250,"height":60,"type":"text","text":"Background images for Canvas groups\nCanvas groups can now have a background image associated with them. With a group selected, press the new \"set background\" button and choose an image from your vault.\n\nThe image can be set to cover the entire group or be used as a repeating pattern."}
 	],
 	"edges":[
 		{"id":"4f111a50e2415226","fromNode":"872d7a3e2f873ba1","fromSide":"bottom","toNode":"cb252e3dc219787b","toSide":"top","color":"#389f3f","label":"Переходи дальше"},
