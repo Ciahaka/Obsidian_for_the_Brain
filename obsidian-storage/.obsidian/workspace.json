@@ -13,29 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/react-router-dom V6.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "ace90700964de6d2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Тест.canvas",
-                "viewState": {
-                  "x": 251.5,
-                  "y": 588.084312092233,
-                  "zoom": -0.5349500277233274
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "useref",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тест.canvas",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тест.canvas",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тест.canvas"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -171,8 +155,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ace90700964de6d2",
+  "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
+    "4_React/Хук.md",
+    "04_hr Позвонит.md",
+    "2023-02-23.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "Тест.canvas",
     "5_Test/Тестирование ПО.md",
