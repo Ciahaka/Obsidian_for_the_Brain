@@ -11,14 +11,11 @@
             "id": "a9df4c03f28b8e8b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
-                "viewState": {
-                  "x": -587.0539701150441,
-                  "y": -1992.9737004910794,
-                  "zoom": -1.6666666666666665
-                }
+                "file": "2_CSS/Flex-boxes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
+                "file": "2_CSS/Flex-boxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
+                "file": "2_CSS/Flex-boxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas"
+                "file": "2_CSS/Flex-boxes.md"
               }
             }
           },
@@ -160,8 +157,8 @@
   },
   "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
-    "6_Git/Git.md",
     "Диаграммы/Структура Соц.Сети.canvas",
+    "6_Git/Git.md",
     "Диаграммы",
     "Links/Полезные ссылки/Photoshop.md",
     "4_React/Хук.md",
