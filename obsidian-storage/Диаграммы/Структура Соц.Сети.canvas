@@ -1,20 +1,22 @@
 {
 	"nodes":[
-		{"id":"2a7b6cc6b0dda4a6","x":-195,"y":-1720,"width":135,"height":60,"color":"2","type":"text","text":"index.tsx"},
-		{"id":"98ec6d700f00985b","x":-40,"y":-1720,"width":140,"height":60,"color":"2","type":"text","text":"App.tsx"},
-		{"id":"a51dac8e562eae4e","x":-572,"y":-1720,"width":105,"height":60,"color":"3","type":"text","text":"SRC"},
-		{"id":"89d49bd50fa95b9b","x":-572,"y":-1600,"width":120,"height":60,"color":"1","type":"text","text":"Media"},
-		{"id":"cb9a6f774a6bde61","x":-572,"y":-1500,"width":144,"height":60,"color":"6","type":"text","text":"images"},
-		{"id":"ecf6f88c40aea24c","x":-355,"y":-1600,"width":145,"height":60,"color":"1","type":"text","text":"Redux"},
-		{"id":"3d76e7a0e0bd86ad","x":-340,"y":-1490,"width":115,"height":50,"color":"2","type":"text","text":"state.ts"},
-		{"id":"17609b0f471a7d31","x":320,"y":-1720,"width":180,"height":60,"color":"1","type":"text","text":"Component"},
-		{"id":"d8675038c31a3ade","x":1020,"y":-1720,"width":200,"height":60,"color":"6","type":"text","text":"News\nAside"},
-		{"id":"88d3aacdd07c5448","x":800,"y":-1720,"width":180,"height":60,"color":"6","type":"text","text":"Navigation\nAside"},
-		{"id":"c0ba8ab0ab3032d3","x":677,"y":-1600,"width":123,"height":80,"color":"6","type":"text","text":"Footer\nBlock"},
-		{"id":"eb81cd9baf4b8626","x":480,"y":-1600,"width":135,"height":80,"color":"6","type":"text","text":"Dialogs \nBlock"},
-		{"id":"88739de4d41898e8","x":249,"y":-1600,"width":161,"height":80,"color":"6","type":"text","text":"Profile\nContent"},
-		{"id":"813b8b5424eaf762","x":60,"y":-1600,"width":137,"height":80,"color":"6","type":"text","text":"Header\nBlock"},
-		{"id":"567330b0cf572254","x":-50,"y":-1460,"width":160,"height":60,"color":"2","type":"text","text":"Header.tsx"}
+		{"type":"text","text":"News\nAside","id":"d8675038c31a3ade","x":1020,"y":-1720,"width":200,"height":60,"color":"6"},
+		{"type":"text","text":"Navigation\nAside","id":"88d3aacdd07c5448","x":800,"y":-1720,"width":180,"height":60,"color":"6"},
+		{"type":"text","text":"Footer\nBlock","id":"c0ba8ab0ab3032d3","x":677,"y":-1600,"width":123,"height":80,"color":"6"},
+		{"type":"text","text":"Dialogs \nBlock","id":"eb81cd9baf4b8626","x":480,"y":-1600,"width":135,"height":80,"color":"6"},
+		{"type":"text","text":"Profile\nContent","id":"88739de4d41898e8","x":249,"y":-1600,"width":161,"height":80,"color":"6"},
+		{"type":"text","text":"Header\nBlock","id":"813b8b5424eaf762","x":60,"y":-1600,"width":137,"height":80,"color":"6"},
+		{"type":"text","text":"Header.tsx","id":"567330b0cf572254","x":-17,"y":-1440,"width":160,"height":60,"color":"2"},
+		{"type":"text","text":"Header.\nmodule","id":"6fe633e5f4f2a037","x":23,"y":-1510,"width":155,"height":60,"color":"2"},
+		{"type":"text","text":"Footer","id":"1bf94e2d2d43d643","x":619,"y":-1480,"width":120,"height":60,"color":"6"},
+		{"type":"text","text":"state.ts","id":"3d76e7a0e0bd86ad","x":-107,"y":-1710,"width":115,"height":50,"color":"2"},
+		{"type":"text","text":"SRC","id":"a51dac8e562eae4e","x":-29,"y":-2200,"width":105,"height":60,"color":"3"},
+		{"type":"text","text":"Component","id":"17609b0f471a7d31","x":368,"y":-1870,"width":180,"height":60,"color":"1"},
+		{"type":"text","text":"App.tsx","id":"98ec6d700f00985b","x":197,"y":-2070,"width":140,"height":60,"color":"2"},
+		{"type":"text","text":"index.tsx","id":"2a7b6cc6b0dda4a6","x":60,"y":-2070,"width":135,"height":60,"color":"2"},
+		{"type":"text","text":"images","id":"cb9a6f774a6bde61","x":-275,"y":-2020,"width":144,"height":60,"color":"6"},
+		{"type":"text","text":"Media","id":"89d49bd50fa95b9b","x":-275,"y":-2100,"width":120,"height":60,"color":"1"},
+		{"type":"text","text":"Redux","id":"ecf6f88c40aea24c","x":-121,"y":-2100,"width":145,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"8f1a41ed8f078baa","fromNode":"a51dac8e562eae4e","fromSide":"left","toNode":"89d49bd50fa95b9b","toSide":"left","color":"1"},
@@ -30,6 +32,8 @@
 		{"id":"abe3ee5622cafbc2","fromNode":"17609b0f471a7d31","fromSide":"left","toNode":"88739de4d41898e8","toSide":"top","color":"6"},
 		{"id":"18df70ffc73432b9","fromNode":"17609b0f471a7d31","fromSide":"right","toNode":"c0ba8ab0ab3032d3","toSide":"top","color":"6"},
 		{"id":"782decd12e6fc800","fromNode":"17609b0f471a7d31","fromSide":"right","toNode":"eb81cd9baf4b8626","toSide":"top","color":"6"},
-		{"id":"ec68854445d91846","fromNode":"813b8b5424eaf762","fromSide":"bottom","toNode":"567330b0cf572254","toSide":"top","color":"2"}
+		{"id":"5e44d006c9d770d2","fromNode":"813b8b5424eaf762","fromSide":"left","toNode":"567330b0cf572254","toSide":"left","color":"2"},
+		{"id":"e9ee16b7b8af923f","fromNode":"813b8b5424eaf762","fromSide":"left","toNode":"6fe633e5f4f2a037","toSide":"left","color":"2"},
+		{"id":"91566c834ef336a9","fromNode":"c0ba8ab0ab3032d3","fromSide":"left","toNode":"1bf94e2d2d43d643","toSide":"top","color":"6"}
 	]
 }
