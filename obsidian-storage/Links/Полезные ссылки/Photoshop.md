@@ -1,0 +1,1 @@
+[Photoshop](https://repack.me/info/67-reshenie-chastyh-problem-s-adobe-cc.html) - решение частых проблем
