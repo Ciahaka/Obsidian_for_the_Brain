@@ -13,10 +13,10 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Диаграммы/Без названия.canvas",
+                "file": "Диаграммы/Структура Соц.Сети.canvas",
                 "viewState": {
-                  "x": -50.25,
-                  "y": -1390.8046875,
+                  "x": 32.25,
+                  "y": -1467,
                   "zoom": 0
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диаграммы/Без названия.canvas",
+                "file": "Диаграммы/Структура Соц.Сети.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диаграммы/Без названия.canvas",
+                "file": "Диаграммы/Структура Соц.Сети.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диаграммы/Без названия.canvas"
+                "file": "Диаграммы/Структура Соц.Сети.canvas"
               }
             }
           },
@@ -161,7 +161,7 @@
   "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
     "6_Git/Git.md",
-    "Диаграммы/Без названия.canvas",
+    "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы",
     "Links/Полезные ссылки/Photoshop.md",
     "4_React/Хук.md",
