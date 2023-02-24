@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "2_CSS/Flex-boxes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "2_CSS/Flex-boxes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md",
+                "file": "2_CSS/Flex-boxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/ChatGPT.md"
+                "file": "2_CSS/Flex-boxes.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/ChatGPT.md",
     "2_CSS/Flex-boxes.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "6_Git/Git.md",
