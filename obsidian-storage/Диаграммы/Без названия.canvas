@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a51dac8e562eae4e","x":-100,"y":-1380,"width":105,"height":60,"color":"3","type":"text","text":"SRC"},
+		{"id":"89d49bd50fa95b9b","x":-125,"y":-1067,"width":250,"height":60,"type":"text","text":""},
+		{"id":"17609b0f471a7d31","x":-125,"y":-1067,"width":145,"height":60,"type":"text","text":"Component"}
+	],
+	"edges":[]
+}
