@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_CSS/Flex-boxes.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_CSS/Flex-boxes.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_CSS/Flex-boxes.md",
+                "file": "Библиотеки и фреймворки/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_CSS/Flex-boxes.md"
+                "file": "Библиотеки и фреймворки/ChatGPT.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
+    "2_CSS/Flex-boxes.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "6_Git/Git.md",
     "Диаграммы",
@@ -169,7 +170,6 @@
     "5_Test/Тестирование ПО.md",
     "5_Test/Unit test.md",
     "4_React/React.md",
-    "2_CSS/Flex-boxes.md",
     "2_CSS/Grid.md",
     "grid-template-rows.png.md",
     "grid-template-columns.png.md",
