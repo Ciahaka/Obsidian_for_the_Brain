@@ -59,9 +59,10 @@
 		{"type":"text","text":"AboutUs.\nmodule","id":"364751636eb9183b","x":-737,"y":-310,"width":155,"height":75,"color":"2"},
 		{"type":"text","text":"Contacts.tsx","id":"32dbdd59508f47bb","x":-1007,"y":-221,"width":160,"height":75,"color":"2"},
 		{"type":"text","text":"AboutUs.tsx","id":"a53078d7c0ea9ab2","x":-737,"y":-205,"width":160,"height":75,"color":"2"},
-		{"type":"text","text":"Project","id":"aded75957e347322","x":-614,"y":-441,"width":120,"height":90,"color":"6"},
-		{"type":"text","text":"Project.\nmodule","id":"5fe60b90e3bd06d5","x":-614,"y":-321,"width":155,"height":75,"color":"2"},
-		{"type":"text","text":"Project.tsx","id":"9f9501550735ce55","x":-614,"y":-216,"width":160,"height":75,"color":"2"}
+		{"id":"72694acc81c9b587","x":-24,"y":-2533,"width":124,"height":93,"color":"4","type":"text","text":"PROPS"},
+		{"type":"text","text":"Project","id":"aded75957e347322","x":-438,"y":-430,"width":120,"height":90,"color":"6"},
+		{"type":"text","text":"Project.\nmodule","id":"5fe60b90e3bd06d5","x":-438,"y":-310,"width":155,"height":75,"color":"2"},
+		{"type":"text","text":"Project.tsx","id":"9f9501550735ce55","x":-438,"y":-205,"width":160,"height":75,"color":"2"}
 	],
 	"edges":[
 		{"id":"302202e883b6cd06","fromNode":"89d49bd50fa95b9b","fromSide":"left","toNode":"cb9a6f774a6bde61","toSide":"left","color":"6"},
@@ -123,6 +124,15 @@
 		{"id":"2ab4b761463e28e5","fromNode":"17609b0f471a7d31","fromSide":"right","toNode":"813b8b5424eaf762","toSide":"left","color":"6"},
 		{"id":"6d1980a24437441a","fromNode":"17609b0f471a7d31","fromSide":"bottom","toNode":"9609acfa339eda95","toSide":"top","color":"6"},
 		{"id":"ddad6197e82ab063","fromNode":"17609b0f471a7d31","fromSide":"left","toNode":"c0ba8ab0ab3032d3","toSide":"left","color":"6"},
-		{"id":"68437e1a0d4c641d","fromNode":"17609b0f471a7d31","fromSide":"left","toNode":"eb81cd9baf4b8626","toSide":"left","color":"6"}
+		{"id":"68437e1a0d4c641d","fromNode":"17609b0f471a7d31","fromSide":"left","toNode":"eb81cd9baf4b8626","toSide":"left","color":"6"},
+		{"id":"cf02a2010b8385c4","fromNode":"3d76e7a0e0bd86ad","fromSide":"right","toNode":"98ec6d700f00985b","toSide":"bottom","color":"2","label":"IMPORT"},
+		{"id":"e43db02de84242dd","fromNode":"98ec6d700f00985b","fromSide":"right","toNode":"72694acc81c9b587","toSide":"top","color":"2"},
+		{"id":"d19db98611ad9adf","fromNode":"72694acc81c9b587","fromSide":"left","toNode":"813b8b5424eaf762","toSide":"right","color":"4"},
+		{"id":"e167e9b6fea0f045","fromNode":"72694acc81c9b587","fromSide":"bottom","toNode":"d8675038c31a3ade","toSide":"top","color":"4"},
+		{"id":"7faa5e922924c3ba","fromNode":"72694acc81c9b587","fromSide":"left","toNode":"fe4d975a0c9666a2","toSide":"top","color":"4"},
+		{"id":"cca3ad473a666263","fromNode":"72694acc81c9b587","fromSide":"bottom","toNode":"9609acfa339eda95","toSide":"top","color":"4"},
+		{"id":"905f3b781f35f3d9","fromNode":"72694acc81c9b587","fromSide":"bottom","toNode":"eb81cd9baf4b8626","toSide":"right","color":"4"},
+		{"id":"f57c879b9bdfbcd6","fromNode":"72694acc81c9b587","fromSide":"right","toNode":"c0ba8ab0ab3032d3","toSide":"top","color":"4"},
+		{"id":"c5179e8fbede528a","fromNode":"c0ba8ab0ab3032d3","fromSide":"right","toNode":"aded75957e347322","toSide":"top","color":"6"}
 	]
 }
