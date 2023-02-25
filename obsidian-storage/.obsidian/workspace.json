@@ -11,14 +11,11 @@
             "id": "a9df4c03f28b8e8b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
-                "viewState": {
-                  "x": -1232.9814806952788,
-                  "y": -1790.005095484028,
-                  "zoom": -0.7032676811017815
-                }
+                "file": "2_CSS/Общее.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
+                "file": "2_CSS/Общее.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
+                "file": "2_CSS/Общее.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas"
+                "file": "2_CSS/Общее.md"
               }
             }
           },
@@ -172,10 +169,10 @@
   },
   "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
+    "Диаграммы/Структура Соц.Сети.canvas",
     "2_CSS/Общее.md",
     "1_HTML/Теги.md",
     "1_HTML/Структура HTML документа.md",
-    "Диаграммы/Структура Соц.Сети.canvas",
     "2_CSS/Flex-boxes.md",
     "Библиотеки и фреймворки/ChatGPT.md",
     "6_Git/Git.md",
