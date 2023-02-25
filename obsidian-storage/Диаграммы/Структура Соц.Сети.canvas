@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"c94d5a2a40f113c9","x":-741,"y":-1605,"width":250,"height":60,"type":"text","text":""},
 		{"type":"text","text":"Component","id":"17609b0f471a7d31","x":-1040,"y":-2223,"width":180,"height":60,"color":"1"},
 		{"type":"text","text":"index.tsx","id":"2a7b6cc6b0dda4a6","x":-457,"y":-2818,"width":135,"height":60,"color":"2"},
 		{"type":"text","text":"App.tsx","id":"98ec6d700f00985b","x":-320,"y":-2818,"width":140,"height":60,"color":"2"},
