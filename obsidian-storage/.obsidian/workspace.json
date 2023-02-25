@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Links/Полезные ссылки/Вёрстка.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links/Полезные ссылки/Вёрстка.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Links/Полезные ссылки/Вёрстка.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Links/Полезные ссылки/Вёрстка.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
+    "Links/Полезные ссылки/Вёрстка.md",
     "2_CSS/Общее.md",
     "1_HTML/Теги.md",
     "1_HTML/Структура HTML документа.md",
