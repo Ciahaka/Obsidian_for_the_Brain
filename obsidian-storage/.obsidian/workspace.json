@@ -11,14 +11,11 @@
             "id": "a9df4c03f28b8e8b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
-                "viewState": {
-                  "x": -370.0416319540594,
-                  "y": -1255.9365389324676,
-                  "zoom": -1.6666666666666665
-                }
+                "file": "алгоритмы запуска/Создание react приложения.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas"
+                "file": "алгоритмы запуска/Создание react приложения.md"
               }
             }
           },
@@ -172,13 +169,13 @@
   },
   "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
+    "Диаграммы/Структура Соц.Сети.canvas",
     "04_hr Позвонит.md",
     "Links/Полезные ссылки/Вёрстка.md",
     "2_CSS/Общее.md",
     "1_HTML/Теги.md",
     "1_HTML/Структура HTML документа.md",
     "2_CSS/Фишки.md",
-    "Диаграммы/Структура Соц.Сети.canvas",
     "2_CSS/Flex-boxes.md",
     "Библиотеки и фреймворки/ChatGPT.md",
     "6_Git/Git.md",
