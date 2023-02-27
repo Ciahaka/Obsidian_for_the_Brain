@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/split.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "document.",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/split.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/split.md"
               }
             }
           },
@@ -170,10 +169,14 @@
   },
   "active": "a9df4c03f28b8e8b",
   "lastOpenFiles": [
+    "3_JS/Методы/Array (Массивы)/Методы массивов/splice.md",
+    "3_JS/Методы/Array (Массивы)/Методы массивов/slice.md",
+    "3_JS/Методы/Array (Массивы)/Методы массивов/reverse.md",
+    "3_JS/Методы/Array (Массивы)/Методы массивов/join.md",
+    "04_hr Позвонит.md",
     "Вложения/Pasted image 20230227140647.png",
     "алгоритмы запуска/Создание react приложения.md",
     "Диаграммы/Структура Соц.Сети.canvas",
-    "04_hr Позвонит.md",
     "Links/Полезные ссылки/Вёрстка.md",
     "2_CSS/Общее.md",
     "1_HTML/Теги.md",
