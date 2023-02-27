@@ -1,7 +1,12 @@
 [MDN Web](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/split)
 [Learn JS](https://learn.javascript.ru/array-methods#split-i-join)
 
-Метод массива split() разбивает объект string на на массив строк, путём разделения строки указанной подстрокой
+Метод массива split() разбивает объект string на на массив строк, путём разделения строки указанной подстрокой.
+```js
+split('') - /создаст массив символов(разделит строку на буквы, разделив их запятой)
+split(' ') - /создаст массив слов( разделит строку по пробелам запятой)
+split() - /создаст массив с одним элементом, элемент будет содержать переданую строку
+```
 Возвращает новый массив!
 ``` javascript
 str.split([separator[, limit]])
