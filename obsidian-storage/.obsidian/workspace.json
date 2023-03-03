@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/React.md",
+                "file": "4_React/Хук.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "useRef",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/React.md",
+                "file": "4_React/Хук.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/React.md",
+                "file": "4_React/Хук.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/React.md"
+                "file": "4_React/Хук.md"
               }
             }
           },
@@ -157,6 +158,7 @@
   },
   "active": "0df1362af560a9d7",
   "lastOpenFiles": [
+    "4_React/React.md",
     "Вложения/Pasted image 20230303190729.png",
     "02_Native JS_TS.md",
     "2_CSS/Общее.md",
