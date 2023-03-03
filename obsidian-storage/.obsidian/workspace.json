@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "3e5ccb141e19f13f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "0df1362af560a9d7",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +178,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a9df4c03f28b8e8b",
+  "active": "3e5ccb141e19f13f",
   "lastOpenFiles": [
     "Вложения/Pasted image 20230228151551.png",
     "Вложения/Pasted image 20230228151537.png",
