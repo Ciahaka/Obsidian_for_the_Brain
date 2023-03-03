@@ -71,9 +71,9 @@ React может повторно рендерить всё приложение
 Чтобы связать ссылку и нужный элемент, нужно назначить элементу атрибут ref с ссылкой внутри.
 Сама ссылка является объектом к которому можно обратиться через dot  запись. Это можно использовать в дальнейшем, чтобы брать значение текущего элемента.
 ```js
-let newpost = React.createRef()
+let newPost = React.createRef()
 const addPost = () =>{
-
+let text = newPost.current.value
 }
-<textarea></>
+<textarea ref={newPost}> </textarea>
 ```
