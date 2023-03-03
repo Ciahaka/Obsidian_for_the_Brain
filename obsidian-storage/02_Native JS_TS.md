@@ -1,5 +1,5 @@
 [callback](https://youtu.be/cLxzFhW_dgY?t=1177)  
-[onClick](https://youtu.be/cLxzFhW_dgY?t=997)  
+onClick
 [event](https://youtu.be/cLxzFhW_dgY?t=1177)  
 [addEventListener](https://youtu.be/cLxzFhW_dgY?t=1598)  
 [[#onChange]]
@@ -22,6 +22,10 @@ useState<number>(5)
 onChange = {setState(+e.currentTarget.value)}  /- первый способ
 onChange = {setState(Number(e.currentTarget.value))}  /- второй способ			
 ```
+
+### onClick
+[Dimich](https://youtu.be/cLxzFhW_dgY?t=997)
+
 
 ### Ассоциативный массив
 - организационная структура хранения данных. По факту - обычный объект, хранящий в себе массив(ы).
