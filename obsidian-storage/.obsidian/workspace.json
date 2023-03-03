@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/React.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "useRef",
+                "query": "null",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/React.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/React.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/React.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -158,13 +158,13 @@
   },
   "active": "0df1362af560a9d7",
   "lastOpenFiles": [
+    "02_Native JS_TS.md",
+    "3_JS/01_Операторы.md",
     "4_React/Хук.md",
     "4_React/React.md",
     "Вложения/Pasted image 20230303190729.png",
-    "02_Native JS_TS.md",
     "2_CSS/Общее.md",
     "callback.md",
-    "3_JS/01_Операторы.md",
     "Вложения/Pasted image 20230228151551.png",
     "Вложения/Pasted image 20230228151537.png",
     "Вложения/Pasted image 20230228151441.png",
