@@ -11,7 +11,6 @@
 		{"type":"text","text":"Header\nBlock","id":"813b8b5424eaf762","x":-570,"y":-2333,"width":137,"height":80,"color":"6"},
 		{"type":"text","text":"Header.\nmodule","id":"6fe633e5f4f2a037","x":-567,"y":-2238,"width":155,"height":60,"color":"2"},
 		{"type":"text","text":"Header.tsx","id":"567330b0cf572254","x":-570,"y":-2163,"width":160,"height":60,"color":"2"},
-		{"type":"text","text":"PROPS","id":"72694acc81c9b587","x":-24,"y":-2533,"width":124,"height":93,"color":"4"},
 		{"type":"text","text":"NavBar.\nmodule","id":"d49baf1fcdfea7da","x":-1868,"y":-1695,"width":155,"height":68,"color":"2"},
 		{"type":"text","text":"NavBar.tsx","id":"6bc43ebc0cea182a","x":-1868,"y":-1613,"width":160,"height":60,"color":"2"},
 		{"type":"text","text":"NavBar","id":"df90cc33920887ac","x":-1865,"y":-1774,"width":120,"height":60,"color":"6"},
@@ -76,7 +75,8 @@
 		{"id":"538e2cd8204db9b1","x":-1890,"y":-2380,"width":170,"height":69,"color":"6","type":"text","text":"Button\nMessage"},
 		{"id":"0038fe334627fe47","x":-1890,"y":-2283,"width":212,"height":60,"color":"2","type":"text","text":"MessageButton.tsx"},
 		{"id":"b35fd5495e838300","x":-1890,"y":-2193,"width":212,"height":88,"color":"2","type":"text","text":"MessageButton.\nmodule"},
-		{"id":"482a7a2f82a561d7","x":-300,"y":-2658,"width":145,"height":60,"color":"2","type":"text","text":"render.tsx"}
+		{"id":"482a7a2f82a561d7","x":-325,"y":-2588,"width":145,"height":60,"color":"2","type":"text","text":"render.tsx"},
+		{"type":"text","text":"PROPS","id":"72694acc81c9b587","x":40,"y":-2528,"width":124,"height":93,"color":"4"}
 	],
 	"edges":[
 		{"id":"302202e883b6cd06","fromNode":"89d49bd50fa95b9b","fromSide":"left","toNode":"cb9a6f774a6bde61","toSide":"left","color":"6"},
