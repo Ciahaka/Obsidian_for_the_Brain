@@ -11,14 +11,11 @@
             "id": "0df1362af560a9d7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
-                "viewState": {
-                  "x": -387.89286039476553,
-                  "y": -2443.134177660332,
-                  "zoom": -0.17010260762755353
-                }
+                "file": "04_hr Позвонит.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диаграммы/Структура Соц.Сети.canvas"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -160,6 +157,7 @@
   },
   "active": "0df1362af560a9d7",
   "lastOpenFiles": [
+    "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "4_React/Хук.md",
     "Вложения/Pasted image 20230303215733.png",
@@ -183,7 +181,6 @@
     "3_JS/Методы/Array (Массивы)/Методы массивов/slice.md",
     "Вложения/Pasted image 20230227140647.png",
     "алгоритмы запуска/Создание react приложения.md",
-    "Диаграммы/Структура Соц.Сети.canvas",
     "Links/Полезные ссылки/Вёрстка.md",
     "1_HTML/Теги.md",
     "1_HTML/Структура HTML документа.md",
