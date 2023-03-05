@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/React.md",
+                "file": "2_CSS/Фишки.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/React.md",
+                "file": "2_CSS/Фишки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/React.md",
+                "file": "2_CSS/Фишки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/React.md"
+                "file": "2_CSS/Фишки.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "0df1362af560a9d7",
   "lastOpenFiles": [
+    "4_React/React.md",
     "04_hr Позвонит.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
@@ -164,7 +165,6 @@
     "Вложения/Pasted image 20230303215733.png",
     "02_Native JS_TS.md",
     "3_JS/01_Операторы.md",
-    "4_React/React.md",
     "Вложения/Pasted image 20230303190729.png",
     "2_CSS/Общее.md",
     "callback.md",
