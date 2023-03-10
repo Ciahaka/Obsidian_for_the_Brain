@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/PWA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/PWA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/PWA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "Mетодологии разработки/PWA.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "0df1362af560a9d7",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
     "Mетодологии разработки/Патерны программирования.md",
     "3_JS/Без названия.md",
     "2_CSS/Фишки.md",
     "4_React/React.md",
-    "04_hr Позвонит.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "4_React/Хук.md",
