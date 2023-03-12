@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0cd262993751243b",
+        "id": "c52425e66dfed7b5",
         "type": "tabs",
         "children": [
           {
-            "id": "0df1362af560a9d7",
+            "id": "9e00adfc250370d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mетодологии разработки/PWA.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mетодологии разработки/PWA.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mетодологии разработки/PWA.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mетодологии разработки/PWA.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0df1362af560a9d7",
+  "active": "9e00adfc250370d7",
   "lastOpenFiles": [
+    "Mетодологии разработки/PWA.md",
     "04_hr Позвонит.md",
     "Mетодологии разработки/Патерны программирования.md",
     "3_JS/Без названия.md",
@@ -190,7 +191,6 @@
     "Библиотеки и фреймворки/ChatGPT.md",
     "6_Git/Git.md",
     "Диаграммы",
-    "Links/Полезные ссылки/Photoshop.md",
-    "2023-02-23.md"
+    "Links/Полезные ссылки/Photoshop.md"
   ]
 }
