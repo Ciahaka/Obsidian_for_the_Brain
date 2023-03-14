@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "3_JS/01_Операторы.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "3_JS/01_Операторы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "3_JS/01_Операторы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Math.md"
+                "file": "3_JS/01_Операторы.md"
               }
             }
           },
@@ -170,8 +170,8 @@
   },
   "active": "ce07783f627c5145",
   "lastOpenFiles": [
-    "04_hr Позвонит.md",
     "3_JS/Math.md",
+    "04_hr Позвонит.md",
     "Mетодологии разработки/PWA.md",
     "Mетодологии разработки/Патерны программирования.md",
     "2_CSS/Фишки.md",
