@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce07783f627c5145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_JS/Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "3_JS/Math.md"
               }
             }
           },
@@ -155,12 +168,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9e00adfc250370d7",
+  "active": "ce07783f627c5145",
   "lastOpenFiles": [
-    "Mетодологии разработки/PWA.md",
     "04_hr Позвонит.md",
+    "3_JS/Math.md",
+    "Mетодологии разработки/PWA.md",
     "Mетодологии разработки/Патерны программирования.md",
-    "3_JS/Без названия.md",
     "2_CSS/Фишки.md",
     "4_React/React.md",
     "Диаграммы/Структура Соц.Сети.canvas",
