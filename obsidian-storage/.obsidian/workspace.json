@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/01_Операторы.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/split.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/01_Операторы.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/split.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/01_Операторы.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/01_Операторы.md"
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/split.md"
               }
             }
           },
@@ -170,6 +170,12 @@
   },
   "active": "ce07783f627c5145",
   "lastOpenFiles": [
+    "3_JS/Методы/Array (Массивы)/Методы массивов/join.md",
+    "3_JS/Методы/Array (Массивы)/Методы массивов/slice.md",
+    "3_JS/Методы/Array (Массивы)/Методы массивов/splice.md",
+    "3_JS/Методы/Array (Массивы)/Методы массивов/split.md",
+    "3_JS/Методы/trim.md",
+    "3_JS/01_Операторы.md",
     "3_JS/Math.md",
     "04_hr Позвонит.md",
     "Mетодологии разработки/PWA.md",
@@ -181,20 +187,14 @@
     "4_React/Хук.md",
     "Вложения/Pasted image 20230303215733.png",
     "02_Native JS_TS.md",
-    "3_JS/01_Операторы.md",
     "Вложения/Pasted image 20230303190729.png",
     "2_CSS/Общее.md",
     "callback.md",
     "Вложения/Pasted image 20230228151551.png",
     "Вложения/Pasted image 20230228151537.png",
     "Вложения/Pasted image 20230228151441.png",
-    "3_JS/Методы/Array (Массивы)/Методы массивов/split.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-    "3_JS/Методы/trim.md",
-    "3_JS/Методы/Array (Массивы)/Методы массивов/join.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/reverse.md",
-    "3_JS/Методы/Array (Массивы)/Методы массивов/splice.md",
-    "3_JS/Методы/Array (Массивы)/Методы массивов/slice.md",
     "Вложения/Pasted image 20230227140647.png",
     "алгоритмы запуска/Создание react приложения.md",
     "Links/Полезные ссылки/Вёрстка.md",
