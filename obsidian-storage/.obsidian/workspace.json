@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "Mетодологии разработки/Принципы программирования.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "9e00adfc250370d7",
   "lastOpenFiles": [
-    "call.md",
     "04_hr Позвонит.md",
+    "call.md",
     "3_JS/Функция/apply.md",
     "3_JS/Функция/call.md",
     "3_JS/Функция/bind.md",
