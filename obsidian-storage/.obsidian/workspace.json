@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Test/Unit test.md",
+                "file": "3_JS/Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Test/Unit test.md",
+                "file": "3_JS/Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Test/Unit test.md",
+                "file": "3_JS/Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Test/Unit test.md"
+                "file": "3_JS/Math.md"
               }
             }
           },
@@ -167,8 +167,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a531a40b890d1a5",
+  "active": "9e00adfc250370d7",
   "lastOpenFiles": [
+    "5_Test/Unit test.md",
     "3_JS/01_Операторы.md",
     "04_hr Позвонит.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
@@ -201,7 +202,6 @@
     "Вложения/Pasted image 20230228151551.png",
     "Вложения/Pasted image 20230228151537.png",
     "Вложения/Pasted image 20230228151441.png",
-    "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "Вложения/Pasted image 20230227140647.png",
     "Диаграммы"
   ]
