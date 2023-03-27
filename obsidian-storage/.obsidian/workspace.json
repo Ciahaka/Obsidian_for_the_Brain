@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/DOM/EventTarget.addEventListener().md",
+                "file": "5_Test/Unit test.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "addEvent",
+                "query": "NaN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/DOM/EventTarget.addEventListener().md",
+                "file": "5_Test/Unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/DOM/EventTarget.addEventListener().md",
+                "file": "5_Test/Unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/DOM/EventTarget.addEventListener().md"
+                "file": "5_Test/Unit test.md"
               }
             }
           },
@@ -170,9 +170,10 @@
   },
   "active": "9e00adfc250370d7",
   "lastOpenFiles": [
-    "3_JS/DOM/EventTarget.md",
-    "3_JS/DOM/EventTarget.addEventListener().md",
+    "3_JS/01_Операторы.md",
     "04_hr Позвонит.md",
+    "3_JS/DOM/EventTarget.addEventListener().md",
+    "3_JS/DOM/EventTarget.md",
     "6_Git/Git.md",
     "3_JS/Деструктуризация.md",
     "Mетодологии разработки/Принципы программирования.md",
@@ -185,7 +186,6 @@
     "3_JS/Методы/Array (Массивы)/Методы массивов/slice.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/splice.md",
     "3_JS/Методы/trim.md",
-    "3_JS/01_Операторы.md",
     "3_JS/Math.md",
     "Mетодологии разработки/PWA.md",
     "Mетодологии разработки/Патерны программирования.md",
