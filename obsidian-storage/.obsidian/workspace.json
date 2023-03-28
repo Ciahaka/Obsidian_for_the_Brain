@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/DOM/EventTarget.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "алгоритмы запуска/Создание react приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "алгоритмы запуска/Создание react приложения.md"
               }
             }
           },
@@ -167,8 +168,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9e00adfc250370d7",
+  "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
+    "3_JS/DOM/EventTarget.md",
+    "01_ToDo.md",
     "алгоритмы запуска/Создание react приложения.md",
     "Библиотеки и фреймворки/storybook.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
@@ -178,7 +181,6 @@
     "5_Test/Unit test.md",
     "3_JS/01_Операторы.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
-    "3_JS/DOM/EventTarget.md",
     "6_Git/Git.md",
     "3_JS/Деструктуризация.md",
     "Mетодологии разработки/Принципы программирования.md",
@@ -197,7 +199,6 @@
     "4_React/React.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
-    "4_React/Хук.md",
     "Вложения/Pasted image 20230303215733.png",
     "Вложения/Pasted image 20230303190729.png",
     "Вложения/Pasted image 20230228151551.png",
