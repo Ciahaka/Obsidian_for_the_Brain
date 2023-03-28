@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "agile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Math.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -169,6 +170,7 @@
   },
   "active": "9e00adfc250370d7",
   "lastOpenFiles": [
+    "3_JS/Math.md",
     "5_Test/Unit test.md",
     "3_JS/01_Операторы.md",
     "04_hr Позвонит.md",
@@ -186,7 +188,6 @@
     "3_JS/Методы/Array (Массивы)/Методы массивов/slice.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/splice.md",
     "3_JS/Методы/trim.md",
-    "3_JS/Math.md",
     "Mетодологии разработки/PWA.md",
     "Mетодологии разработки/Патерны программирования.md",
     "2_CSS/Фишки.md",
