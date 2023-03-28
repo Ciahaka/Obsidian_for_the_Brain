@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/storybook.md",
+                "file": "01_ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/storybook.md",
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/storybook.md",
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/storybook.md"
+                "file": "01_ToDo.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "9e00adfc250370d7",
   "lastOpenFiles": [
+    "алгоритмы запуска/Создание react приложения.md",
+    "Библиотеки и фреймворки/storybook.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "04_hr Позвонит.md",
     "Вложения/Pasted image 20230328141937.png",
@@ -197,9 +199,7 @@
     "Диаграммы/Тест.canvas",
     "4_React/Хук.md",
     "Вложения/Pasted image 20230303215733.png",
-    "02_Native JS_TS.md",
     "Вложения/Pasted image 20230303190729.png",
-    "2_CSS/Общее.md",
     "Вложения/Pasted image 20230228151551.png",
     "Вложения/Pasted image 20230228151537.png",
     "Вложения/Pasted image 20230228151441.png",
