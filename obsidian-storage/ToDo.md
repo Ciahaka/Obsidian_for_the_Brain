@@ -31,13 +31,28 @@
 #### Local State (useState) 43:06
 На данный момент фильтрация происходит, и таски удаляются в панели браузера, но визуальная перерисовка состояния не происходит, потому как react не видит, что мы изменяем что-либо.
 Для того, чтобы дёрнуть react нам нужно воспользоваться локальным стейтом и хранить наш BLL в нём. 
-Для этой задачи под
+Для этой задачи подходит хук useState именно в его стартовое значение помещаем наш массив с данными.
+Теперь, когда нам нужно будет дёрнуть react для перерисовки, воспользуемся функцией setState, в вызов которой поместим State
+```js
+let [tasks,setTasks] =useState([  
+  {id: 1, title: 'HTML&CSS', isDone: true},  
+  {id: 2, title: 'JS', isDone: true},  
+  {id: 3, title: 'ReactJS', isDone: false},  
+  {id: 4, title: 'Rest API', isDone: true},  
+  {id: 5, title: 'GraphQL', isDone: false},  
+])  
+  
+  const removeTasks = (id: number) => {  
+    tasks = tasks.filter(t => t.id !== id)  
+    setTasks(tasks)  
+  }
+```
+
+#### Фильтрация задач (all | active | completed)
 
 
 
 
-
-**1:04:21** - фильтрация задач (all | active | completed)
 **1:18:54** - ИТОГ
 
 ## 03 - TodoList for students
