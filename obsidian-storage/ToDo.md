@@ -4,6 +4,7 @@
 [[#Local State (useState) 43:06]]
 [[#Фильтрация задач (all active completed)]]
 
+
 ## 01_02 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b5104ef084890015872dbe)
 #### Метод "map" **13:52** 
@@ -70,7 +71,17 @@ let filteredTasks = tasks
 Фильтрация происходит.
 
 ## 03 - TodoList for students
-[[#UUID]] - Подключение uuid к проекту
+[Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b510c6f084890015872dbf)
+#### uuid. Подключение библиотеки
+
+UUID - библиотека, которая генерирует текстовые, уникальные id
+Подключение к проекту
+```ts
+yarn add uuid
+yarn add @types/uuid
+```
+
+[[#UUID]] - 
 [7:48](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=468s) - про key
 [9:18](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=558s) - addTask
 [17:05](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1025s) - чтение значения из input
@@ -136,13 +147,6 @@ let filteredTasks = tasks
 #фильтрация_тасок
 
 ### UUID
-[Dimich](https://samurai.it-incubator.ru/pc/video-content/watch/60b510c6f084890015872dbf)
-UUID - библиотека, которая генерирует текстовые, уникальные id
-Подключение к проекту
-```ts
-yarn add uuid
-yarn add @types/uuid
-```
-``
+
 
 
