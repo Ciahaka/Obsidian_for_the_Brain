@@ -77,8 +77,7 @@ let filteredTasks = tasks
 UUID - библиотека, которая генерирует текстовые, уникальные id
 Подключение к проекту
 ```ts
-yarn add uuid
-yarn add @types/uuid
+yarn add uuid @types/uuid
 ```
 
 [[#UUID]] - 
