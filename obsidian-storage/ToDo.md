@@ -4,6 +4,8 @@
 [[#Local State (useState) 43:06]]
 [[#Фильтрация задач (all active completed) 1:04:21]]
 [[#uuid. Подключение библиотеки 2:11]]
+[[#ADD TASK. Добавляем таску по нажатию кнопки 9:18]]
+[[#Чтение значения из input 17:05]]
 
 
 ## 01_02 - TodoList for students
@@ -102,11 +104,13 @@ yarn add uuid @types/uuid
 После этого, на кнопке добавления таски, в её обработчике, в вызов функции добавления таски можно добавить состояние нашего локального стейта.
 ![[Pasted image 20230329222022.png]]
 Таким образом, при клике на кнопку добавления таски, мы будем отрисовывать вводимое value в инпуте.
-Это value ещё нужно прокинуть наверх, в BLL компоненту, и при создании новой таски указыват не
+Это value ещё нужно прокинуть наверх, в BLL компоненту, и при создании новой таски указывать не вшитое значение, а пришедшее value из инпута.
+Прокидывая value наверх, не забываем его типизировать в пропсах как string, и в входных параметрах функции  добавления новой таски.
+
+#### очистка поля input (onChange) 29:13
+
 
 7:48 - про key
-
-[29:13](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1753s) - очистка поля input (onChange)
 [30:09](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1809s) - добавление task при нажатии на enter (onKeyPress)
 [37:51](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=2271s) - рефактор кода
 [47:37](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=2857s) - рефактор функции удаления
@@ -136,6 +140,7 @@ yarn add uuid @types/uuid
 [53:30](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3210s) – редактирование todolist name
 [58:00](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3480s) – debugger (как работает editable span)
 [59:40](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3580s) – резюме (рисовалка)
+
 ## material-ui
 [20:00](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1200s) – кнопки
 [23:40](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1420s) – инпут
