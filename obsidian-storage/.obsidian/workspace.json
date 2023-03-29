@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "4_React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "key",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo.md",
+                "file": "4_React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo.md",
+                "file": "4_React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo.md"
+                "file": "4_React/React.md"
               }
             }
           },
@@ -168,14 +168,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "9e00adfc250370d7",
   "lastOpenFiles": [
+    "02_Native JS_TS.md",
+    "ToDo.md",
     "4_React/Component.md",
     "3_JS/Math.md",
     "Вложения/Pasted image 20230328215055.png",
     "алгоритмы запуска/Создание react приложения.md",
     "3_JS/DOM/EventTarget.md",
-    "ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "04_hr Позвонит.md",
@@ -197,7 +198,6 @@
     "3_JS/Методы/trim.md",
     "Mетодологии разработки/PWA.md",
     "Mетодологии разработки/Патерны программирования.md",
-    "2_CSS/Фишки.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Вложения/Pasted image 20230303215733.png",
