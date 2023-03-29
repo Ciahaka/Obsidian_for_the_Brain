@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "4_React/Component.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "%",
+                "query": "props",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "4_React/Component.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Math.md",
+                "file": "4_React/Component.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Math.md"
+                "file": "4_React/Component.md"
               }
             }
           },
@@ -169,8 +169,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
+    "3_JS/Math.md",
     "Вложения/Pasted image 20230328215055.png",
     "алгоритмы запуска/Создание react приложения.md",
     "3_JS/DOM/EventTarget.md",
@@ -179,7 +180,6 @@
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "04_hr Позвонит.md",
     "Вложения/Pasted image 20230328141937.png",
-    "3_JS/Math.md",
     "5_Test/Unit test.md",
     "3_JS/01_Операторы.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
