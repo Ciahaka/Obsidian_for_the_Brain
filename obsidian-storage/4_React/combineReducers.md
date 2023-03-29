@@ -1,10 +1,12 @@
 [reactdev](https://reactdev.ru/libs/redux/api/combineReducers/)
 [Dimich](https://www.youtube.com/watch?v=5Ei5nru5Ly4&ab_channel=IT-INCUBATOR)
 При разрастании приложения появляется необходимость разделить функцию редьюсер на отдельные функции, который будут управлять отдельными частями состояния приложения.
-
+Функция combineReducers преобразует объект, свойствами которого являются отдельные функции редьюсер, в одну функцию редьюсер, которая передаётся в createStore.
 ```js
 combineReducers(reducers);
 ```
+ `reducers` (_Object_) - объект, значения которого соответствуют различным функциям редьюсерам, которые должны быть объединены в один. 
+ 
  Эта функция возвращает новый reducer (рутовый reducer)
  ```js
  const x = combineReducers(
