@@ -1,6 +1,8 @@
 [[#метод "map" 13:52]]
 [[#Удаление таски / onClick 19:03]]
 [[#Функция удаления таски / filter 30:10]]
+[[#Local State (useState) 43:06]]
+[[#Фильтрация задач (all active completed)]]
 
 ## 01_02 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b5104ef084890015872dbe)
