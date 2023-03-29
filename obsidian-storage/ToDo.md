@@ -73,15 +73,15 @@ let filteredTasks = tasks
 
 ## 03 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b510c6f084890015872dbf)
-#### uuid. Подключение библиотеки 2:11
+#### UUID. Подключение библиотеки 2:11
 UUID - библиотека, которая генерирует текстовые, уникальные id
 Подключение к проекту
 ```ts
 yarn add uuid @types/uuid
 ```
+!!! Везде где фигурировал id:number - заменить на string.
 
-[[#UUID]] - 
-[7:48](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=468s) - про key
+7:48 - про key
 [9:18](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=558s) - addTask
 [17:05](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1025s) - чтение значения из input
 [29:13](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1753s) - очистка поля input (onChange)
@@ -145,7 +145,7 @@ yarn add uuid @types/uuid
 Фильтрация состояния тасок
 #фильтрация_тасок
 
-### UUID
+
 
 
 
