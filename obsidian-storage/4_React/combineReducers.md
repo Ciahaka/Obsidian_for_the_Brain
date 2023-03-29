@@ -13,3 +13,6 @@ combineReducers(reducers);
    }
  )
 ```
+
+х - это обычный reducer (рутовый reducer), который мы закидываем в 
+ 
