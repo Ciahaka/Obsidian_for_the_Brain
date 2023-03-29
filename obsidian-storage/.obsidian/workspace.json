@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/reducer.md",
+                "file": "ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/combineReducers.md",
+                "file": "ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/combineReducers.md",
+                "file": "ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/combineReducers.md"
+                "file": "ToDo.md"
               }
             }
           },
@@ -180,7 +180,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "60ec61dc3d3712e9",
+  "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
     "4_React/reducer.md",
     "4_React/combineReducers.md",
