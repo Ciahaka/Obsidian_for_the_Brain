@@ -93,11 +93,11 @@ yarn add uuid @types/uuid
 !!! Не забываем про круглые скобки за функцией в колбэке onClick. Если есть скобки слева, то должны быть и справа!!!
 На данном этапе, при нажатии на кнопку должна отображаться новая добавившаяся таска.
 
-№№
+#### Чтение значения из input 17:05
+Нужно отрисовывать то значение, что вводиться в инпуте, а не зашитое 
 
 7:48 - про key
 
-[17:05](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1025s) - чтение значения из input
 [29:13](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1753s) - очистка поля input (onChange)
 [30:09](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=1809s) - добавление task при нажатии на enter (onKeyPress)
 [37:51](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=2271s) - рефактор кода
