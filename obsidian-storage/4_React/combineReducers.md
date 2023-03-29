@@ -1,0 +1,4 @@
+[react]
+```js
+combineReducers(reducers);
+```
