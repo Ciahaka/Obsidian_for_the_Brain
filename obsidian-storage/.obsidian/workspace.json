@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "01-02_ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/Component.md",
+                "file": "01-02_ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "props",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/Component.md",
+                "file": "01-02_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/Component.md",
+                "file": "01-02_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/Component.md"
+                "file": "01-02_ToDo.md"
               }
             }
           },
@@ -171,11 +170,12 @@
   },
   "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
+    "4_React/Component.md",
     "3_JS/Math.md",
     "Вложения/Pasted image 20230328215055.png",
     "алгоритмы запуска/Создание react приложения.md",
     "3_JS/DOM/EventTarget.md",
-    "01_ToDo.md",
+    "01-02_ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "04_hr Позвонит.md",
