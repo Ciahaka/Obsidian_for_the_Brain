@@ -1,5 +1,7 @@
 [reactdev](https://reactdev.ru/libs/redux/api/combineReducers/)
 [Dimich](https://www.youtube.com/watch?v=5Ei5nru5Ly4&ab_channel=IT-INCUBATOR)
+При разрастании приложения появляется необходимость разделить функцию редьюсер на отдельные функции, который будут управлять отдельными частями состояния приложения.
+
 ```js
 combineReducers(reducers);
 ```
@@ -16,5 +18,6 @@ combineReducers(reducers);
 
 х - это обычный reducer (рутовый reducer), который мы закидываем в createStore.
 Когда диспатчим action, они попадают в рутовый reducer, туда же попадает весь state. Далее рутовый reducer забрасывает всё это в combineReducers, тот в свою очередь распределяет всё по своим св-вам ( которые являются reducer, отвечающими за отдельную часть логики), запуская их.
-Декомпозиция reduser ???
+Декомпозиция reducer ???
+Типизация рутового reducer: ReturnType 
  
