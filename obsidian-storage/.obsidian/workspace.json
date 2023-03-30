@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/DOM/Event.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -181,14 +180,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "60ec61dc3d3712e9",
   "lastOpenFiles": [
+    "3_JS/DOM/Event.md",
+    "ToDo.md",
     "Вложения/Pasted image 20230330123830.png",
     "Вложения/Pasted image 20230329222022.png",
-    "3_JS/DOM/Event.md",
     "02_Native JS_TS.md",
     "4_React/combineReducers.md",
-    "ToDo.md",
     "Вложения/Pasted image 20230329210243.png",
     "Вложения/Pasted image 20230329163704.png",
     "Вложения/Pasted image 20230329154759.png",
@@ -220,7 +219,6 @@
     "Вложения/Pasted image 20230303215733.png",
     "Вложения/Pasted image 20230303190729.png",
     "Вложения/Pasted image 20230228151551.png",
-    "Вложения/Pasted image 20230228151537.png",
     "Диаграммы"
   ]
 }
