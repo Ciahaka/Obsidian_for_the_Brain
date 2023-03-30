@@ -10,7 +10,9 @@
 [[#Очистка поля input (onChange) 29:13]]
 [[#Добавление таски по нажатию на Enter 30:09]]
 [[#Рефакторинг кода 37:51]]
-[[#]]
+[[#Активный чекбокс 8:55]]
+[[#trim(). Защита от пустого ввода 32:10]]
+[[#Title is required! Предупреждение о неверном вводе 39:00]]
 
 ## 01_02 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b5104ef084890015872dbe)
