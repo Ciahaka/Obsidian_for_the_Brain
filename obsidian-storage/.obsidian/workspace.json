@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
     "04_hr Позвонит.md",
     "ToDo.md",
