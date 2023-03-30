@@ -158,6 +158,15 @@ yarn add uuid @types/uuid
 [59:40](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3580s) – резюме (рисовалка)
 
 ## 04 - TodoList for students
+[Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b51364f084890015872dc7)
+
+
+**8:55** – начало.  
+**32:10** – trim()  
+**39:00** – title is required  
+**47:50** – подсветка кнопок
+
+
 ## material-ui
 [20:00](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1200s) – кнопки
 [23:40](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1420s) – инпут
