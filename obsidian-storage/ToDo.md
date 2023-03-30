@@ -159,9 +159,11 @@ yarn add uuid @types/uuid
 
 ## 04 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b51364f084890015872dc7)
+#### Активный чекбокс 8:55
+Ликбез: Процесс запуска проекта в WS
+При вводе команды yarn start мы запускаем webpack. Он анализирует все файлы кода, импорты и экспорты и после собирает это всё в один файл.
+Далее webpack запускает транспилятор 
 
-
-**8:55** – начало.  
 **32:10** – trim()  
 **39:00** – title is required  
 **47:50** – подсветка кнопок

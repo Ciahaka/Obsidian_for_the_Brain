@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "event",
+                "query": "bab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,10 +183,10 @@
   },
   "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
-    "Вложения/Pasted image 20230330131900.png",
     "04_hr Позвонит.md",
-    "3_JS/DOM/Event.md",
     "ToDo.md",
+    "Вложения/Pasted image 20230330131900.png",
+    "3_JS/DOM/Event.md",
     "Вложения/Pasted image 20230330123830.png",
     "Вложения/Pasted image 20230329222022.png",
     "02_Native JS_TS.md",
@@ -219,7 +220,6 @@
     "Диаграммы/Тест.canvas",
     "Вложения/Pasted image 20230303215733.png",
     "Вложения/Pasted image 20230303190729.png",
-    "Вложения/Pasted image 20230228151551.png",
     "Диаграммы"
   ]
 }
