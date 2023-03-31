@@ -82,7 +82,6 @@ let filteredTasks = tasks
 
 ## 03 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b510c6f084890015872dbf)
-
 #### UUID. Подключение библиотеки 2:11
 UUID - библиотека, которая генерирует текстовые, уникальные id
 Подключение к проекту
@@ -130,36 +129,6 @@ yarn add uuid @types/uuid
 Включает в себя вынос всей логики из обработчиков событий наверх, в функции Handler.
 !! Внутри ретурна map забираем логику из обработчика и выносим в Handler на ретурном map. Не выше.!!
 !! Помещая функции Handler в обработчики, не забываем делать им вызов!!
-
-
-[47:37](https://www.youtube.com/watch?v=jh2XvRX7fw4&t=2857s) - рефактор функции удаления
-[9:01](https://youtu.be/ut7SbOKilZE) – Aктивный чекбокс
-[32:10](https://youtu.be/ut7SbOKilZE?t=1935) – trim() Убрать пробелы и пустые строки
-[39:00](https://youtu.be/ut7SbOKilZE?t=2347) – title is required. Ошибка пустого ввода
-[47:50](https://youtu.be/ut7SbOKilZE?t=2902) – подсветка кнопок выполненных тасок
-[53:54](https://youtu.be/ut7SbOKilZE?t=3114) - затенение выполненных тасок
-[12:00](https://www.youtube.com/watch?v=mF6NfolktTY&t=720s) – массив todolists
-[16:20](https://www.youtube.com/watch?v=mF6NfolktTY&t=980s) – фильтрация тасок для каждого todolist
-[18:49](https://youtu.be/mF6NfolktTY?t=1131) - коррекция функции изменения фильтра
-
-[23:52](https://youtu.be/mF6NfolktTY?t=1432) - помещаем переменную с тудулистами в useState
-[24:29](https://youtu.be/mF6NfolktTY?t=1495) - модифицируем функцию изменения фильтра  
-[29:00](https://www.youtube.com/watch?v=mF6NfolktTY&t=1740s) – где хранить таски
-[37:39](https://youtu.be/mF6NfolktTY?t=2272) - чиним функции над return
-[44:45](https://www.youtube.com/watch?v=mF6NfolktTY&t=2685s) – debugger
-[47:00](https://www.youtube.com/watch?v=mF6NfolktTY&t=2820s) – удаление todolists
-[49:40](https://www.youtube.com/watch?v=mF6NfolktTY&t=2980s) – удаление todolist tasks из стейта
-[1:00](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=60s), [2:40](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=160s) – переиспользование input
-[13:30](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=810s) – обертка addTask
-[18:30](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=1110s) – добавляем новый todolist
-[21:00](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=1260s) – типизация tasksObj
-
-[28:20](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=1700s) – редактирование span
-[32:16](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=1936s) – EditableSpan
-[53:30](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3210s) – редактирование todolist name
-[58:00](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3480s) – debugger (как работает editable span)
-[59:40](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3580s) – резюме (рисовалка)
-
 ## 04 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b51364f084890015872dc7)
 Ликбез: Процесс запуска проекта в WS
@@ -225,7 +194,7 @@ Div с отрисовкой сообщения можно разместить �
 
 
 ## 05 - TodoList for students
-
+#### **12:00** – массив todolists
 ## material-ui
 [20:00](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1200s) – кнопки
 [23:40](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1420s) – инпут
