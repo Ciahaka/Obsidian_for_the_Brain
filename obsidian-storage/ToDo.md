@@ -14,6 +14,7 @@
 [[#trim(). Защита от пустого ввода 32:10]]
 [[#Title is required! Предупреждение о неверном вводе 39:00]]
 [[#Затенение выполненных тасок. 51:55]]
+[[#Mассив Тудулистов. Работа с несколькими Todo 12:00]]
 
 ## 01_02 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b5104ef084890015872dbe)
@@ -194,7 +195,30 @@ Div с отрисовкой сообщения можно разместить �
 
 
 ## 05 - TodoList for students
-#### **12:00** – массив todolists
+#### Mассив Тудулистов. Работа с несколькими Todo 12:00
+
+
+
+[16:20](https://www.youtube.com/watch?v=mF6NfolktTY&t=980s) – фильтрация тасок для каждого todolist
+[18:49](https://youtu.be/mF6NfolktTY?t=1131) - коррекция функции изменения фильтра
+
+[23:52](https://youtu.be/mF6NfolktTY?t=1432) - помещаем переменную с тудулистами в useState
+[24:29](https://youtu.be/mF6NfolktTY?t=1495) - модифицируем функцию изменения фильтра  
+[29:00](https://www.youtube.com/watch?v=mF6NfolktTY&t=1740s) – где хранить таски
+[37:39](https://youtu.be/mF6NfolktTY?t=2272) - чиним функции над return
+[44:45](https://www.youtube.com/watch?v=mF6NfolktTY&t=2685s) – debugger
+[47:00](https://www.youtube.com/watch?v=mF6NfolktTY&t=2820s) – удаление todolists
+[49:40](https://www.youtube.com/watch?v=mF6NfolktTY&t=2980s) – удаление todolist tasks из стейта
+[1:00](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=60s), [2:40](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=160s) – переиспользование input
+[13:30](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=810s) – обертка addTask
+[18:30](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=1110s) – добавляем новый todolist
+[21:00](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=1260s) – типизация tasksObj
+
+[28:20](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=1700s) – редактирование span
+[32:16](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=1936s) – EditableSpan
+[53:30](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3210s) – редактирование todolist name
+[58:00](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3480s) – debugger (как работает editable span)
+[59:40](https://www.youtube.com/watch?v=Q-TPmODeF2M&t=3580s) – резюме (рисовалка)
 ## material-ui
 [20:00](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1200s) – кнопки
 [23:40](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1420s) – инпут
