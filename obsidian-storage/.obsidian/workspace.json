@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Методы/trim.md",
+                "file": "01_ToDo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "01_ToDo.md"
               }
             }
           },
@@ -168,24 +168,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "60ec61dc3d3712e9",
   "lastOpenFiles": [
+    "3_JS/Методы/trim.md",
+    "04_hr Позвонит.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
-    "ToDo.md",
+    "01_ToDo.md",
     "Вложения/Pasted image 20230331192402.png",
     "Вложения/Pasted image 20230331164321.png",
     "Вложения/Pasted image 20230331161107.png",
     "Вложения/Pasted image 20230331160839.png",
     "Вложения/Pasted image 20230331155231.png",
     "Вложения/Pasted image 20230331124359.png",
-    "3_JS/Методы/trim.md",
     "WebStorm help/Снипеты. Руководсво по созданию.md",
     "Вложения/Pasted image 20230330231154.png",
     "WebStorm help",
     "Вложения/Pasted image 20230330211632.png",
     "Вложения/Pasted image 20230330211219.png",
     "Вложения/Pasted image 20230330195325.png",
-    "04_hr Позвонит.md",
     "3_JS/DOM/Event.md",
     "02_Native JS_TS.md",
     "4_React/combineReducers.md",
