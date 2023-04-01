@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "unshift",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo.md"
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md"
               }
             }
           },
@@ -169,6 +170,7 @@
   },
   "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
+    "ToDo.md",
     "Вложения/Pasted image 20230331192402.png",
     "Вложения/Pasted image 20230331164321.png",
     "Вложения/Pasted image 20230331161107.png",
@@ -179,12 +181,10 @@
     "WebStorm help/Снипеты. Руководсво по созданию.md",
     "Вложения/Pasted image 20230330231154.png",
     "WebStorm help",
-    "ToDo.md",
     "Вложения/Pasted image 20230330211632.png",
     "Вложения/Pasted image 20230330211219.png",
     "Вложения/Pasted image 20230330195325.png",
     "04_hr Позвонит.md",
-    "Вложения/Pasted image 20230330131900.png",
     "3_JS/DOM/Event.md",
     "02_Native JS_TS.md",
     "4_React/combineReducers.md",
