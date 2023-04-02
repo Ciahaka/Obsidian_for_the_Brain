@@ -30,6 +30,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f3a237a9235c0ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -60,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рекурсия",
+                "query": "node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,12 +176,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
-    "Вложения/Pasted image 20230402004457.png",
-    "Вложения/Pasted image 20230402004414.png",
     "01_ToDo.md",
     "04_hr Позвонит.md",
+    "Вложения/Pasted image 20230402004457.png",
+    "Вложения/Pasted image 20230402004414.png",
     "Вложения/Pasted image 20230402002118.png",
     "Вложения/Pasted image 20230402002039.png",
     "Вложения/Pasted image 20230402000407.png",
@@ -183,7 +192,6 @@
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "Вложения/Pasted image 20230331192402.png",
     "Вложения/Pasted image 20230331164321.png",
-    "Вложения/Pasted image 20230331161107.png",
     "WebStorm help/Снипеты. Руководсво по созданию.md",
     "WebStorm help",
     "3_JS/DOM/Event.md",
