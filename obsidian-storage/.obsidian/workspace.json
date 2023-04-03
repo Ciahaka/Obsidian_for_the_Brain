@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "for",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,14 +176,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
     "01_ToDo.md",
+    "04_hr Позвонит.md",
     "Вложения/Pasted image 20230403010044.png",
     "Вложения/Pasted image 20230403004452.png",
     "Вложения/Pasted image 20230402231136.png",
     "Вложения/Pasted image 20230402225913.png",
-    "04_hr Позвонит.md",
     "Вложения/Pasted image 20230402004457.png",
     "Вложения/Pasted image 20230402004414.png",
     "Вложения/Pasted image 20230402002118.png",
