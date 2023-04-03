@@ -20,7 +20,19 @@
             }
           },
           {
-            "id": "60ec61dc3d3712e9",
+            "id": "9f3a237a9235c0ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian help/Якорь в тексте.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6955b3f3d5bdf020",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,17 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f3a237a9235c0ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,11 +180,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "60ec61dc3d3712e9",
+  "active": "6955b3f3d5bdf020",
   "lastOpenFiles": [
-    "Обертка addTask.md",
+    "obsidian help/Якорь в тексте.md",
     "01_ToDo.md",
+    "().md",
     "04_hr Позвонит.md",
+    "Обертка addTask.md",
     "Вложения/Pasted image 20230403010044.png",
     "Вложения/Pasted image 20230403004452.png",
     "Вложения/Pasted image 20230402231136.png",
@@ -214,8 +219,6 @@
     "3_JS/Деструктуризация.md",
     "Mетодологии разработки/Принципы программирования.md",
     "call.md",
-    "3_JS/Функция/apply.md",
-    "3_JS/Функция/call.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
