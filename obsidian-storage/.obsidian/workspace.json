@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "for of",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +176,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
     "01_ToDo.md",
     "04_hr Позвонит.md",
