@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "9f3a237a9235c0ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian help/Якорь в тексте.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6955b3f3d5bdf020",
             "type": "leaf",
             "state": {
@@ -72,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "самовы",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,13 +168,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
     "01_ToDo.md",
-    "Вложения/Pasted image 20230403224930.png",
-    "obsidian help/Якорь в тексте.md",
-    "().md",
     "04_hr Позвонит.md",
+    "obsidian help/Якорь в тексте.md",
+    "Вложения/Pasted image 20230403224930.png",
+    "().md",
     "Обертка addTask.md",
     "Вложения/Pasted image 20230403010044.png",
     "Вложения/Pasted image 20230403004452.png",
