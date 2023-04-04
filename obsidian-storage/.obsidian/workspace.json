@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "for of",
+                "query": "самовы",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -180,11 +180,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6955b3f3d5bdf020",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
+    "01_ToDo.md",
     "Вложения/Pasted image 20230403224930.png",
     "obsidian help/Якорь в тексте.md",
-    "01_ToDo.md",
     "().md",
     "04_hr Позвонит.md",
     "Обертка addTask.md",
@@ -197,7 +197,6 @@
     "Вложения/Pasted image 20230402002118.png",
     "Вложения/Pasted image 20230402002039.png",
     "Вложения/Pasted image 20230402000407.png",
-    "Вложения/Pasted image 20230402000107.png",
     "3_JS/Методы/trim.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "WebStorm help/Снипеты. Руководсво по созданию.md",
