@@ -1,6 +1,5 @@
 Этот метод, в отличии от классического JS метода `document.createElement`(не используется в React), возвращает не DOM элемент, а объект представляющий этот DOM элемент.
 ```js
-javascript
 const element = React.createElement("h1");
 //возвращает объект, подобный этому:
 {
@@ -9,5 +8,7 @@ const element = React.createElement("h1");
 }
 ```
 Это происходит из-за того, что React работает с виртуальным DOM.(оптимизация)
+Назначение атрибутов возвращаемому элементу происходит следующим образом
 ```js
+React.createElement("h1", {className: "center", style: "color: red"})
 ```
