@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "4_React/React.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "4_React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6_Git/Git.md",
+                "file": "4_React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6_Git/Git.md"
+                "file": "4_React/React.md"
               }
             }
           },
@@ -177,8 +177,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6955b3f3d5bdf020",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
+    "6_Git/Git.md",
     "6_Git/Github.md",
     "01_ToDo.md",
     "3_JS/Патерны программирования JS.md",
@@ -215,7 +216,6 @@
     "5_Test/Unit test.md",
     "3_JS/01_Операторы.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
-    "6_Git/Git.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
