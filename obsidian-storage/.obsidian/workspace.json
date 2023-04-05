@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8777c084b0f23b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/fill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6955b3f3d5bdf020",
             "type": "leaf",
             "state": {
@@ -78,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/fill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/fill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "3_JS/Методы/Array (Массивы)/Методы массивов/fill.md"
               }
             }
           },
@@ -169,9 +180,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6955b3f3d5bdf020",
+  "active": "8777c084b0f23b11",
   "lastOpenFiles": [
     "04_hr Позвонит.md",
+    "3_JS/Методы/Array (Массивы)/Методы массивов/fill.md",
     "01_ToDo.md",
     "obsidian help/Якорь в тексте.md",
     "Вложения/Pasted image 20230403224930.png",
