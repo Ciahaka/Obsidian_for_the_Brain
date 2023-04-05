@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
     "6_Git/Git.md",
     "6_Git/Github.md",
