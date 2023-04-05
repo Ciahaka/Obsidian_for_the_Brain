@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/React.md",
+                "file": "4_React/1.React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0fb350696a662c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_React/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/React.md",
+                "file": "4_React/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/React.md",
+                "file": "4_React/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/React.md"
+                "file": "4_React/Без названия.md"
               }
             }
           },
@@ -176,8 +188,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a531a40b890d1a5",
+  "active": "c0fb350696a662c6",
   "lastOpenFiles": [
+    "4_React/1.React.md",
+    "4_React/Без названия.md",
     "6_Git/Git.md",
     "6_Git/Github.md",
     "01_ToDo.md",
@@ -205,7 +219,6 @@
     "02_Native JS_TS.md",
     "4_React/combineReducers.md",
     "4_React/reducer.md",
-    "4_React/React.md",
     "4_React/Component.md",
     "3_JS/Math.md",
     "алгоритмы запуска/Создание react приложения.md",
@@ -214,7 +227,6 @@
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "5_Test/Unit test.md",
     "3_JS/01_Операторы.md",
-    "3_JS/DOM/EventTarget.addEventListener().md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
