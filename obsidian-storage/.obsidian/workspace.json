@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Mетодологии разработки/Патерны программирования JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "патерны",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Mетодологии разработки/Патерны программирования JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Mетодологии разработки/Патерны программирования JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "Mетодологии разработки/Патерны программирования JS.md"
               }
             }
           },
@@ -170,10 +171,10 @@
   },
   "active": "6955b3f3d5bdf020",
   "lastOpenFiles": [
+    "01_ToDo.md",
     "Вложения/Pasted image 20230405103105.png",
     "04_hr Позвонит.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/fill (value, start, end).md",
-    "01_ToDo.md",
     "Вложения/Pasted image 20230405100443.png",
     "Вложения/Pasted image 20230405100427.png",
     "Вложения/Pasted image 20230405100412.png",
@@ -186,7 +187,6 @@
     "Вложения/Pasted image 20230402231136.png",
     "Вложения/Pasted image 20230402225913.png",
     "Вложения/Pasted image 20230402004457.png",
-    "Вложения/Pasted image 20230402004414.png",
     "3_JS/Методы/trim.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "WebStorm help/Снипеты. Руководсво по созданию.md",
