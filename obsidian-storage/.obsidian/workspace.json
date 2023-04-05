@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "6_Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "6_Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "6_Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "6_Git/Git.md"
               }
             }
           },
@@ -177,8 +177,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "6955b3f3d5bdf020",
   "lastOpenFiles": [
+    "6_Git/Github.md",
     "01_ToDo.md",
     "3_JS/Патерны программирования JS.md",
     "Вложения/Pasted image 20230405103105.png",
@@ -215,7 +216,6 @@
     "3_JS/01_Операторы.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
     "6_Git/Git.md",
-    "3_JS/Деструктуризация.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
