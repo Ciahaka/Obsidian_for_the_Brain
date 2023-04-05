@@ -1,0 +1,1 @@
+Этот метод, в отличии от классического JS метода document.createElement, возвращает не DOM 'ktvtyn? f '
