@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "патерны",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6955b3f3d5bdf020",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
     "01_ToDo.md",
     "3_JS/Патерны программирования JS.md",
