@@ -25,14 +25,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mетодологии разработки/Патерны программирования JS.md",
+                "file": "01_ToDo.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bbafb957cc4027a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mетодологии разработки/Патерны программирования JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mетодологии разработки/Патерны программирования JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mетодологии разработки/Патерны программирования JS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,9 +172,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6955b3f3d5bdf020",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
     "01_ToDo.md",
+    "Mетодологии разработки/Патерны программирования JS.md",
     "Вложения/Pasted image 20230405103105.png",
     "04_hr Позвонит.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/fill (value, start, end).md",
