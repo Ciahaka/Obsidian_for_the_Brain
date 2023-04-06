@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mетодологии разработки/Принципы программирования.md",
+                "file": "4_React/1.React.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mетодологии разработки/Принципы программирования.md",
+                "file": "4_React/1.React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mетодологии разработки/Принципы программирования.md",
+                "file": "4_React/1.React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mетодологии разработки/Принципы программирования.md"
+                "file": "4_React/1.React.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "c0fb350696a662c6",
   "lastOpenFiles": [
+    "Mетодологии разработки/Принципы программирования.md",
     "3_JS/Патерны программирования JS.md",
     "4_React/React.createElement.md",
     "4_React/1.React.md",
@@ -226,7 +227,6 @@
     "Библиотеки и фреймворки/storybook.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
     "5_Test/Unit test.md",
-    "3_JS/01_Операторы.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
