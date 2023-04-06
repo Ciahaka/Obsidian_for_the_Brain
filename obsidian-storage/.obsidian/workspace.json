@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/React.createElement.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/React.createElement.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/React.createElement.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/React.createElement.md"
+                "file": "Mетодологии разработки/Принципы программирования.md"
               }
             }
           },
@@ -190,12 +190,12 @@
   },
   "active": "c0fb350696a662c6",
   "lastOpenFiles": [
-    "4_React/1.React.md",
+    "3_JS/Патерны программирования JS.md",
     "4_React/React.createElement.md",
+    "4_React/1.React.md",
     "6_Git/Git.md",
     "6_Git/Github.md",
     "01_ToDo.md",
-    "3_JS/Патерны программирования JS.md",
     "Вложения/Pasted image 20230405103105.png",
     "04_hr Позвонит.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/fill (value, start, end).md",
