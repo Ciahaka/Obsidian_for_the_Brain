@@ -12,3 +12,12 @@ const element = React.createElement("h1");
 ```js
 React.createElement("h1", {className: "center", style: "color: red"})
 ```
+
+Ниже необходимые импорты и методы для отрисовки элемента  в заданный элемент `<div></`  в index файле
+```js
+import React from 'react';
+import {createRoot} from "react-dom/client";  
+  
+const root = document.querySelector("#root");  
+createRoot(root).render(React.createElement("p", {}, "Hello World"));
+```
