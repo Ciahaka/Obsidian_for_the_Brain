@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/1.React.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "babel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/1.React.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/1.React.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/1.React.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -190,12 +191,12 @@
   },
   "active": "6955b3f3d5bdf020",
   "lastOpenFiles": [
+    "4_React/1.React.md",
     "4_React/reducer.md",
     "4_React/combineReducers.md",
     "01_ToDo.md",
     "6_Git/Github.md",
     "6_Git/Git.md",
-    "4_React/1.React.md",
     "4_React/React.createElement.md",
     "Mетодологии разработки/Принципы программирования.md",
     "3_JS/Патерны программирования JS.md",
