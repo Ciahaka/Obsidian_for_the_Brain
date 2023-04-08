@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "babel",
+                "query": "TDD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +189,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6955b3f3d5bdf020",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
     "4_React/1.React.md",
     "4_React/reducer.md",
