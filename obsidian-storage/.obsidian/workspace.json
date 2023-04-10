@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d4e9d0315584b130",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Links/Полезные ссылки/EXEL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c0fb350696a662c6",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Links/Полезные ссылки/EXEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Links/Полезные ссылки/EXEL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "Links/Полезные ссылки/EXEL.md"
               }
             }
           },
@@ -189,8 +200,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2e27a74294d4dd1b",
+  "active": "d4e9d0315584b130",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
+    "Links/Полезные ссылки/EXEL.md",
     "4_React/1.React.md",
     "4_React/reducer.md",
     "4_React/combineReducers.md",
@@ -201,7 +214,6 @@
     "Mетодологии разработки/Принципы программирования.md",
     "3_JS/Патерны программирования JS.md",
     "Вложения/Pasted image 20230405103105.png",
-    "04_hr Позвонит.md",
     "3_JS/Методы/Array (Массивы)/Методы массивов/fill (value, start, end).md",
     "Вложения/Pasted image 20230405100443.png",
     "Вложения/Pasted image 20230405100427.png",
@@ -227,7 +239,6 @@
     "3_JS/DOM/EventTarget.md",
     "Библиотеки и фреймворки/storybook.md",
     "Библиотеки и фреймворки/react-router-dom V6.md",
-    "5_Test/Unit test.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
