@@ -353,14 +353,16 @@ Div с отрисовкой сообщения можно разместить �
 Задай условие, что если такой массив(переменная) существует, то присвой title этого массива новый title, приходящий в параметрах функции.
 Для того, чтобы изменения отрисовались -вызови функцию setState и в её вызов положи копию массива state.
 
+## 06_Material-UI
+[Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b51c9ff084890015872de7)
+
+20:00 – кнопки
+23:40 – инпут
+31:35 – чекбокс
+44:30 – AppBar
+47:10 – Container, grid
 
 
-
-[20:00](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1200s) – кнопки
-[23:40](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1420s) – инпут
-[31:35](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=1895s) – чекбокс
-[44:30](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=2670s) – AppBar
-[47:10](https://www.youtube.com/watch?v=zNbqQty3O1Q&t=2830s) – Container, grid
 ## reducer
 [8:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=480s) – как работает reducer 
 [10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тесты

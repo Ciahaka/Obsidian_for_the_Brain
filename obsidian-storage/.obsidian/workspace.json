@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/React.createElement.md",
+                "file": "Библиотеки и фреймворки/Ant Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "реку",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Библиотеки и фреймворки/Ant Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Библиотеки и фреймворки/Ant Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "Библиотеки и фреймворки/Ant Design.md"
               }
             }
           },
@@ -180,11 +180,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "c0fb350696a662c6",
   "lastOpenFiles": [
-    "04_hr Позвонит.md",
-    "01_ToDo.md",
+    "Библиотеки и фреймворки/Material UI.md",
     "4_React/React.createElement.md",
+    "01_ToDo.md",
+    "04_hr Позвонит.md",
     "Links/Полезные ссылки/EXEL.md",
     "4_React/1.React.md",
     "4_React/reducer.md",
@@ -218,7 +219,6 @@
     "алгоритмы запуска/Создание react приложения.md",
     "3_JS/DOM/EventTarget.md",
     "Библиотеки и фреймворки/storybook.md",
-    "Библиотеки и фреймворки/react-router-dom V6.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
