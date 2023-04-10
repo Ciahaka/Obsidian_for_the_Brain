@@ -42,16 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bbafb957cc4027a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "структура данных",
+                "query": "реку",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           },
@@ -187,15 +181,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
-    "04_hr Позвонит.md",
     "4_React/React.createElement.md",
+    "04_hr Позвонит.md",
+    "01_ToDo.md",
     "Links/Полезные ссылки/EXEL.md",
     "4_React/1.React.md",
     "4_React/reducer.md",
     "4_React/combineReducers.md",
-    "01_ToDo.md",
     "6_Git/Github.md",
     "6_Git/Git.md",
     "Mетодологии разработки/Принципы программирования.md",
