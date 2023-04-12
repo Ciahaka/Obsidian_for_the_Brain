@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "алгоритмы запуска/Git Hub pages.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "алгоритмы запуска/Git Hub pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "алгоритмы запуска/Git Hub pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "алгоритмы запуска/Git Hub pages.md"
               }
             }
           },
@@ -182,11 +182,12 @@
   },
   "active": "6955b3f3d5bdf020",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/Bootstrap.md",
+    "04_hr Позвонит.md",
     "Библиотеки и фреймворки/Ant Design.md",
     "01_ToDo.md",
     "Библиотеки и фреймворки/Material UI.md",
     "4_React/React.createElement.md",
-    "04_hr Позвонит.md",
     "Links/Полезные ссылки/EXEL.md",
     "4_React/1.React.md",
     "4_React/reducer.md",
@@ -218,7 +219,6 @@
     "4_React/Component.md",
     "3_JS/Math.md",
     "алгоритмы запуска/Создание react приложения.md",
-    "3_JS/DOM/EventTarget.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
