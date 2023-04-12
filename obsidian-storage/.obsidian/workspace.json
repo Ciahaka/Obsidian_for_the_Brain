@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md",
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md",
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md"
+                "file": "01_ToDo.md"
               }
             }
           },
@@ -180,8 +179,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c0fb350696a662c6",
+  "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/Ant Design.md",
     "Библиотеки и фреймворки/Material UI.md",
     "4_React/React.createElement.md",
     "01_ToDo.md",
@@ -218,7 +218,6 @@
     "3_JS/Math.md",
     "алгоритмы запуска/Создание react приложения.md",
     "3_JS/DOM/EventTarget.md",
-    "Библиотеки и фреймворки/storybook.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
