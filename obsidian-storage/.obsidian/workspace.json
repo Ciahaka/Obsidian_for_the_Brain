@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "алгоритмы запуска/Git Hub pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "алгоритмы запуска/Git Hub pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "алгоритмы запуска/Git Hub pages.md"
               }
             }
           },
@@ -179,11 +180,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "6955b3f3d5bdf020",
   "lastOpenFiles": [
-    "алгоритмы запуска/Git Hub pages.md",
-    "01_ToDo.md",
     "Библиотеки и фреймворки/Ant Design.md",
+    "01_ToDo.md",
+    "алгоритмы запуска/Git Hub pages.md",
     "Библиотеки и фреймворки/Bootstrap.md",
     "04_hr Позвонит.md",
     "Библиотеки и фреймворки/Material UI.md",
