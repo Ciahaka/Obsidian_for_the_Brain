@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "алгоритмы запуска/Git Hub pages.md",
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "алгоритмы запуска/Git Hub pages.md",
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "алгоритмы запуска/Git Hub pages.md"
+                "file": "01_ToDo.md"
               }
             }
           },
@@ -180,11 +179,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6955b3f3d5bdf020",
+  "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
+    "Библиотеки и фреймворки/Ant Design.md",
+    "алгоритмы запуска/Git Hub pages.md",
     "Библиотеки и фреймворки/Bootstrap.md",
     "04_hr Позвонит.md",
-    "Библиотеки и фреймворки/Ant Design.md",
     "01_ToDo.md",
     "Библиотеки и фреймворки/Material UI.md",
     "4_React/React.createElement.md",
@@ -218,7 +218,6 @@
     "02_Native JS_TS.md",
     "4_React/Component.md",
     "3_JS/Math.md",
-    "алгоритмы запуска/Создание react приложения.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
