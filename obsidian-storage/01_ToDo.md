@@ -367,7 +367,7 @@ Div с отрисовкой сообщения можно разместить �
 
 
 
-## reducer
+## 07_Reducer
 [8:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=480s) – как работает reducer 
 [10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тесты
 [19:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1140s) – тесты для reducer
@@ -378,6 +378,7 @@ Div с отрисовкой сообщения можно разместить �
 [58:40](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=3520s) – типизация actions
 [1:07:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=4020s) – action creators
 [1:18:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=4710s) – debugger
+
 ## Reducer for tasks [Клац](https://samurai.it-incubator.ru/pc/video-content/watch/60b52128f084890015872df5)
 **14:40** – начало  
 **21:40** – тесты
