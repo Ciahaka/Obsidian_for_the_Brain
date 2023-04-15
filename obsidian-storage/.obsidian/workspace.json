@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "6955b3f3d5bdf020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_JS/01_Операторы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c0fb350696a662c6",
             "type": "leaf",
             "state": {
@@ -90,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/01_Операторы.md",
+                "file": "Библиотеки и фреймворки/Ant Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/01_Операторы.md",
+                "file": "Библиотеки и фреймворки/Ant Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/01_Операторы.md"
+                "file": "Библиотеки и фреймворки/Ant Design.md"
               }
             }
           },
@@ -181,12 +168,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6955b3f3d5bdf020",
+  "active": "1a531a40b890d1a5",
   "lastOpenFiles": [
+    "01_ToDo.md",
+    "Библиотеки и фреймворки/Ant Design.md",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "3_JS/01_Операторы.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "алгоритмы запуска/Git Hub pages.md",
-    "Библиотеки и фреймворки/Ant Design.md",
-    "01_ToDo.md",
     "Библиотеки и фреймворки/Bootstrap.md",
     "04_hr Позвонит.md",
     "Библиотеки и фреймворки/Material UI.md",
@@ -218,8 +209,6 @@
     "WebStorm help/Снипеты. Руководсво по созданию.md",
     "WebStorm help",
     "3_JS/DOM/Event.md",
-    "02_Native JS_TS.md",
-    "4_React/Component.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
