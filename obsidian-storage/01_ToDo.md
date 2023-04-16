@@ -362,12 +362,12 @@ Div с отрисовкой сообщения можно разместить �
 44:30 – AppBar
 47:10 – Container, grid
 
-
 #### Ant Design 
 
 
 
 ## 07_Reducer
+
 [8:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=480s) – как работает reducer 
 [10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тесты
 [19:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1140s) – тесты для reducer
