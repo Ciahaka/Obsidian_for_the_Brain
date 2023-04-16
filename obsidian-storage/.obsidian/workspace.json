@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md",
+                "file": "3_JS/DOM/currentTarget.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typeof",
+                "query": "stop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md",
+                "file": "3_JS/DOM/currentTarget.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md",
+                "file": "3_JS/DOM/currentTarget.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/Ant Design.md"
+                "file": "3_JS/DOM/currentTarget.md"
               }
             }
           },
@@ -168,10 +169,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1a531a40b890d1a5",
+  "active": "c0fb350696a662c6",
   "lastOpenFiles": [
-    "01_ToDo.md",
+    "3_JS/DOM/Event.md",
+    "3_JS/DOM/stopPropagation().md",
     "Библиотеки и фреймворки/Ant Design.md",
+    "01_ToDo.md",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "Без названия.canvas",
@@ -208,7 +211,6 @@
     "3_JS/Методы/Array (Массивы)/Методы массивов/Методы Массива (Array).md",
     "WebStorm help/Снипеты. Руководсво по созданию.md",
     "WebStorm help",
-    "3_JS/DOM/Event.md",
     "Диаграммы/Структура Соц.Сети.canvas",
     "Диаграммы/Тест.canvas",
     "Диаграммы"
