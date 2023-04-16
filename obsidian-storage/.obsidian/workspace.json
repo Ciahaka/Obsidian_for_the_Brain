@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "мемо",
+                "query": "Solid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "Mетодологии разработки/Принципы программирования.md"
               }
             }
           },
@@ -168,10 +169,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "ed2b2173d60e60df",
   "lastOpenFiles": [
-    "4_React/Хук.md",
     "04_hr Позвонит.md",
+    "3_JS/Патерны программирования JS.md",
+    "4_React/Хук.md",
     "01_ToDo.md",
     "6_Git/Git.md",
     "1_HTML/Теги.md",
@@ -194,7 +196,6 @@
     "4_React/combineReducers.md",
     "6_Git/Github.md",
     "Mетодологии разработки/Принципы программирования.md",
-    "3_JS/Патерны программирования JS.md",
     "Вложения/Pasted image 20230405103105.png",
     "3_JS/Методы/Array (Массивы)/Методы массивов/fill (value, start, end).md",
     "Вложения/Pasted image 20230405100443.png",
