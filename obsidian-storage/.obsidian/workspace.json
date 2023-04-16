@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "6_Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "6_Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "6_Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "6_Git/Git.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "e9c82953c9b93fb5",
   "lastOpenFiles": [
+    "01_ToDo.md",
     "1_HTML/Теги.md",
     "3_JS/DOM/currentTarget.md",
     "3_JS/DOM/Event.md",
     "3_JS/DOM/stopPropagation().md",
     "Библиотеки и фреймворки/Ant Design.md",
-    "01_ToDo.md",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
     "Без названия.canvas",
