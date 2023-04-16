@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "HOC",
+                "query": "кэш",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "12d41c2f7a2cd3c7",
@@ -157,7 +156,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e9c82953c9b93fb5",
+  "active": "2e27a74294d4dd1b",
   "lastOpenFiles": [
     "01_ToDo.md",
     "6_Git/Git.md",
