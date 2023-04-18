@@ -401,8 +401,17 @@ Switch внутри reducer  определит какой тип задан в 
 ```js
 default: throw new Error('Ups!')
 ```
-- type в  action принято прописывать заглавнфми
+- type в  action - это строковое значение, его принято прописывать заглавными буквами через дефис 
+``` js
+export type removeTaskActionType = {  
+  type: 'REMOVE-TASK'  //<---
+  taskID: string  
+  tLID: string  
+}
 
+
+case 'CHANGE-TASK-STATUS':
+```
 
 
 [10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тесты
