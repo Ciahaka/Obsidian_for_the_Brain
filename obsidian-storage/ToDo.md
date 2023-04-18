@@ -414,7 +414,7 @@ case 'CHANGE-TASK-STATUS':
 ```
 
 
-[10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тесты
+[10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тес  ты
 [19:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1140s) – тесты для reducer
 [26:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1590s) – иммутабельность для редьюсера
 [30:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1830s) – TDD (test-driven development)
