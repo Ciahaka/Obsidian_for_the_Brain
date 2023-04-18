@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f1c441c63cf786bf",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "ToDo.md"
               }
             }
           }
@@ -164,6 +165,6 @@
   "lastOpenFiles": [
     "Вложения/Pasted image 20230418224335.png",
     "3_JS/Функция/Чистая функция (Pure Function).md",
-    "01_ToDo.md"
+    "ToDo.md"
   ]
 }
