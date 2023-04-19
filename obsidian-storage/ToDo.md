@@ -413,7 +413,8 @@ export type removeTaskActionType = {
 case 'CHANGE-TASK-STATUS':
 ```
 ==Задача==Отправить в reducer  action для удаления тудулиста, задать логику удаления.
-В Switch говори, что если в action пришёл type, то выполни один из case.  'REMOVE-TODOLIST'
+В Switch говори, что если в action пришёл type, то выполни один из case. В частности case 'REMOVE-TODOLIST':
+ В case верни результат фильтрации приходящего в параметрах стейта. А результатом будет новый стейт, состоящий из элементов id которых не равно id пришедшему в action.
 
 [10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тес ты
 [19:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1140s) – тесты для reducer
