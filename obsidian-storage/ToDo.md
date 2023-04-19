@@ -38,7 +38,7 @@ Debugger (как работает editable span) - 58:00
 [[#Что такое reducer и зачем он React-у]]
 [[#Training reducer]]
 [[#Unit tests для training reducer]]
-
+Иммутабельность для редьюсера 26;30
 
 ## 01_02 - TodoList for students
 [Dimich](https://samurai.it-incubator.io/pc/video-content/watch/60b5104ef084890015872dbe)
@@ -428,9 +428,10 @@ case 'CHANGE-TASK-STATUS':
 ==Задача==: отправить в  тренировочный редьюсер все функции обслуживающие стейт тудулистов.
 - ==Добавление тудулиста== PSS: Логику для добавления можно забрать из APP.
 Создай тип для action добавления туду. В типе, помимо type со строковым значением, будет приходить title нового тудулиста.
-Далее создай новый case в  в редьюсере, с типом из type a
+Далее создай новый case в  в редьюсере, соответствующего типа.
+Если в логике удаления тудулиста ты использовал метод filter, который тебе возвращал новый стейт, то для case добавления туду нужно создать копию приходящего стейта и работать уже с ней, чтобы не нарушить правило иммутабельности!
 
-[26:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1590s) – иммутабельность для редьюсера
+
 [30:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1830s) – TDD (test-driven development)
 [38:10](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=2290s) – reducers for todolists
 [40:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=2430s) – тесты для todolist reducers
