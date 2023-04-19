@@ -35,8 +35,9 @@
 Debugger (как работает editable span) - 58:00
 Резюме (рисовалка) - 59:40
 
-
 [[#Что такое reducer и зачем он React-у]]
+[[#Training reducer]]
+[[#Unit tests для training reducer]]
 
 
 ## 01_02 - TodoList for students
@@ -415,9 +416,13 @@ case 'CHANGE-TASK-STATUS':
 ==Задача==Отправить в reducer  action для удаления тудулиста, задать логику удаления.
 В Switch говори, что если в action пришёл type, то выполни один из case. В частности case 'REMOVE-TODOLIST':
  В case верни результат фильтрации приходящего в параметрах стейта. А результатом будет новый стейт, состоящий из элементов id которых не равно id пришедшему в action.
+ 
+#### Unit tests для training reducer 
+Структура теста для редьюсера похожа на обычную структуру любого теста.
+Создай переменную для стартового стейта, значением переменной будет стейт тудулистов.
+Создай переменную для ко
 
-[10:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=600s) – начало. игрушечные тес ты
-[19:00](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1140s) – тесты для reducer
+
 [26:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1590s) – иммутабельность для редьюсера
 [30:30](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=1830s) – TDD (test-driven development)
 [38:10](https://www.youtube.com/watch?v=5AeVQOpvYEA&t=2290s) – reducers for todolists
