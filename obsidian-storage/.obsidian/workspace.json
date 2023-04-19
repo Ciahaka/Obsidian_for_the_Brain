@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "ToDo.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dc2ea9c8b085868",
+  "active": "dbfc49ee28da5498",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "ToDo.md",
     "Вложения/Pasted image 20230418224335.png"
