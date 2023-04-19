@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Функция/Чистая функция (Pure Function).md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "чистая",
+                "query": "eval",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,13 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f1c441c63cf786bf",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDo.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -161,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbfc49ee28da5498",
+  "active": "8dc2ea9c8b085868",
   "lastOpenFiles": [
-    "Вложения/Pasted image 20230418224335.png",
     "3_JS/Функция/Чистая функция (Pure Function).md",
-    "ToDo.md"
+    "ToDo.md",
+    "Вложения/Pasted image 20230418224335.png"
   ]
 }
