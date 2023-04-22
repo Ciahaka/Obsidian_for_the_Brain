@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6a03c2a8f4cde0",
+        "id": "879998e5607f0d23",
         "type": "tabs",
         "children": [
           {
-            "id": "d18c456e16015844",
+            "id": "31e8ef49c87ff250",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_ToDo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_ToDo.md"
+              }
             }
           }
         ],
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d18c456e16015844",
+  "active": "31e8ef49c87ff250",
   "lastOpenFiles": [
     "obsidian help/Якорь в тексте.md",
     "obsidian help/Стилистика readme.md",
@@ -147,7 +155,7 @@
     "Без названия 1.canvas",
     "04_hr Позвонит.md",
     "Без названия 2.canvas",
-    "ToDo.md",
+    "01_ToDo.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "Вложения/Pasted image 20230418224335.png"
   ]
