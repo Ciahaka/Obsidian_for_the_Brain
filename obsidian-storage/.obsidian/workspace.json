@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2dc0e66d7ff4a1f9",
+        "id": "dd6a03c2a8f4cde0",
         "type": "tabs",
         "children": [
           {
-            "id": "8dc2ea9c8b085868",
+            "id": "d18c456e16015844",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian help/Якорь в тексте.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian help/Якорь в тексте.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian help/Якорь в тексте.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "obsidian help/Якорь в тексте.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dc2ea9c8b085868",
+  "active": "d18c456e16015844",
   "lastOpenFiles": [
+    "obsidian help/Якорь в тексте.md",
     "obsidian help/Стилистика readme.md",
     "obsidian help/Синронизация с git.md",
     "Обертка addTask.md",
