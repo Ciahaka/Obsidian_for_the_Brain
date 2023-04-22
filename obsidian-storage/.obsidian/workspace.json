@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b617679cbe3dbf25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Test/Тестирование ПО.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "5_Test/Тестирование ПО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "5_Test/Тестирование ПО.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "5_Test/Тестирование ПО.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31e8ef49c87ff250",
+  "active": "b617679cbe3dbf25",
   "lastOpenFiles": [
+    "01_ToDo.md",
     "obsidian help/Якорь в тексте.md",
     "obsidian help/Стилистика readme.md",
     "obsidian help/Синронизация с git.md",
@@ -155,7 +169,6 @@
     "Без названия 1.canvas",
     "04_hr Позвонит.md",
     "Без названия 2.canvas",
-    "01_ToDo.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "Вложения/Pasted image 20230418224335.png"
   ]
