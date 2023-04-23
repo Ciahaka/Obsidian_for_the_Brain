@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_Test/Тестирование ПО.md",
+                "file": "4_React/Хук.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eval",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5_Test/Тестирование ПО.md",
+                "file": "4_React/Хук.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5_Test/Тестирование ПО.md",
+                "file": "4_React/Хук.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5_Test/Тестирование ПО.md"
+                "file": "4_React/Хук.md"
               }
             }
           }
@@ -161,6 +162,9 @@
   },
   "active": "b617679cbe3dbf25",
   "lastOpenFiles": [
+    "4_React/1.React.md",
+    "4_React/Хук.md",
+    "5_Test/Тестирование ПО.md",
     "01_ToDo.md",
     "obsidian help/Якорь в тексте.md",
     "obsidian help/Стилистика readme.md",
