@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "01_ToDo.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 250.5
   },
   "right": {
     "id": "f1c441c63cf786bf",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/Хук.md",
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/Хук.md"
+                "file": "01_ToDo.md"
               }
             }
           }
@@ -148,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +162,8 @@
   },
   "active": "b617679cbe3dbf25",
   "lastOpenFiles": [
-    "4_React/1.React.md",
     "4_React/Хук.md",
+    "4_React/1.React.md",
     "5_Test/Тестирование ПО.md",
     "01_ToDo.md",
     "obsidian help/Якорь в тексте.md",
