@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -160,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b617679cbe3dbf25",
+  "active": "31e8ef49c87ff250",
   "lastOpenFiles": [
+    "01_ToDo.md",
     "4_React/Хук.md",
     "4_React/1.React.md",
     "5_Test/Тестирование ПО.md",
-    "01_ToDo.md",
     "obsidian help/Якорь в тексте.md",
     "obsidian help/Стилистика readme.md",
     "obsidian help/Синронизация с git.md",
