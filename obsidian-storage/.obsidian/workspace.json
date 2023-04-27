@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "def",
+                "query": "documen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
