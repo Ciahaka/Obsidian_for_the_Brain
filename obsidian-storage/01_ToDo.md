@@ -461,7 +461,18 @@ case 'CHANGE-TASK-STATUS':
 **50:03** - initialState   
 **55:49** - useDispatch react-redux   
 **57:05** - useSelector react-redux   
-**1:15:03** - задание for Advanced Level
+**1:15:03** - задание for Advanced 
+
+## 11 - Todolist for student (useCallback, React.memo, immutability)
+
+**14:08** - почему происходит глюк с перерисовкой   
+**22:20** - избавление от лишних просчетов при перерисовке V-dom   
+**23:47** - RectMemo   
+**32:53** - почему перерисовка компоненты App перерисовывает другие компоненты   
+**35:03** - избавляемся от лишней перерисовки колбэка с помощью useCallback   
+**53:49** - простая концепция про useCallback и React.memo   
+**1:00:01** - про иммутабильность   
+**1:06:32** - второй параметр в useCallback зависимости
 
 Удаление тасок
 #Удаление_тасок
