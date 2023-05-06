@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "documen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "f1c441c63cf786bf",
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "01_ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "01_ToDo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "01_ToDo.md"
               }
             }
           }
@@ -160,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ed03d8af33cbd2",
+  "active": "b617679cbe3dbf25",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
     "01_ToDo.md",
     "4_React/Хук.md",
     "4_React/1.React.md",
@@ -171,7 +174,6 @@
     "obsidian help/Синронизация с git.md",
     "Обертка addTask.md",
     "Без названия 1.canvas",
-    "04_hr Позвонит.md",
     "Без названия 2.canvas",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "Вложения/Pasted image 20230418224335.png"
