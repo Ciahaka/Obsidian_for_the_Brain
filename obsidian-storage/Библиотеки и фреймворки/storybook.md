@@ -10,6 +10,15 @@ Storybook поднимает свой независимый сервер. и м
     .stories.tsx
 По умолчанию, в файле package.json, в scripts установлены нужные нам св-ва, но лучше перепроверить
     ![[Pasted image 20221127004220.png]]
+Заменить
+```js
+"storybook": "start-storybook -p 6006 -s public",
+```
+на
+```tsx
+"storybook": "start-storybook -p 9009"
+```
+
 Так же не помешает зайти в папку main
 ![[Pasted image 20221127004344.png]] 
 И проверить установлены ли нужные нам расширения (tsx)
