@@ -18,11 +18,11 @@ Storybook поднимает свой независимый сервер. и м
     ![[Pasted image 20221127004220.png]]
 Заменить
 ```js
-"storybook": "start-storybook -p 6006 -s public",
+"storybook": "storybook dev -p 6006",
 ```
 на
 ```tsx
-"storybook": "start-storybook -p 9009"
+"storybook": "storybook dev -p 9009"
 ```
 
 Так же не помешает зайти в папку main
