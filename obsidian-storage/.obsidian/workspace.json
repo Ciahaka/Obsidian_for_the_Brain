@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Библиотеки и фреймворки/storybook.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "story",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "f1c441c63cf786bf",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Библиотеки и фреймворки/storybook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Библиотеки и фреймворки/storybook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "Библиотеки и фреймворки/storybook.md"
               }
             }
           }
@@ -164,8 +163,8 @@
   },
   "active": "b617679cbe3dbf25",
   "lastOpenFiles": [
-    "04_hr Позвонит.md",
     "01_ToDo.md",
+    "04_hr Позвонит.md",
     "4_React/Хук.md",
     "4_React/1.React.md",
     "5_Test/Тестирование ПО.md",
