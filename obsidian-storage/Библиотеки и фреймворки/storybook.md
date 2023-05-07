@@ -2,6 +2,12 @@
 [Dimich](https://www.youtube.com/watch?v=G0qxDMBGjhc&ab_channel=IT-KAMASUTRA)
 [Туториал(english)](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk)
 [Template, bind, ...args](https://youtu.be/B4pmJ2wtjuE)
+
+Обновление совместимостей React и Storybook
+```ts
+yarn upgrade-interactive --latest
+```
+
 Добавляем storybook в новый проект, прописав в консоли команду
     npx sb init
 Storybook поднимает свой независимый сервер. и мы можем одновременно запускать наше приложение как сервере storybook (тестируя и визуализируя там наши компоненты), так и на локальном сервере 3000.
