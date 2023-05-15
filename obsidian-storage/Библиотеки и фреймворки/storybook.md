@@ -2,6 +2,7 @@
 [Dimich](https://www.youtube.com/watch?v=G0qxDMBGjhc&ab_channel=IT-KAMASUTRA)
 [Туториал(english)](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhC-j3x3t9la8-GQJGViDQk)
 [Template, bind, ...args](https://youtu.be/B4pmJ2wtjuE)
+Addons
 
 Обновление совместимостей React и Storybook
 ```ts
@@ -13,7 +14,7 @@ yarn upgrade-interactive --latest
 npx storybook@latest init
 ```
 
-Storybook поднимает свой независимый сервер. и мы можем одновременно запускать наше приложение как сервере storybook (тестируя и визуализируя там наши компоненты), так и на локальном сервере 3000.
+Storybook поднимает свой независимый сервер. и мы можем одновременно запус  кать наше приложение как сервере storybook (тестируя и визуализируя там наши компоненты), так и на локальном сервере 3000.
 По завершению добавления storybook в проект в дереве отобразиться новая папка stories. Можно создавать файлы историй там, или размещать их непосредственно в папках с компонентами.
 Файл истории на проекте с TS создаётся с разрешением 
     .stories.tsx
