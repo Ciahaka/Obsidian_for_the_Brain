@@ -44,16 +44,6 @@
             }
           },
           {
-            "id": "b7bb511d2df7d60c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
             "id": "2f14972ae8fb9652",
             "type": "leaf",
             "state": {
@@ -66,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7bb511d2df7d60c",
+  "active": "3993c18ec1841588",
   "lastOpenFiles": [
     "01_ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
