@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Библиотеки и фреймворки/storybook.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Библиотеки и фреймворки/storybook.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Библиотеки и фреймворки/storybook.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -193,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ed03d8af33cbd2",
+  "active": "31e8ef49c87ff250",
   "lastOpenFiles": [
-    "01_ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
+    "01_ToDo.md",
     "алгоритмы запуска/Storybook.md",
     "5_Test/Тестирование ПО.md",
     "5_Test/Unit test.md",
