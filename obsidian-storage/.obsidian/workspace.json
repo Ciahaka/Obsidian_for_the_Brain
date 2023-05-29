@@ -54,8 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52467faa7785a98d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ed03d8af33cbd2",
+  "active": "52467faa7785a98d",
   "lastOpenFiles": [
     "Библиотеки и фреймворки/storybook.md",
     "01_ToDo.md",
