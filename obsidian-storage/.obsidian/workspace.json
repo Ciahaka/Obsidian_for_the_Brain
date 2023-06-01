@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_ToDo.md",
+                "file": "Mетодологии разработки/Принципы программирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_ToDo.md"
+                "file": "Mетодологии разработки/Принципы программирования.md"
               }
             }
           }
@@ -192,11 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f14972ae8fb9652",
+  "active": "31e8ef49c87ff250",
   "lastOpenFiles": [
+    "3_JS/Патерны программирования JS.md",
     "04_hr Позвонит.md",
-    "Библиотеки и фреймворки/storybook.md",
     "01_ToDo.md",
+    "Библиотеки и фреймворки/storybook.md",
     "алгоритмы запуска/Storybook.md",
     "5_Test/Тестирование ПО.md",
     "5_Test/Unit test.md",
