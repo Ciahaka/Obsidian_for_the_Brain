@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "b7cfed73f7fb5590",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
-          },
-          {
             "id": "b617679cbe3dbf25",
             "type": "leaf",
             "state": {
@@ -65,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7cfed73f7fb5590",
+  "active": "31e8ef49c87ff250",
   "lastOpenFiles": [
     "3_JS/Патерны программирования JS.md",
     "04_hr Позвонит.md",
