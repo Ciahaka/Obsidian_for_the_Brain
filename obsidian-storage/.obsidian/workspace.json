@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mетодологии разработки/Принципы программирования.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docu",
+                "query": "create",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mетодологии разработки/Принципы программирования.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mетодологии разработки/Принципы программирования.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mетодологии разработки/Принципы программирования.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -191,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31e8ef49c87ff250",
+  "active": "33ed03d8af33cbd2",
   "lastOpenFiles": [
+    "Mетодологии разработки/Принципы программирования.md",
     "3_JS/Патерны программирования JS.md",
     "04_hr Позвонит.md",
     "01_ToDo.md",
