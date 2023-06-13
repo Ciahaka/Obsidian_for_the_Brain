@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/EventTarget.addEventListener().md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "create",
+                "query": "addEv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/EventTarget.addEventListener().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/EventTarget.addEventListener().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "3_JS/DOM/EventTarget.addEventListener().md"
               }
             }
           }
@@ -192,11 +192,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ed03d8af33cbd2",
+  "active": "31e8ef49c87ff250",
   "lastOpenFiles": [
+    "3_JS/DOM/EventTarget.md",
+    "02_Native JS_TS.md",
+    "04_hr Позвонит.md",
     "Mетодологии разработки/Принципы программирования.md",
     "3_JS/Патерны программирования JS.md",
-    "04_hr Позвонит.md",
     "01_ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
     "алгоритмы запуска/Storybook.md",
