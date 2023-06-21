@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "4_React/combineReducers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "addEv",
+                "query": "combineReducers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "4_React/combineReducers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "4_React/combineReducers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "4_React/combineReducers.md"
               }
             }
           }
@@ -194,13 +195,13 @@
   },
   "active": "2f14972ae8fb9652",
   "lastOpenFiles": [
+    "04_hr Позвонит.md",
     "01_ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
     "5_Test/Тестирование ПО.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
     "3_JS/DOM/EventTarget.md",
     "02_Native JS_TS.md",
-    "04_hr Позвонит.md",
     "Mетодологии разработки/Принципы программирования.md",
     "3_JS/Патерны программирования JS.md",
     "алгоритмы запуска/Storybook.md",
