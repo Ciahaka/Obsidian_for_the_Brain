@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/combineReducers.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "combineReducers",
+                "query": "методы функ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/combineReducers.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/combineReducers.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/combineReducers.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -195,6 +195,7 @@
   },
   "active": "2f14972ae8fb9652",
   "lastOpenFiles": [
+    "4_React/combineReducers.md",
     "04_hr Позвонит.md",
     "01_ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
