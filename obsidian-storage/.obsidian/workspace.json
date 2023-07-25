@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/stopPropagation().md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "рекурсия",
+                "query": "stop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/stopPropagation().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_hr Позвонит.md",
+                "file": "3_JS/DOM/stopPropagation().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_hr Позвонит.md"
+                "file": "3_JS/DOM/stopPropagation().md"
               }
             }
           }
@@ -193,14 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ed03d8af33cbd2",
+  "active": "2f14972ae8fb9652",
   "lastOpenFiles": [
+    "3_JS/DOM/preventDefault().md",
+    "3_JS/DOM/stopPropagation().md",
+    "3_JS/DOM/currentTarget.md",
+    "3_JS/DOM/EventTarget.addEventListener().md",
     "4_React/combineReducers.md",
     "04_hr Позвонит.md",
     "01_ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
     "5_Test/Тестирование ПО.md",
-    "3_JS/DOM/EventTarget.addEventListener().md",
     "3_JS/DOM/EventTarget.md",
     "02_Native JS_TS.md",
     "Mетодологии разработки/Принципы программирования.md",
