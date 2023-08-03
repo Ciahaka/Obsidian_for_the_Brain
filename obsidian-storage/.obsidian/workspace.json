@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_JS/Функция/Чистая функция (Pure Function).md",
+                "file": "4_React/1.React.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "чистая",
+                "query": "recon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/Функция/Чистая функция (Pure Function).md",
+                "file": "4_React/1.React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/Функция/Чистая функция (Pure Function).md",
+                "file": "4_React/1.React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/Функция/Чистая функция (Pure Function).md"
+                "file": "4_React/1.React.md"
               }
             }
           }
@@ -195,6 +195,7 @@
   },
   "active": "2f14972ae8fb9652",
   "lastOpenFiles": [
+    "3_JS/Функция/Чистая функция (Pure Function).md",
     "4_React/reducer.md",
     "3_JS/DOM/stopPropagation().md",
     "3_JS/DOM/preventDefault().md",
@@ -219,7 +220,6 @@
     "Обертка addTask.md",
     "Без названия 1.canvas",
     "Без названия 2.canvas",
-    "3_JS/Функция/Чистая функция (Pure Function).md",
     "Вложения/Pasted image 20230418224335.png"
   ]
 }
