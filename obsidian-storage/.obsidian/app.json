@@ -1,9 +1,6 @@
 {
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "ru",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "attachmentFolderPath": "Вложения",
   "alwaysUpdateLinks": true,
   "trashOption": "none",
