@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "типы",
+                "query": "цикл",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e37686b72b76184",
+  "active": "33ed03d8af33cbd2",
   "lastOpenFiles": [
     "4_React/Component.md",
     "4_React/1.React.md",
