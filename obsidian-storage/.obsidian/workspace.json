@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "цикл",
+                "query": "хостинг",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_JS/DOM/EventTarget.addEventListener().md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3_JS/DOM/EventTarget.addEventListener().md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3_JS/DOM/EventTarget.addEventListener().md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -205,8 +205,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ed03d8af33cbd2",
+  "active": "9e37686b72b76184",
   "lastOpenFiles": [
+    "3_JS/DOM/EventTarget.addEventListener().md",
     "4_React/Component.md",
     "4_React/1.React.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
@@ -214,7 +215,6 @@
     "3_JS/DOM/stopPropagation().md",
     "3_JS/DOM/preventDefault().md",
     "3_JS/DOM/currentTarget.md",
-    "3_JS/DOM/EventTarget.addEventListener().md",
     "4_React/combineReducers.md",
     "04_hr Позвонит.md",
     "01_ToDo.md",
