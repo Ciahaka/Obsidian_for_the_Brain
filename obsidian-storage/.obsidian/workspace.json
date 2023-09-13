@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "render",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5844725ee6934e45",
+  "active": "33ed03d8af33cbd2",
   "lastOpenFiles": [
     "3_JS/DOM/EventTarget.addEventListener().md",
     "4_React/Component.md",
