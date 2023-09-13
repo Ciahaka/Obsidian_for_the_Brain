@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_React/1.React.md",
+                "file": "04_hr Позвонит.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "хук",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4_React/1.React.md",
+                "file": "04_hr Позвонит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4_React/1.React.md",
+                "file": "04_hr Позвонит.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_React/1.React.md"
+                "file": "04_hr Позвонит.md"
               }
             }
           }
@@ -217,18 +217,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33ed03d8af33cbd2",
+  "active": "5844725ee6934e45",
   "lastOpenFiles": [
+    "4_React/Хук.md",
+    "04_hr Позвонит.md",
+    "4_React/1.React.md",
     "3_JS/DOM/EventTarget.addEventListener().md",
     "4_React/Component.md",
-    "4_React/1.React.md",
     "3_JS/Функция/Чистая функция (Pure Function).md",
     "4_React/reducer.md",
     "3_JS/DOM/stopPropagation().md",
     "3_JS/DOM/preventDefault().md",
     "3_JS/DOM/currentTarget.md",
     "4_React/combineReducers.md",
-    "04_hr Позвонит.md",
     "01_ToDo.md",
     "Библиотеки и фреймворки/storybook.md",
     "5_Test/Тестирование ПО.md",
@@ -238,7 +239,6 @@
     "3_JS/Патерны программирования JS.md",
     "алгоритмы запуска/Storybook.md",
     "5_Test/Unit test.md",
-    "4_React/Хук.md",
     "obsidian help/Якорь в тексте.md",
     "obsidian help/Стилистика readme.md",
     "obsidian help/Синронизация с git.md",
